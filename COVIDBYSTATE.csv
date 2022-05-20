@@ -1,4 +1,4 @@
-Table 1
+
 date,state,death,deathConfirmed,deathIncrease,deathProbable,hospitalized,hospitalizedCumulative,hospitalizedCurrently,hospitalizedIncrease,inIcuCumulative,inIcuCurrently,negative,negativeIncrease,negativeTestsAntibody,negativeTestsPeopleAntibody,negativeTestsViral,onVentilatorCumulative,onVentilatorCurrently,positive,positiveCasesViral,positiveIncrease,positiveScore,positiveTestsAntibody,positiveTestsAntigen,positiveTestsPeopleAntibody,positiveTestsPeopleAntigen,positiveTestsViral,recovered,totalTestEncountersViral,totalTestEncountersViralIncrease,totalTestResults,totalTestResultsIncrease,totalTestsAntibody,totalTestsAntigen,totalTestsPeopleAntibody,totalTestsPeopleAntigen,totalTestsPeopleViral,totalTestsPeopleViralIncrease,totalTestsViral,totalTestsViralIncrease
 2021-03-07,AK,305,,0,,1293,1293,33,0,,,,0,,,1660758,,2,56886,,0,0,,,,,68693,,,0,1731628,0,,,,,,0,1731628,0
 2021-03-07,AL,10148,7963,-1,2185,45976,45976,494,0,2676,,1931711,2087,,,,1515,,499819,392077,408,0,,,,,,295690,,0,2323788,2347,,,119757,,2323788,2347,,0
