@@ -2,30 +2,30 @@ iata,name,city,state,country,latitude,longitude,death
 00M,Thigpen,Bay Springs,MS,USA,0.0,0.0,0.0
 00R,Livingston Municipal,Livingston,TX,USA,0.0,0.0,61.0
 00V,Meadow Lake,Colorado Springs,CO,USA,0.0,0.0,74.0
-01G,Perry-Warsaw,Perry,NY,USA,0.0,0.0,390.0
+01G,Perry-Warsaw,Perry,NY,USA,42.74134667,-78.05208056,390.0
 01J,Hilliard Airpark,Hilliard,FL,USA,0.0,0.0,0.0
 01M,Tishomingo County,Belmont,MS,USA,0.0,0.0,247.0
 02A,Gragg-Wade,Clanton,AL,USA,0.0,0.0,452.0
 02C,Capitol,Brookfield,WI,USA,0.0,0.0,305.0
 02G,Columbiana County,East Liverpool,OH,USA,0.0,0.0,104.0
-03D,Memphis Memorial,Memphis,MO,USA,0.0,0.0,0.0
-04M,Calhoun County,Pittsboro,MS,USA,0.0,0.0,353.0
+03D,Memphis Memorial,Memphis,MO,USA,40.44725889,-92.22696056,0.0
+04M,Calhoun County,Pittsboro,MS,USA,33.93011222,-89.34285194,353.0
 04Y,Hawley Municipal,Hawley,MN,USA,0.0,0.0,189.0
-05C,Griffith-Merrillville,Griffith,IN,USA,0.0,0.0,92.0
+05C,Griffith-Merrillville,Griffith,IN,USA,41.51961917,-87.40109333,92.0
 05F,Gatesville - City/County,Gatesville,TX,USA,0.0,0.0,0.0
 05U,Eureka,Eureka,NV,USA,39.60416667,-116.0050597,384.0
 06A,Moton  Municipal,Tuskegee,AL,USA,0.0,0.0,0.0
-06C,Schaumburg,Chicago/Schaumburg,IL,USA,0.0,0.0,0.0
-06D,Rolla Municipal,Rolla,ND,USA,0.0,0.0,0.0
+06C,Schaumburg,Chicago/Schaumburg,IL,USA,41.98934083,-88.10124278,0.0
+06D,Rolla Municipal,Rolla,ND,USA,48.88434111,-99.62087694,0.0
 06M,Eupora Municipal,Eupora,MS,USA,0.0,0.0,410.0
 06N,Randall,Middletown,NY,USA,41.43156583,-74.39191722,191.0
-06U,Jackpot/Hayden,Jackpot,NV,USA,0.0,0.0,0.0
+06U,Jackpot/Hayden,Jackpot,NV,USA,41.97602222,-114.6580911,0.0
 07C,Dekalb County,Auburn,IN,USA,0.0,0.0,0.0
 07F,Gladewater Municipal,Gladewater,TX,USA,0.0,0.0,0.0
-07G,Fitch H Beach,Charlotte,MI,USA,0.0,0.0,0.0
-07K,Central City Municipal,Central City,NE,USA,0.0,0.0,340.0
+07G,Fitch H Beach,Charlotte,MI,USA,42.57450861,-84.81143139,0.0
+07K,Central City Municipal,Central City,NE,USA,41.11668056,-98.05033639,340.0
 08A,Wetumpka Municipal,Wetumpka,AL,USA,0.0,0.0,95.0
-08D,Stanley Municipal,Stanley,ND,USA,0.0,0.0,473.0
+08D,Stanley Municipal,Stanley,ND,USA,48.30079861,-102.4063514,473.0
 08K,Harvard State,Harvard,NE,USA,0.0,0.0,470.0
 08M,Carthage-Leake County,Carthage,MS,USA,0.0,0.0,488.0
 09A,Butler-Choctaw County,Butler,AL,USA,0.0,0.0,0.0
@@ -33,7 +33,7 @@ iata,name,city,state,country,latitude,longitude,death
 09K,Sargent Municipal,Sargent,NE,USA,0.0,0.0,409.0
 09M,Charleston Municipal,Charleston,MS,USA,0.0,0.0,155.0
 09W,South Capitol Street,Washington,DC,USA,0.0,0.0,276.0
-0A3,Smithville Municipal,Smithville,TN,USA,0.0,0.0,0.0
+0A3,Smithville Municipal,Smithville,TN,USA,35.98531194,-85.80931806,0.0
 0A8,Bibb County,Centreville,AL,USA,0.0,0.0,0.0
 0A9,Elizabethton Municipal,Elizabethton,TN,USA,0.0,0.0,60.0
 0AK,Pilot Station,Pilot Station,AK,USA,61.93396417,-162.8929358,167.0
@@ -45,9 +45,9 @@ iata,name,city,state,country,latitude,longitude,death
 0C0,Dacy,Chicago/Harvard,IL,USA,0.0,0.0,0.0
 0C4,Pender Municipal,Pender,NE,USA,0.0,0.0,360.0
 0D1,South Haven Municipal,South Haven,MI,USA,0.0,0.0,0.0
-0D8,Gettysburg Municipal,Gettysburg,SD,USA,0.0,0.0,0.0
+0D8,Gettysburg Municipal,Gettysburg,SD,USA,44.98730556,-99.9535,0.0
 0E0,Moriarty,Moriarty,NM,USA,0.0,0.0,0.0
-0E8,Crownpoint,Crownpoint,NM,USA,0.0,0.0,0.0
+0E8,Crownpoint,Crownpoint,NM,USA,35.71765889,-108.2015961,0.0
 0F2,Bowie Municipal,Bowie,TX,USA,0.0,0.0,150.0
 0F4,Loup City Municipal,Loup City,NE,USA,0.0,0.0,285.0
 0F7,Fountainhead Lodge Airpark,Eufaula,OK,USA,0.0,0.0,348.0
@@ -55,14 +55,14 @@ iata,name,city,state,country,latitude,longitude,death
 0F9,Tishomingo Airpark,Tishomingo,OK,USA,0.0,0.0,0.0
 0G0,North Buffalo Suburban,Lockport,NY,USA,0.0,0.0,0.0
 0G3,Tecumseh Municipal,Tecumseh,NE,USA,0.0,0.0,115.0
-0G6,Williams County,Bryan,OH,USA,0.0,0.0,0.0
+0G6,Williams County,Bryan,OH,USA,41.46736111,-84.50655556,0.0
 0G7,Finger Lakes Regional,Seneca Falls,NY,USA,0.0,0.0,0.0
 0H1,Trego Wakeeney,Wakeeney,KS,USA,0.0,0.0,0.0
 0I8,Cynthiana-Harrison County,Cynthiana,KY,USA,0.0,0.0,112.0
 0J0,Abbeville Municipal,Abbeville,AL,USA,0.0,0.0,0.0
 0J4,Florala Municipal,Florala,AL,USA,0.0,0.0,0.0
 0J6,Headland Municipal,Headland,AL,USA,0.0,0.0,230.0
-0K7,Humboldt Municipal,Humboldt,IA,USA,0.0,0.0,0.0
+0K7,Humboldt Municipal,Humboldt,IA,USA,42.7360825,-94.24524167,0.0
 0L5,Goldfield,Goldfield,NV,USA,37.71798833,-117.2384119,381.0
 0L7,Jean,Jean,NV,USA,35.76827222,-115.3296378,160.0
 0L9,Echo Bay,Overton,NV,USA,0.0,0.0,0.0
@@ -79,7 +79,7 @@ iata,name,city,state,country,latitude,longitude,death
 0Q6,Shingletown,Shingletown,CA,USA,40.52210111,-121.8177683,371.0
 0R0,Columbia-Marion County,Columbia,MS,USA,0.0,0.0,59.0
 0R1,Atmore Municipal,Atmore,AL,USA,0.0,0.0,315.0
-0R3,Abbeville Chris Crusta Memorial,Abbeville,LA,USA,0.0,0.0,0.0
+0R3,Abbeville Chris Crusta Memorial,Abbeville,LA,USA,29.97576083,-92.08415167,0.0
 0R4,Concordia Parish,Vidalia,LA,USA,0.0,0.0,0.0
 0R5,David G Joyce,Winnfield,LA,USA,0.0,0.0,463.0
 0R7,Red River,Coushatta,LA,USA,0.0,0.0,471.0
@@ -99,19 +99,19 @@ iata,name,city,state,country,latitude,longitude,death
 11D,Clarion Cty,Clarion,PA,USA,0.0,0.0,0.0
 11IS,Schaumburg Heliport,Chicago/Schaumburg,IL,USA,0.0,0.0,0.0
 11J,Early County,Blakely,GA,USA,0.0,0.0,381.0
-11R,Brenham Municipal,Brenham,TX,USA,0.0,0.0,0.0
+11R,Brenham Municipal,Brenham,TX,USA,30.219,-96.37427778,0.0
 12C,Rochelle Municipal,Rochelle,IL,USA,0.0,0.0,102.0
 12D,Tower Municipal,Tower,MN,USA,0.0,0.0,0.0
-12J,Brewton Municipal,Brewton,AL,USA,0.0,0.0,0.0
+12J,Brewton Municipal,Brewton,AL,USA,31.05126306,-87.06796833,0.0
 12K,Superior Municipal,Superior,NE,USA,0.0,0.0,0.0
-12Y,Le Sueur Municipal,Le Sueur,MN,USA,0.0,0.0,213.0
+12Y,Le Sueur Municipal,Le Sueur,MN,USA,44.43746472,-93.91274083,213.0
 13C,Lakeview,Lakeview,MI,USA,0.0,0.0,0.0
 13K,Eureka Municipal,Eureka,KS,USA,0.0,0.0,26.0
 13N,Trinca,Andover,NJ,USA,40.96676444,-74.78016556,225.0
 14J,Carl Folsom,Elba,AL,USA,0.0,0.0,308.0
 14M,Hollandale Municipal,Hollandale,MS,USA,0.0,0.0,220.0
 14Y,Todd Field,Long Prairie,MN,USA,0.0,0.0,0.0
-15F,Haskell Municipal,Haskell,TX,USA,0.0,0.0,241.0
+15F,Haskell Municipal,Haskell,TX,USA,33.19155556,-99.71793056,241.0
 15J,Cook County,Adel,GA,USA,0.0,0.0,0.0
 15M,Luka,Luka,MS,USA,0.0,0.0,316.0
 15Z,McCarthy 2,McCarthy,AK,USA,61.43706083,-142.9037372,207.0
@@ -131,7 +131,7 @@ iata,name,city,state,country,latitude,longitude,death
 19M,C A Moore,Lexington,MS,USA,0.0,0.0,0.0
 19N,Camden,Berlin,NJ,USA,39.77842056,-74.94780389,407.0
 19P,Port Protection SPB,Port Protection,AK,USA,56.32880417,-133.6100844,332.0
-1A3,Martin Campbell,Copperhill,TN,USA,0.0,0.0,0.0
+1A3,Martin Campbell,Copperhill,TN,USA,35.01619111,-84.34631083,0.0
 1A5,Macon County,Franklin,NC,USA,0.0,0.0,199.0
 1A6,Middlesboro-Bell County,Middlesboro,KY,USA,0.0,0.0,0.0
 1A7,Jackson County,Gainesboro,TN,USA,0.0,0.0,0.0
@@ -141,20 +141,20 @@ iata,name,city,state,country,latitude,longitude,death
 1B3,Fair Haven,Fair Haven,VT,USA,43.61534389,-73.27455556,465.0
 1B9,Mansfield Municipal,Mansfield,MA,USA,42.00013306,-71.19677139,450.0
 1C5,Clow,Chicago/Plainfield,IL,USA,0.0,0.0,32.0
-1D1,Milbank Municipal,Milbank,SD,USA,0.0,0.0,0.0
+1D1,Milbank Municipal,Milbank,SD,USA,45.23053806,-96.56596556,0.0
 1D2,Canton -Plymouth -  Mettetal,Plymouth,MI,USA,0.0,0.0,261.0
 1D3,Platte Municipal,Platte,SD,USA,0.0,0.0,0.0
 1D6,Hector Municipal,Hector,MN,USA,0.0,0.0,142.0
 1D7,Webster Municipal,Webster,SD,USA,0.0,0.0,0.0
-1D8,Redfield Municipal,Redfield,SD,USA,0.0,0.0,457.0
+1D8,Redfield Municipal,Redfield,SD,USA,44.86247611,-98.52953972,457.0
 1F0,Downtown Ardmore,Ardmore,OK,USA,0.0,0.0,425.0
 1F1,Lake Murray State Park,Overbrook,OK,USA,0.0,0.0,404.0
 1F4,Madill Municipal,Madill,OK,USA,0.0,0.0,0.0
 1F9,Bridgeport Municipal,Bridgeport,TX,USA,0.0,0.0,37.0
-1G0,Wood County,Bowling Green,OH,USA,0.0,0.0,0.0
-1G3,Kent State University,Kent,OH,USA,0.0,0.0,0.0
+1G0,Wood County,Bowling Green,OH,USA,41.391,-83.63013889,0.0
+1G3,Kent State University,Kent,OH,USA,41.15186167,-81.41658306,0.0
 1G4,Grand Canyon West,Peach Springs,AZ,USA,0.0,0.0,0.0
-1G5,Freedom,Medina,OH,USA,0.0,0.0,42.0
+1G5,Freedom,Medina,OH,USA,41.13144444,-81.76491667,42.0
 1G6,Michael,Cicero,NY,USA,0.0,0.0,0.0
 1H0,Creve Coeur,St Louis,MO,USA,0.0,0.0,290.0
 1H2,Effingham County Memorial,Effingham,IL,USA,0.0,0.0,0.0
@@ -163,25 +163,25 @@ iata,name,city,state,country,latitude,longitude,death
 1I5,Freehold,Freehold,NY,USA,42.36425,-74.06596806,123.0
 1I9,Delphi Municipal,Delphi,IN,USA,0.0,0.0,0.0
 1J0,Tri-County,Bonifay,FL,USA,0.0,0.0,0.0
-1K2,Lindsay Municipal,Lindsay,OK,USA,0.0,0.0,136.0
-1K4,David J. Perry,Goldsby,OK,USA,0.0,0.0,0.0
+1K2,Lindsay Municipal,Lindsay,OK,USA,34.85007333,-97.58642028,136.0
+1K4,David J. Perry,Goldsby,OK,USA,35.1550675,-97.47039389,0.0
 1K5,Waynoka Municipal,Waynoka,OK,USA,0.0,0.0,0.0
 1K9,Satanta Municipal,Satanta,KS,USA,0.0,0.0,0.0
 1L0,St. John the Baptist Parish,Reserve,LA,USA,0.0,0.0,76.0
-1L1,Lincoln Co,Panaca,NV,USA,0.0,0.0,0.0
-1L7,Escalante Municipal,Escalante,UT,USA,0.0,0.0,24.0
-1L9,Parowan,Parowan,UT,USA,0.0,0.0,345.0
+1L1,Lincoln Co,Panaca,NV,USA,37.78746444,-114.4216567,0.0
+1L7,Escalante Municipal,Escalante,UT,USA,37.74532639,-111.5701653,24.0
+1L9,Parowan,Parowan,UT,USA,37.85969694,-112.816055,345.0
 1M1,North Little Rock Municipal,No Lit Rock,AR,USA,0.0,0.0,0.0
 1M2,Belzoni Municipal,Belzoni,MS,USA,0.0,0.0,225.0
-1M4,Posey,Haleyville,AL,USA,0.0,0.0,0.0
+1M4,Posey,Haleyville,AL,USA,34.28034806,-87.60044139,0.0
 1M5,Portland Municipal,Portland,TN,USA,0.0,0.0,0.0
 1M7,Fulton,Fulton,KY,USA,0.0,0.0,0.0
-1MO,Mountain Grove Memorial,Mountain Grove,MO,USA,0.0,0.0,364.0
+1MO,Mountain Grove Memorial,Mountain Grove,MO,USA,37.12071889,-92.311245,364.0
 1N2,Spadaro,East Moriches,NY,USA,40.82787639,-72.74871083,301.0
 1N4,Woodbine Muni,Woodbine,NJ,USA,39.21915,-74.794765,262.0
 1N7,Blairstown,Blairstown,NJ,USA,40.97114556,-74.99747556,154.0
 1N9,Allentown Queen City Muni,Allentown,PA,USA,0.0,0.0,365.0
-1ND3,Hamry,Kindred,ND,USA,0.0,0.0,0.0
+1ND3,Hamry,Kindred,ND,USA,46.6485775,-97.00564306,0.0
 1O1,Grandfield Municipal,Grandfield,OK,USA,0.0,0.0,200.0
 1O2,Lampson,Lakeport,CA,USA,38.99017472,-122.8997175,458.0
 1O3,Lodi,Lodi,CA,USA,38.20241667,-121.2684167,24.0
@@ -195,10 +195,10 @@ iata,name,city,state,country,latitude,longitude,death
 1S5,Sunnyside Municipal,Sunnyside,WA,USA,46.32763139,-119.9705964,394.0
 1S6,Priest River Muni,Priest River,ID,USA,48.19018611,-116.9093644,290.0
 1U7,Bear Lake County,Paris,ID,USA,0.0,0.0,0.0
-1V0,Navajo State Park,Navajo Dam,NM,USA,0.0,0.0,364.0
+1V0,Navajo State Park,Navajo Dam,NM,USA,36.80833833,-107.6514444,364.0
 1V2,Grant County,Hyannis,NE,USA,0.0,0.0,0.0
 1V5,Boulder Muni,Boulder,CO,USA,0.0,0.0,359.0
-1V6,Fremont County,Canon City,CO,USA,0.0,0.0,0.0
+1V6,Fremont County,Canon City,CO,USA,38.42838111,-105.1054994,0.0
 1V9,Blake,Delta,CO,USA,0.0,0.0,0.0
 20A,Robbins,Oneonta,AL,USA,0.0,0.0,0.0
 20M,Macon Municipal,Macon,MS,USA,0.0,0.0,151.0
@@ -215,7 +215,7 @@ iata,name,city,state,country,latitude,longitude,death
 23M,Clarke County,Quitman,MS,USA,0.0,0.0,277.0
 23N,Bayport Aerodrome,Bayport,NY,USA,40.75843139,-73.05372083,247.0
 23R,Devine Municipal,Devine,TX,USA,0.0,0.0,0.0
-24A,Jackson County,Sylva,NC,USA,0.0,0.0,317.0
+24A,Jackson County,Sylva,NC,USA,35.3168625,-83.20936806,317.0
 24J,Suwannee County,Live Oak,FL,USA,0.0,0.0,0.0
 24N,Jicarilla Apache Nation,Dulce,NM,USA,0.0,0.0,0.0
 25J,Cuthbert-Randolph,Cuthbert,GA,USA,0.0,0.0,0.0
@@ -226,15 +226,15 @@ iata,name,city,state,country,latitude,longitude,death
 26R,Jackson County,Edna/Ganado,TX,USA,0.0,0.0,0.0
 26U,McDermitt State,McDermitt,OR,USA,42.00211083,-117.7231972,274.0
 27A,Elbert County-Patz,Elberton,GA,USA,0.0,0.0,483.0
-27D,Myers,Canby,MN,USA,0.0,0.0,0.0
+27D,Myers,Canby,MN,USA,44.72801889,-96.26309972,0.0
 27J,Newberry Municipal,Newberry,SC,USA,0.0,0.0,0.0
-27K,Georgetown-Scott County,Georgetown,KY,USA,0.0,0.0,308.0
+27K,Georgetown-Scott County,Georgetown,KY,USA,38.23442528,-84.43468667,308.0
 28J,Kay Larkin,Palatka,FL,USA,0.0,0.0,0.0
-29D,Grove City,Grove City,PA,USA,0.0,0.0,374.0
+29D,Grove City,Grove City,PA,USA,41.14597611,-80.16592194,374.0
 29G,Portage County,Ravenna,OH,USA,0.0,0.0,0.0
 29S,Gardiner,Gardiner,MT,USA,0.0,0.0,0.0
-2A0,Mark Anton,Dayton,TN,USA,0.0,0.0,182.0
-2A1,Jamestown Municipal,Jamestown,TN,USA,0.0,0.0,126.0
+2A0,Mark Anton,Dayton,TN,USA,35.48624611,-84.93109722,182.0
+2A1,Jamestown Municipal,Jamestown,TN,USA,36.34970833,-84.94664472,126.0
 2A3,Larsen Bay,Larsen Bay,AK,USA,57.53510667,-153.9784169,427.0
 2A9,Kotlik,Kotlik,AK,USA,63.03116111,-163.5299278,149.0
 2AK,Lime Village,Lime Village,AK,USA,61.35848528,-155.4403508,156.0
@@ -242,32 +242,32 @@ iata,name,city,state,country,latitude,longitude,death
 2B7,Pittsfield Municipal,Pittsfield,ME,USA,44.76852778,-69.37441667,349.0
 2B9,Post Mills,Post Mills,VT,USA,43.884235,-72.25370333,405.0
 2D1,Barber,Alliance,OH,USA,0.0,0.0,207.0
-2D5,Oakes Municipal,Oakes,ND,USA,0.0,0.0,500.0
+2D5,Oakes Municipal,Oakes,ND,USA,46.17301972,-98.07987556,500.0
 2F5,Lamesa Municipal,Lamesa,TX,USA,0.0,0.0,363.0
-2F6,Skiatook Municipal,Skiatook,OK,USA,0.0,0.0,467.0
-2F7,Commerce Municipal,Commerce,TX,USA,0.0,0.0,319.0
+2F6,Skiatook Municipal,Skiatook,OK,USA,36.357035,-96.01138556,467.0
+2F7,Commerce Municipal,Commerce,TX,USA,33.29288889,-95.89641806,319.0
 2F8,Morehouse Memorial,Bastrop,LA,USA,0.0,0.0,328.0
 2G2,Jefferson County Airpark,Steubenville,OH,USA,0.0,0.0,0.0
-2G3,Connellsville,Connellsville,PA,USA,0.0,0.0,236.0
+2G3,Connellsville,Connellsville,PA,USA,39.95893667,-79.65713306,236.0
 2G4,Garrett County,Oakland,MD,USA,0.0,0.0,476.0
 2G9,Somerset County,Somerset,PA,USA,0.0,0.0,54.0
-2H0,Shelby County,Shelbyville,IL,USA,0.0,0.0,0.0
+2H0,Shelby County,Shelbyville,IL,USA,39.41042861,-88.8454325,0.0
 2H2,Aurora Memorial Municipal,Aurora,MO,USA,0.0,0.0,0.0
-2I0,Madisonville Municipal,Madisonville,KY,USA,0.0,0.0,0.0
+2I0,Madisonville Municipal,Madisonville,KY,USA,37.35502778,-87.39963889,0.0
 2I5,Chanute,Rantoul,IL,USA,0.0,0.0,0.0
 2IS,Airglades,Clewiston,FL,USA,0.0,0.0,0.0
 2J2,Liberty County,Hinesville,GA,USA,0.0,0.0,0.0
 2J3,Louisville Municipal,Louisville,GA,USA,0.0,0.0,183.0
-2J5,Millen,Millen,GA,USA,0.0,0.0,311.0
+2J5,Millen,Millen,GA,USA,32.89376972,-81.96511583,311.0
 2J9,Quincy Municipal,Quincy,FL,USA,0.0,0.0,0.0
-2K3,Stanton County Municipal,Johnson,KS,USA,0.0,0.0,324.0
-2K4,Scott,Mangum,OK,USA,0.0,0.0,2.0
+2K3,Stanton County Municipal,Johnson,KS,USA,37.58271111,-101.73281,324.0
+2K4,Scott,Mangum,OK,USA,34.89172583,-99.52675667,2.0
 2K5,Telida,Telida,AK,USA,63.39387278,-153.2689733,368.0
 2M0,Princeton-Caldwell County,Princeton,KY,USA,0.0,0.0,0.0
 2M2,Lawrenceburg Municipal,Lawrenceburg,TN,USA,0.0,0.0,170.0
-2M3,Sallisaw Municipal,Sallisaw,OK,USA,0.0,0.0,459.0
+2M3,Sallisaw Municipal,Sallisaw,OK,USA,35.43816667,-94.80277778,459.0
 2M4,G. V. Montgomery,Forest,MS,USA,0.0,0.0,322.0
-2M8,Charles W. Baker,Millington,TN,USA,0.0,0.0,21.0
+2M8,Charles W. Baker,Millington,TN,USA,35.27897583,-89.93147611,21.0
 2O1,Gansner,Quincy,CA,USA,39.94378056,-120.9468983,357.0
 2O3,Angwin-Parrett,Angwin,CA,USA,38.57851778,-122.4352572,177.0
 2O6,Chowchilla,Chowchilla,CA,USA,37.11244417,-120.2468406,81.0
@@ -283,12 +283,12 @@ iata,name,city,state,country,latitude,longitude,death
 2S6,Sportsman Airpark,Newberg,OR,USA,45.29567333,-122.9553783,15.0
 2S7,Chiloquin State,Chiloquin,OR,USA,42.58319167,-121.8761261,266.0
 2S8,Wilbur,Wilbur,WA,USA,47.75320639,-118.7438936,199.0
-2T1,Muleshoe Municipal,Muleshoe,TX,USA,0.0,0.0,0.0
-2V1,Stevens,Pagosa Springs,CO,USA,0.0,0.0,0.0
+2T1,Muleshoe Municipal,Muleshoe,TX,USA,34.18513639,-102.6410981,0.0
+2V1,Stevens,Pagosa Springs,CO,USA,37.277505,-107.0558742,0.0
 2V2,Vance Brand,Longmont,CO,USA,0.0,0.0,153.0
 2V5,Wray Municipal,Wray,CO,USA,0.0,0.0,0.0
 2V6,Yuma Municipal,Yuma,CO,USA,0.0,0.0,282.0
-2W5,Maryland,Indian Head,MD,USA,0.0,0.0,280.0
+2W5,Maryland,Indian Head,MD,USA,38.60053667,-77.07296917,280.0
 2W6,Captain Walter Francis Duke Regional,Leonardtown,MD,USA,0.0,0.0,0.0
 2Y3,Yakutat SPB,Yakutat,AK,USA,59.5624775,-139.7410994,437.0
 2Y4,Rockwell City Municipal,Rockwell City,IA,USA,0.0,0.0,0.0
@@ -303,50 +303,50 @@ iata,name,city,state,country,latitude,longitude,death
 35A,"Union County, Troy Shelton",Union,SC,USA,0.0,0.0,0.0
 35D,Padgham,Allegan,MI,USA,0.0,0.0,0.0
 35S,Wasco State,Wasco,OR,USA,45.58944444,-120.6741667,36.0
-36K,Lakin,Lakin,KS,USA,0.0,0.0,301.0
+36K,Lakin,Lakin,KS,USA,37.96946389,-101.2554472,301.0
 36S,Happy Camp,Happy Camp,CA,USA,41.79067944,-123.3889444,322.0
 36U,Heber City Municipal/Russ McDonald,Heber,UT,USA,0.0,0.0,25.0
 37T,Calico Rock-Izard County,Calico Rock,AR,USA,0.0,0.0,195.0
 37W,Harnett County,Erwin,NC,USA,0.0,0.0,0.0
 38A,Shaktoolik,Shaktoolik,AK,USA,64.36263194,-161.2025369,347.0
-38S,Deer Lodge-City-County,Deer Lodge,MT,USA,0.0,0.0,0.0
-38U,Wayne Wonderland,Loa,UT,USA,0.0,0.0,358.0
+38S,Deer Lodge-City-County,Deer Lodge,MT,USA,46.38881583,-112.7669842,0.0
+38U,Wayne Wonderland,Loa,UT,USA,38.36247972,-111.5960164,358.0
 39N,Princeton,Princeton,NJ,USA,40.39834833,-74.65760361,191.0
 3A0,Grove Hill Municipal,Grove Hill,AL,USA,0.0,0.0,0.0
 3A1,Folsom,Cullman,AL,USA,0.0,0.0,192.0
-3A2,New Tazewell Municipal,Tazewell,TN,USA,0.0,0.0,166.0
-3A3,Anson County,Wadesboro,NC,USA,0.0,0.0,0.0
+3A2,New Tazewell Municipal,Tazewell,TN,USA,36.41008417,-83.55546167,166.0
+3A3,Anson County,Wadesboro,NC,USA,35.02397611,-80.08127333,0.0
 3AU,Augusta Municipal,Augusta,KS,USA,0.0,0.0,0.0
 3B0,Southbridge Municipal,Southbridge,MA,USA,42.10092806,-72.03840833,414.0
 3B1,Greenville Municipal,Greenville,ME,USA,45.46302778,-69.55161111,431.0
 3B2,Marshfield,Marshfield,MA,USA,42.09824111,-70.67212083,434.0
 3B9,Chester,Chester,CT,USA,41.38390472,-72.50589444,114.0
-3BS,Jack Barstow,Midland,MI,USA,0.0,0.0,0.0
+3BS,Jack Barstow,Midland,MI,USA,43.66291528,-84.261325,0.0
 3CK,Lake In The Hills,Lake In The Hills,IL,USA,0.0,0.0,0.0
 3CM,James Clements Municipal,Bay City,MI,USA,0.0,0.0,0.0
 3CU,Cable Union,Cable,WI,USA,0.0,0.0,48.0
-3D2,Ephraim/Gibraltar,Ephraim,WI,USA,0.0,0.0,121.0
-3D4,Frankfort Dow Memorial,Frankfort,MI,USA,0.0,0.0,0.0
+3D2,Ephraim/Gibraltar,Ephraim,WI,USA,45.13535778,-87.18586556,121.0
+3D4,Frankfort Dow Memorial,Frankfort,MI,USA,44.62506389,-86.20061944,0.0
 3F3,De Soto Parish,Mansfield,LA,USA,0.0,0.0,191.0
 3F4,Vivian,Vivian,LA,USA,0.0,0.0,0.0
-3F7,Jones Memorial,Bristow,OK,USA,0.0,0.0,0.0
+3F7,Jones Memorial,Bristow,OK,USA,35.80685278,-96.42185556,0.0
 3FM,Fremont Municipal,Fremont,MI,USA,0.0,0.0,0.0
 3FU,Faulkton Municipal,Faulkton,SD,USA,0.0,0.0,0.0
-3G3,Wadsworth Municipal,Wadsworth,OH,USA,0.0,0.0,417.0
-3G4,Ashland County,Ashland,OH,USA,0.0,0.0,0.0
+3G3,Wadsworth Municipal,Wadsworth,OH,USA,41.00158222,-81.75513111,417.0
+3G4,Ashland County,Ashland,OH,USA,40.90297222,-82.25563889,0.0
 3G7,Williamson/Sodus,Williamson,NY,USA,0.0,0.0,57.0
 3GM,Grand Haven Memorial Airpark,Grand Haven,MI,USA,0.0,0.0,28.0
 3I2,Mason County,Point Pleasant,WV,USA,0.0,0.0,0.0
-3I7,Phillipsburg,Phillipsburg,OH,USA,0.0,0.0,0.0
-3J1,Ridgeland,Ridgeland,SC,USA,0.0,0.0,486.0
+3I7,Phillipsburg,Phillipsburg,OH,USA,39.91344194,-84.40030889,0.0
+3J1,Ridgeland,Ridgeland,SC,USA,32.49268694,-80.99233028,486.0
 3J7,Greene County Airpark,Greensboro,GA,USA,0.0,0.0,0.0
-3JC,Freeman,Junction City,KS,USA,0.0,0.0,0.0
+3JC,Freeman,Junction City,KS,USA,39.04327556,-96.84328694,0.0
 3K3,Syracuse-Hamilton County Municipal,Syracuse,KS,USA,0.0,0.0,0.0
 3K6,St Louis-Metro East,Troy/Marine/St. Louis,IL,USA,0.0,0.0,0.0
 3K7,Mark Hoard Memorial,Leoti,KS,USA,0.0,0.0,0.0
 3LC,Logan County,Lincoln,IL,USA,0.0,0.0,0.0
 3LF,Litchfield Municipal,Litchfield,IL,USA,0.0,0.0,0.0
-3M7,Lafayette Municipal,Lafayette,TN,USA,0.0,0.0,352.0
+3M7,Lafayette Municipal,Lafayette,TN,USA,36.518375,-86.05828083,352.0
 3M8,North Pickens,Reform,AL,USA,0.0,0.0,0.0
 3M9,Warren Municipal,Warren,AR,USA,0.0,0.0,209.0
 3MY,Mt. Hawley Auxiliary,Peoria,IL,USA,0.0,0.0,464.0
@@ -369,22 +369,22 @@ iata,name,city,state,country,latitude,longitude,death
 3S9,Condon State-Pauling,Condon,OR,USA,45.24651889,-120.1664233,376.0
 3SG,Harry W Browne,Saginaw - H.Browne,MI,USA,0.0,0.0,265.0
 3SQ,St Charles,St Charles,MO,USA,0.0,0.0,70.0
-3T3,Boyceville Municipal,Boyceville,WI,USA,0.0,0.0,0.0
-3T5,Fayette Regional Air Center,La Grange,TX,USA,0.0,0.0,0.0
+3T3,Boyceville Municipal,Boyceville,WI,USA,45.042185,-92.0293475,0.0
+3T5,Fayette Regional Air Center,La Grange,TX,USA,29.90930556,-96.9505,0.0
 3TR,Jerry Tyler Memorial,Niles,MI,USA,0.0,0.0,0.0
 3U3,Bowman,Anaconda,MT,USA,0.0,0.0,395.0
 3U7,Benchmark,Benchmark,MT,USA,0.0,0.0,237.0
 3U8,Big Sandy,Big Sandy,MT,USA,0.0,0.0,0.0
 3V4,Fort Morgan Municipal,Fort Morgan,CO,USA,0.0,0.0,0.0
 3WO,Shawano Municipal,Shawano,WI,USA,0.0,0.0,0.0
-3Y2,George L Scott Municipal,West Union,IA,USA,0.0,0.0,293.0
+3Y2,George L Scott Municipal,West Union,IA,USA,42.98508917,-91.79060417,293.0
 3Y3,Winterset Madison County,Winterset,IA,USA,0.0,0.0,0.0
 3Z9,Haines SPB,Haines,AK,USA,59.23495111,-135.4407181,197.0
 40J,Perry-Foley,Perry,FL,USA,0.0,0.0,31.0
 40N,Chester Cty-G O Carlson,Coatesville,PA,USA,0.0,0.0,401.0
 40U,Manila,Manila,UT,USA,0.0,0.0,0.0
 41U,Manti-Ephraim,Manti,UT,USA,0.0,0.0,235.0
-42A,Melbourne Municipal,Melbourne,AR,USA,0.0,0.0,0.0
+42A,Melbourne Municipal,Melbourne,AR,USA,36.07079222,-91.82914667,0.0
 42C,White Cloud,White Cloud,MI,USA,0.0,0.0,280.0
 42J,Keystone Airpark,Keystone Heights,FL,USA,0.0,0.0,358.0
 42S,Poplar,Poplar,MT,USA,0.0,0.0,0.0
@@ -392,28 +392,28 @@ iata,name,city,state,country,latitude,longitude,death
 44B,Dover/Foxcroft,Dover-Foxcroft,ME,USA,45.18338806,-69.2328225,115.0
 44N,Sky Acres,Millbrook,NY,USA,41.70742861,-73.73802889,143.0
 45J,Rockingham-Hamlet,Rockingham,NC,USA,0.0,0.0,0.0
-45OH,North Bass Island,North Bass Island,OH,USA,0.0,0.0,491.0
+45OH,North Bass Island,North Bass Island,OH,USA,41.71932528,-82.82196917,491.0
 45R,Kountz - Hawthorne,Kountze/Silsbee,TX,USA,0.0,0.0,0.0
 46A,Blairsville,Blairsville,GA,USA,0.0,0.0,0.0
 46D,Carrington Municipal,Carrington,ND,USA,0.0,0.0,0.0
 46N,Sky Park,Red Hook,NY,USA,41.98458333,-73.83596556,33.0
-47A,Cherokee County,Canton,GA,USA,0.0,0.0,0.0
-47J,Cheraw Municipal,Cheraw,SC,USA,0.0,0.0,0.0
+47A,Cherokee County,Canton,GA,USA,34.31058333,-84.42391667,0.0
+47J,Cheraw Municipal,Cheraw,SC,USA,34.71258333,-79.95794444,0.0
 47N,Central Jersey Regional,Manville,NJ,USA,40.52438417,-74.59839194,229.0
-47V,Curtis Municipal,Curtis,NE,USA,0.0,0.0,0.0
+47V,Curtis Municipal,Curtis,NE,USA,40.63750778,-100.4712539,0.0
 48A,Cochran,Cochran,GA,USA,0.0,0.0,448.0
-48D,Clare Municipal,Clare,MI,USA,0.0,0.0,0.0
+48D,Clare Municipal,Clare,MI,USA,43.83111111,-84.74133333,0.0
 48I,Braxton County,Sutton,WV,USA,0.0,0.0,0.0
 48K,Ness City Municipal,Ness City,KS,USA,0.0,0.0,0.0
 48S,Harlem,Harlem,MT,USA,0.0,0.0,437.0
 48V,Tri-County,Erie,CO,USA,0.0,0.0,50.0
-49A,Gilmer County,Ellijay,GA,USA,0.0,0.0,0.0
+49A,Gilmer County,Ellijay,GA,USA,34.62786417,-84.52492889,0.0
 49T,Downtown Heliport,Dallas,TX,USA,0.0,0.0,384.0
 49X,Chemehuevi Valley,Chemehuevi Valley,CA,USA,0.0,0.0,438.0
 49Y,Fillmore County,Preston,MN,USA,0.0,0.0,56.0
 4A2,Atmautluak,Atmautluak,AK,USA,60.86674556,-162.2731389,421.0
 4A4,Cornelius-Moore,Cedartown,GA,USA,0.0,0.0,0.0
-4A5,Marshall-Searcy County,Marshall,AR,USA,0.0,0.0,0.0
+4A5,Marshall-Searcy County,Marshall,AR,USA,35.89893667,-92.65588611,0.0
 4A6,Scottsboro Municipal,Scottsboro,AL,USA,0.0,0.0,345.0
 4A7,Clayton County,Hampton,GA,USA,0.0,0.0,387.0
 4A9,Isbell,Fort Payne,AL,USA,0.0,0.0,0.0
@@ -425,9 +425,9 @@ iata,name,city,state,country,latitude,longitude,death
 4B9,Simsbury Tri-Town,Simsbury,CT,USA,41.91676389,-72.77731778,206.0
 4C8,Albia Municipal,Albia,IA,USA,0.0,0.0,470.0
 4D0,Abrams Municipal,Grandledge,MI,USA,0.0,0.0,0.0
-4D9,Alma Municipal,Alma,NE,USA,0.0,0.0,0.0
+4D9,Alma Municipal,Alma,NE,USA,40.11389972,-99.34565306,0.0
 4F2,Panola County-Sharpe,Carthage,TX,USA,0.0,0.0,187.0
-4F4,Gilmer-Upshur County,Gilmer,TX,USA,0.0,0.0,0.0
+4F4,Gilmer-Upshur County,Gilmer,TX,USA,32.699,-94.94886111,0.0
 4G1,Greenville Muni,Greenville,PA,USA,0.0,0.0,1.0
 4G2,Hamburg Inc.,Hamburg,NY,USA,0.0,0.0,0.0
 4G5,Monroe County,Woodsfield,OH,USA,0.0,0.0,299.0
@@ -440,16 +440,16 @@ iata,name,city,state,country,latitude,longitude,death
 4J1,Brantley County,Nahunta,GA,USA,0.0,0.0,2.0
 4J2,Berrien County,Nashville,GA,USA,0.0,0.0,0.0
 4J5,Quitman-Brooks County,Quitman,GA,USA,0.0,0.0,243.0
-4J6,St Marys,St Marys,GA,USA,0.0,0.0,0.0
+4J6,St Marys,St Marys,GA,USA,30.75468028,-81.55731917,0.0
 4K0,Pedro Bay,Pedro Bay,AK,USA,59.78960972,-154.1238331,459.0
 4K5,Ouzinkie,Ouzinkie,AK,USA,57.92287611,-152.5005111,260.0
 4K6,Bloomfield Municipal,Bloomfield,IA,USA,0.0,0.0,0.0
 4KA,Tununak,Tununak,AK,USA,60.57559667,-165.2731272,39.0
 4M1,Carroll County,Berryville,AR,USA,0.0,0.0,409.0
 4M3,Carlisle Municipal,Carlisle,AR,USA,0.0,0.0,0.0
-4M4,Clinton Municipal,Clinton,AR,USA,0.0,0.0,313.0
+4M4,Clinton Municipal,Clinton,AR,USA,35.59785528,-92.45182472,313.0
 4M7,Russellville-Logan County,Russellville,KY,USA,0.0,0.0,128.0
-4M8,Clarendon Municipal,Clarendon,AR,USA,0.0,0.0,373.0
+4M8,Clarendon Municipal,Clarendon,AR,USA,34.64870694,-91.39457111,373.0
 4M9,Corning Municipal,Corning,AR,USA,0.0,0.0,288.0
 4N1,Greenwood Lake,West Milford,NJ,USA,41.12854806,-74.34584611,362.0
 4O3,Blackwell-Tonkawa Municipal,Blackwell-Tonkawa,OK,USA,0.0,0.0,448.0
@@ -457,10 +457,10 @@ iata,name,city,state,country,latitude,longitude,death
 4O5,Cherokee Municipal,Cherokee,OK,USA,0.0,0.0,0.0
 4PH,Polacca,Polacca,AZ,USA,0.0,0.0,334.0
 4R1,I H Bass Jr Memorial,Lumberton,MS,USA,0.0,0.0,0.0
-4R3,Jackson Municipal,Jackson,AL,USA,0.0,0.0,0.0
+4R3,Jackson Municipal,Jackson,AL,USA,31.47210861,-87.89472083,0.0
 4R4,Fairhope Municipal,Fairhope,AL,USA,0.0,0.0,0.0
 4R5,Madeline Island,La Pointe,WI,USA,0.0,0.0,272.0
-4R7,Eunice,Eunice,LA,USA,0.0,0.0,0.0
+4R7,Eunice,Eunice,LA,USA,30.46628389,-92.42379917,0.0
 4R9,Dauphin Island,Dauphin Island,AL,USA,0.0,0.0,132.0
 4S1,Gold Beach Muni,Gold Beach,OR,USA,42.41344444,-124.4242742,92.0
 4S2,Hood River,Hood River,OR,USA,45.67261833,-121.5364625,35.0
@@ -471,7 +471,7 @@ iata,name,city,state,country,latitude,longitude,death
 4U3,Liberty County,Chester,MT,USA,0.0,0.0,185.0
 4U6,Circle Town County,Circle,MT,USA,0.0,0.0,396.0
 4V0,Rangely,Rangely,CO,USA,0.0,0.0,18.0
-4V1,Johnson,Walsenburg,CO,USA,0.0,0.0,0.0
+4V1,Johnson,Walsenburg,CO,USA,37.69640056,-104.7838747,0.0
 4V9,Antelope County,Neligh,NE,USA,0.0,0.0,0.0
 4W1,Elizabethtown Municipal,Elizabethtown,NC,USA,0.0,0.0,0.0
 4Z4,Holy Cross,Holy Cross,AK,USA,62.18829583,-159.7749503,337.0
@@ -485,8 +485,8 @@ iata,name,city,state,country,latitude,longitude,death
 52A,Madison Municipal,Madison,GA,USA,0.0,0.0,0.0
 52E,Timberon,Timberon,NM,USA,0.0,0.0,486.0
 52J,Lee County,Bishopville,SC,USA,0.0,0.0,0.0
-53A,"Dr. C.P. Savage, Sr.",Montezuma,GA,USA,0.0,0.0,278.0
-53K,Osage City Municipal,Osage City,KS,USA,0.0,0.0,0.0
+53A,"Dr. C.P. Savage, Sr.",Montezuma,GA,USA,32.302,-84.00747222,278.0
+53K,Osage City Municipal,Osage City,KS,USA,38.63334222,-95.80859806,0.0
 54J,Defuniak Springs,Defuniak Springs,FL,USA,0.0,0.0,149.0
 55D,Grayling Army Airfield,Grayling,MI,USA,0.0,0.0,242.0
 55J,Fernandina Beach Municipal,Fernandina Beach,FL,USA,0.0,0.0,210.0
@@ -497,18 +497,18 @@ iata,name,city,state,country,latitude,longitude,death
 57B,Islesboro,Islesboro,ME,USA,44.30285556,-68.91058722,279.0
 57C,East Troy Municipal,East Troy,WI,USA,0.0,0.0,282.0
 59B,Newton,Jackman,ME,USA,45.63199111,-70.24728944,411.0
-5A4,Okolona Mun.-Richard M. Stovall,Okolona,MS,USA,0.0,0.0,0.0
-5A6,Winona-Montgomery County,Winona,MS,USA,0.0,0.0,0.0
+5A4,Okolona Mun.-Richard M. Stovall,Okolona,MS,USA,34.01580528,-88.72618944,0.0
+5A6,Winona-Montgomery County,Winona,MS,USA,33.46540139,-89.72924806,0.0
 5A8,Aleknagik,Aleknagik,AK,USA,59.28256167,-158.6176725,383.0
 5A9,Roosevelt Memorial,Warm Springs,GA,USA,0.0,0.0,0.0
 5B2,Saratoga Cty,Saratoga Springs,NY,USA,43.05126111,-73.86119444,394.0
 5B3,Danielson,Danielson,CT,USA,41.81974056,-71.90096306,410.0
 5B7,Rensselaer Air Park,Troy,NY,USA,42.69091194,-73.57956,462.0
 5CD,Chandalar Shelf,Chandalar Camp,AK,USA,68.06543944,-149.5797392,91.0
-5D3,Owosso Community,Owosso,MI,USA,0.0,0.0,463.0
+5D3,Owosso Community,Owosso,MI,USA,42.99297222,-84.1389125,463.0
 5F1,Post-Garza County Municipal,Post,TX,USA,0.0,0.0,0.0
-5F4,Homer Municipal,Homer,LA,USA,0.0,0.0,0.0
-5G0,Leroy,Le Roy,NY,USA,0.0,0.0,0.0
+5F4,Homer Municipal,Homer,LA,USA,32.78850806,-93.00366083,0.0
+5G0,Leroy,Le Roy,NY,USA,42.98136667,-77.93751389,0.0
 5G7,Bluffton,Bluffton,OH,USA,0.0,0.0,0.0
 5G8,Pittsburgh Boquet Airpark,Jeanette,PA,USA,0.0,0.0,0.0
 5G9,Toledo Suburban,Lambertville,MI,USA,0.0,0.0,0.0
@@ -529,28 +529,28 @@ iata,name,city,state,country,latitude,longitude,death
 5R3,Rusty Allen,Lago Vista,TX,USA,0.0,0.0,0.0
 5R4,Foley Municipal,Foley,AL,USA,0.0,0.0,332.0
 5R5,Wharton Municipal,Wharton,TX,USA,0.0,0.0,0.0
-5R8,De Quincy Industrial Airpark,De Quincy,LA,USA,0.0,0.0,331.0
+5R8,De Quincy Industrial Airpark,De Quincy,LA,USA,30.44117222,-93.47349722,331.0
 5S8,St. Michael,St. Michael,AK,USA,63.49005056,-162.1103692,121.0
-5T5,Hillsboro Municipal,Hillsboro,TX,USA,0.0,0.0,0.0
+5T5,Hillsboro Municipal,Hillsboro,TX,USA,32.08348611,-97.09722722,0.0
 5T6,Dona Ana County  At Santa Teresa,Santa Teresa,NM,USA,0.0,0.0,0.0
 5T9,Maverick County Meml Intl,Eagle Pass,TX,USA,0.0,0.0,104.0
 5TE,Tetlin,Tetlin,AK,USA,63.13382361,-142.5219339,335.0
 5U3,Ennis - Big Sky,Ennis,MT,USA,0.0,0.0,477.0
 5U8,Geraldine,Geraldine,MT,USA,0.0,0.0,27.0
 5V5,Shiprock Airstrip,Shiprock,NM,USA,0.0,0.0,164.0
-5V8,Kadoka Municipal,Kadoka,SD,USA,0.0,0.0,173.0
+5V8,Kadoka Municipal,Kadoka,SD,USA,43.83332611,-101.4970881,173.0
 5W8,Siler City Municipal,Siler City,NC,USA,0.0,0.0,458.0
 5Z1,Juneau Harbor,Juneau,AK,USA,58.29888889,-134.4077778,94.0
 5Z5,Kantishna,Kantishna,AK,USA,63.54171472,-150.9939547,242.0
 60F,Seymour Municipal,Seymour,TX,USA,0.0,0.0,0.0
 60J,Ocean Isle,Ocean Isle Beach,NC,USA,0.0,0.0,0.0
-61A,Camden Municipal,Camden,AL,USA,0.0,0.0,0.0
+61A,Camden Municipal,Camden,AL,USA,31.97987056,-87.33888056,0.0
 61B,Boulder City Municipal,Boulder City,NV,USA,0.0,0.0,248.0
-61C,Fort Atkinson Municipal,Fort Atkinson,WI,USA,0.0,0.0,0.0
+61C,Fort Atkinson Municipal,Fort Atkinson,WI,USA,42.96320278,-88.81762806,0.0
 61J,Portland Downtown Heliport,Portland,OR,USA,45.52527778,-122.6709289,366.0
 61S,Cottage Grove State,Cottage Grove,OR,USA,43.79984528,-123.0289678,436.0
-62D,Warren,Warren,OH,USA,0.0,0.0,17.0
-62H,Giddings-Lee County,Giddings,TX,USA,0.0,0.0,0.0
+62D,Warren,Warren,OH,USA,41.26672278,-80.92897778,17.0
+62H,Giddings-Lee County,Giddings,TX,USA,30.16927167,-96.98001083,0.0
 62S,Christmas Valley,Christmas Valley,OR,USA,43.23653139,-120.6660967,493.0
 63A,Lloyd R. Roundtree Seaplane Facility,Petersburg,AK,USA,56.81131972,-132.9600567,52.0
 63C,Adams County Legion,Adams/Friendship,WI,USA,0.0,0.0,0.0
@@ -563,7 +563,7 @@ iata,name,city,state,country,latitude,longitude,death
 68S,Davenport,Davenport,WA,USA,47.65404528,-118.1677519,53.0
 6A1,Butler Municipal,Butler,GA,USA,0.0,0.0,0.0
 6A2,Griffin-Spaulding County,Griffin,GA,USA,0.0,0.0,0.0
-6A3,Andrews-Murphy,Andrews,NC,USA,0.0,0.0,395.0
+6A3,Andrews-Murphy,Andrews,NC,USA,35.19453167,-83.86490194,395.0
 6A4,Johnson County,Mountain City,TN,USA,0.0,0.0,0.0
 6A8,Allakaket,Allakaket,AK,USA,66.55194444,-152.6222222,267.0
 6B0,Middlebury State,Middlebury,VT,USA,43.98478278,-73.09594889,243.0
@@ -578,19 +578,19 @@ iata,name,city,state,country,latitude,longitude,death
 6G5,Barnesville - Bradfield,Barnesville,OH,USA,0.0,0.0,230.0
 6I2,Lebanon-Springfield,Springfield,KY,USA,0.0,0.0,143.0
 6J0,Corporate,Pelion,SC,USA,0.0,0.0,0.0
-6J2,St George,St George,SC,USA,0.0,0.0,405.0
-6J4,Saluda County,Saluda,SC,USA,0.0,0.0,118.0
+6J2,St George,St George,SC,USA,33.1955,-80.50847222,405.0
+6J4,Saluda County,Saluda,SC,USA,33.92680111,-81.79455306,118.0
 6K3,Creighton Municipal,Creighton,NE,USA,0.0,0.0,0.0
 6K4,Fairview Municipal,Fairview,OK,USA,0.0,0.0,427.0
 6K8,Tok Junction,Tok,AK,USA,63.32881806,-142.9536194,285.0
-6L4,Logan County,Logan,WV,USA,0.0,0.0,350.0
+6L4,Logan County,Logan,WV,USA,37.85567778,-81.91589722,350.0
 6M2,Horseshoe Bend,Horseshoe Bend,AR,USA,0.0,0.0,243.0
 6M6,Lewis County Regional,Monticello,MO,USA,0.0,0.0,474.0
-6M7,Lee County-Marianna,Marianna,AR,USA,0.0,0.0,0.0
+6M7,Lee County-Marianna,Marianna,AR,USA,34.78027778,-90.81055556,0.0
 6M8,Marked Tree Municipal,Marked Tree,AR,USA,0.0,0.0,0.0
 6N5,E 34th St Heliport,New York,NY,USA,40.74260167,-73.97208306,253.0
 6N7,New York Skyports Inc. SPB,New York,NY,USA,40.73399083,-73.97291639,479.0
-6N8,Thomas County,Thedford,NE,USA,0.0,0.0,155.0
+6N8,Thomas County,Thedford,NE,USA,41.96217028,-100.5690139,155.0
 6R3,Cleveland Municipal,Cleveland,TX,USA,0.0,0.0,166.0
 6R7,Old Harbor (New),Old Harbor,AK,USA,57.21810306,-153.2697494,26.0
 6R9,Llano Municipal,Llano,TX,USA,0.0,0.0,343.0
@@ -598,7 +598,7 @@ iata,name,city,state,country,latitude,longitude,death
 6S2,Florence Muni,Florence,OR,USA,43.97901,-124.1095631,193.0
 6S3,Columbus,Columbus,MT,USA,0.0,0.0,41.0
 6S5,Ravalli County,Hamilton,MT,USA,0.0,0.0,0.0
-6S8,Laurel Municipal,Laurel,MT,USA,0.0,0.0,385.0
+6S8,Laurel Municipal,Laurel,MT,USA,45.70308833,-108.7610886,385.0
 6V0,Edgemont Municipal,Edgemont,SD,USA,0.0,0.0,301.0
 6V3,Tazewell County,Richlands,VA,USA,0.0,0.0,45.0
 6V4,Wall Municipal,Wall,SD,USA,0.0,0.0,0.0
@@ -615,33 +615,33 @@ iata,name,city,state,country,latitude,longitude,death
 76G,Marine City,Marine City,MI,USA,0.0,0.0,0.0
 77G,Marlette Township,Marlette,MI,USA,0.0,0.0,0.0
 77S,Hobby,Creswell,OR,USA,43.93206889,-123.0067483,187.0
-78D,Caro Municipal,Caro,MI,USA,0.0,0.0,0.0
-79D,Philippi-Barbour County Regional,Philippi,WV,USA,0.0,0.0,109.0
+78D,Caro Municipal,Caro,MI,USA,43.45908333,-83.44522222,0.0
+79D,Philippi-Barbour County Regional,Philippi,WV,USA,39.16620778,-80.06258056,109.0
 79J,Andalusia,Andalusia,AL,USA,0.0,0.0,0.0
 79S,Fort Benton,Fort Benton,MT,USA,0.0,0.0,85.0
 7A0,Greensboro Municipal,Greensboro,AL,USA,0.0,0.0,100.0
-7A2,Demopolis Municipal,Demopolis,AL,USA,0.0,0.0,0.0
+7A2,Demopolis Municipal,Demopolis,AL,USA,32.46381944,-87.95406389,0.0
 7A3,Lanett Municipal,Lanett,AL,USA,0.0,0.0,417.0
 7A5,Roanoke Municipal,Roanoke,AL,USA,0.0,0.0,0.0
 7A8,Avery County/Morrison,Spruce Pine,NC,USA,0.0,0.0,0.0
 7B2,La Fleur,Northampton,MA,USA,42.32816806,-72.61151667,414.0
-7D2,Troy-Oakland,Troy,MI,USA,0.0,0.0,0.0
+7D2,Troy-Oakland,Troy,MI,USA,42.54294389,-83.17790861,0.0
 7F3,Caddo Mills Municipal,Caddo Mills,TX,USA,0.0,0.0,0.0
 7F6,Clarksville-Red River County,Clarksville,TX,USA,0.0,0.0,88.0
 7F7,Clifton Municipal,Clifton,TX,USA,0.0,0.0,150.0
-7F9,Comanche County-City,Comanche,TX,USA,0.0,0.0,444.0
+7F9,Comanche County-City,Comanche,TX,USA,31.91681306,-98.600325,444.0
 7G0,Ledgedale Airpark,Brockport,NY,USA,0.0,0.0,317.0
 7G8,Geauga County,Middlefield,OH,USA,0.0,0.0,0.0
 7I7,Bellefontaine Municipal,Bellefontaine,OH,USA,0.0,0.0,0.0
-7K0,Pike County-Hatcher,Pikeville,KY,USA,0.0,0.0,137.0
+7K0,Pike County-Hatcher,Pikeville,KY,USA,37.56173889,-82.56660694,137.0
 7K2,Skagway SPB,Skagway,AK,USA,59.44689528,-135.3226633,190.0
 7K4,Ohio County,Hartford,KY,USA,0.0,0.0,491.0
-7K8,Martin,South Sioux City,NE,USA,0.0,0.0,0.0
+7K8,Martin,South Sioux City,NE,USA,42.45416111,-96.47253111,0.0
 7KA,Tatitlek,Tatitlek,AK,USA,60.86890528,-146.6864653,179.0
 7M1,McGehee Municipal,McGehee,AR,USA,0.0,0.0,459.0
 7M3,Bearce,Mount Ida,AR,USA,0.0,0.0,0.0
 7M4,Osceola Municipal,Osceola,AR,USA,0.0,0.0,0.0
-7M5,Ozark-Franklin County,Ozark,AR,USA,0.0,0.0,54.0
+7M5,Ozark-Franklin County,Ozark,AR,USA,35.51069583,-93.8393075,54.0
 7M7,Piggott Municipal,Piggott,AR,USA,0.0,0.0,0.0
 7N0,New Orleans Downtown Heliport,New Orleans,LA,USA,0.0,0.0,0.0
 7N1,Corning-Painted Post,Corning,NY,USA,0.0,0.0,0.0
@@ -651,7 +651,7 @@ iata,name,city,state,country,latitude,longitude,death
 7S5,Independence State,Independence,OR,USA,44.86676444,-123.1982475,287.0
 7S6,White Sulphur Springs,White Sulphur Springs,MT,USA,0.0,0.0,0.0
 7S7,Valier,Valier,MT,USA,0.0,0.0,0.0
-7V1,Buena Vista Muni,Buena Vista,CO,USA,0.0,0.0,87.0
+7V1,Buena Vista Muni,Buena Vista,CO,USA,38.81416194,-106.1206939,87.0
 7V7,Red Cloud Municipal,Red Cloud,NE,USA,0.0,0.0,0.0
 7W6,Hyde County,Englehard,NC,USA,0.0,0.0,470.0
 80F,Antlers Municipal,Antlers,OK,USA,0.0,0.0,0.0
@@ -659,18 +659,18 @@ iata,name,city,state,country,latitude,longitude,death
 82C,Mauston-New Lisbon Union,New Lisbon,WI,USA,0.0,0.0,417.0
 82V,Pine Bluffs Municipal,Pine Bluffs,WY,USA,0.0,0.0,0.0
 83D,Mackinac County,St Ignace,MI,USA,0.0,0.0,338.0
-84D,Cheyenne Eagle Butte,Eagle Butte,SD,USA,0.0,0.0,293.0
+84D,Cheyenne Eagle Butte,Eagle Butte,SD,USA,44.984375,-101.2510417,293.0
 84K,Meyers Chuck SPB,Meyers Chuck,AK,USA,55.73963611,-132.2550183,472.0
 84R,Smithville Municipal,Smithville,TX,USA,0.0,0.0,0.0
 85V,Ganado,Ganado,AZ,USA,0.0,0.0,0.0
 86F,Carnegie Municipal,Carnegie,OK,USA,0.0,0.0,0.0
 87I,Yazoo County,Yazoo City,MS,USA,0.0,0.0,0.0
 87Y,Blackhawk Airfield,Madison,WI,USA,0.0,0.0,90.0
-88C,Palmyra Municipal,Palmyra,WI,USA,0.0,0.0,0.0
+88C,Palmyra Municipal,Palmyra,WI,USA,42.88355556,-88.59743056,0.0
 88J,Allendale County,Allendale,SC,USA,0.0,0.0,171.0
 88M,Eureka,Eureka,MT,USA,48.96885444,-115.0704464,368.0
 89D,Kelleys Island Land,Kelleys Island,OH,USA,0.0,0.0,14.0
-8A0,Albertville Municipal,Albertville,AL,USA,0.0,0.0,59.0
+8A0,Albertville Municipal,Albertville,AL,USA,34.22910972,-86.25575806,59.0
 8A1,Guntersville Municipal,Guntersville,AL,USA,0.0,0.0,389.0
 8A3,Livingston Municipal,Livingston,TN,USA,0.0,0.0,357.0
 8B0,Rangeley Municipal,Rangeley,ME,USA,44.991895,-70.66462472,377.0
@@ -681,23 +681,23 @@ iata,name,city,state,country,latitude,longitude,death
 8D9,Howard Municipal,Howard,SD,USA,0.0,0.0,0.0
 8F7,Decatur Municipal,Decatur,TX,USA,0.0,0.0,378.0
 8G2,Lawrence,Corry,PA,USA,0.0,0.0,0.0
-8G6,Harrison County,Cadiz,OH,USA,0.0,0.0,0.0
+8G6,Harrison County,Cadiz,OH,USA,40.23820667,-81.01256917,0.0
 8G7,Zelienople,Zelienople,PA,USA,0.0,0.0,86.0
 8K8,Cimarron Municipal,Cimarron,KS,USA,0.0,0.0,490.0
 8K9,Murphys Pullout SPB,Ketchikan,AK,USA,55.38965028,-131.7380742,443.0
-8M1,Booneville-Baldwyn,Booneville,MS,USA,0.0,0.0,182.0
+8M1,Booneville-Baldwyn,Booneville,MS,USA,34.58981806,-88.64699861,182.0
 8S1,Polson,Polson,MT,USA,0.0,0.0,0.0
 8S2,Cashmere-Dryden,Cashmere,WA,USA,47.51484611,-120.4848025,465.0
-8S5,East Cooper,Mt Pleasant,SC,USA,0.0,0.0,71.0
+8S5,East Cooper,Mt Pleasant,SC,USA,32.89783333,-79.78286111,71.0
 8U6,Terry,Terry,MT,USA,0.0,0.0,70.0
 8U8,Townsend,Townsend,MT,USA,0.0,0.0,0.0
 8V2,Stuart-Atkinson Municipal,Atkinson,NE,USA,0.0,0.0,369.0
-8Y2,Buffalo Municipal,Buffalo,MN,USA,0.0,0.0,0.0
-91C,Sauk - Prairie,Prairie Du Sac,WI,USA,0.0,0.0,258.0
+8Y2,Buffalo Municipal,Buffalo,MN,USA,45.15904694,-93.84330361,0.0
+91C,Sauk - Prairie,Prairie Du Sac,WI,USA,43.2969325,-89.75595639,258.0
 91F,Arrowhead,Canadian,OK,USA,0.0,0.0,0.0
 93B,Stonington,Stonington,ME,USA,44.17508056,-68.67863722,125.0
-93C,Richland,Richland Center,WI,USA,0.0,0.0,389.0
-93F,Mignon Laird Municipal,Cheyenne,OK,USA,0.0,0.0,0.0
+93C,Richland,Richland Center,WI,USA,43.28333333,-90.29827778,389.0
+93F,Mignon Laird Municipal,Cheyenne,OK,USA,35.60393694,-99.70343889,0.0
 93Y,David City Municipal,David City,NE,USA,0.0,0.0,62.0
 94K,Cassville Municipal,Cassville,MO,USA,0.0,0.0,26.0
 95F,Cleveland Municipal,Cleveland,OK,USA,0.0,0.0,0.0
@@ -710,19 +710,19 @@ iata,name,city,state,country,latitude,longitude,death
 9A1,Covington Municipal,Covington,GA,USA,0.0,0.0,0.0
 9A3,Chuathbaluk,Chuathbaluk,AK,USA,61.58317306,-159.2359667,261.0
 9A4,Lawrence County,Courtland,AL,USA,0.0,0.0,0.0
-9A5,Barwick-LaFayette,LaFayette,GA,USA,0.0,0.0,312.0
+9A5,Barwick-LaFayette,LaFayette,GA,USA,34.68896917,-85.29023333,312.0
 9A6,Chester Municipal,Chester,SC,USA,0.0,0.0,164.0
 9A8,Ugashik,Ugashik,AK,USA,57.5278675,-157.3993056,463.0
-9C8,Evart Municipal,Evart,MI,USA,0.0,0.0,247.0
+9C8,Evart Municipal,Evart,MI,USA,43.8958525,-85.27920861,247.0
 9D0,Highmore Municipal,Highmore,SD,USA,0.0,0.0,0.0
 9D1,Gregory Municipal,Gregory,SD,USA,0.0,0.0,263.0
 9D2,Harding County,Buffalo,SD,USA,0.0,0.0,376.0
 9D7,Cando Municipal,Cando,ND,USA,0.0,0.0,297.0
 9D9,Hastings Municipal,Hastings,MI,USA,0.0,0.0,37.0
 9G0,Buffalo Airfield,Buffalo,NY,USA,0.0,0.0,0.0
-9G1,West Penn,Tarentum,PA,USA,0.0,0.0,483.0
+9G1,West Penn,Tarentum,PA,USA,40.60423333,-79.82060611,483.0
 9G3,Akron,Akron,NY,USA,0.0,0.0,446.0
-9G5,Royalton,Gasport,NY,USA,0.0,0.0,0.0
+9G5,Royalton,Gasport,NY,USA,43.18200222,-78.55780528,0.0
 9G8,Ebensburg,Ebensburg,PA,USA,0.0,0.0,328.0
 9I0,Havana Regional,Havana,IL,USA,0.0,0.0,0.0
 9I3,West Liberty,West Liberty,KY,USA,0.0,0.0,0.0
@@ -732,20 +732,20 @@ iata,name,city,state,country,latitude,longitude,death
 9K8,Kingman Municipal,Kingman,KS,USA,0.0,0.0,292.0
 9M4,Ackerman-Choctaw County,Ackerman,MS,USA,0.0,0.0,0.0
 9M6,Kelly,Oak Grove,LA,USA,0.0,0.0,124.0
-9M8,Sheridan-Grant County Regional,Sheridan,AR,USA,0.0,0.0,0.0
+9M8,Sheridan-Grant County Regional,Sheridan,AR,USA,34.32842917,-92.35098583,0.0
 9S2,Scobey,Scobey,MT,USA,0.0,0.0,475.0
 9S4,Mineral County,Superior,MT,USA,0.0,0.0,247.0
-9S5,Three Forks,Three Forks,MT,USA,0.0,0.0,0.0
+9S5,Three Forks,Three Forks,MT,USA,45.87852778,-111.5691389,0.0
 9S7,Winifred,Winifred,MT,USA,0.0,0.0,4.0
 9S9,Lexington,Lexington,OR,USA,45.45263139,-119.6886361,261.0
-9U0,Turner,Turner,MT,USA,0.0,0.0,0.0
+9U0,Turner,Turner,MT,USA,48.85417361,-108.4090214,0.0
 9U3,Austin,Austin,NV,USA,39.46798056,-117.1953703,62.0
-9U4,Dixon,Dixon,WY,USA,0.0,0.0,0.0
+9U4,Dixon,Dixon,WY,USA,41.03829806,-107.4972869,0.0
 9V5,Modisett,Rushville,NE,USA,0.0,0.0,0.0
 9V6,Martin Municipal,Martin,SD,USA,0.0,0.0,0.0
 9V9,Chamberlain Municipal,Chamberlain,SD,USA,0.0,0.0,358.0
 9W7,Currituck County,Currituck,NC,USA,0.0,0.0,0.0
-A04,Centre Municipal,Centre,AL,USA,0.0,0.0,133.0
+A04,Centre Municipal,Centre,AL,USA,34.15987361,-85.63512944,133.0
 A14,Portage Creek,Portage Creek,AK,USA,58.906485,-157.7141078,483.0
 A29,Sitka SPB,Sitka,AK,USA,57.05213778,-135.3462086,437.0
 A30,Scott Valley,Fort Jones,CA,USA,41.55819444,-122.8553103,160.0
@@ -755,64 +755,64 @@ A63,Twin Hills,Twin Hills,AK,USA,59.07562167,-160.2730436,422.0
 A79,Chignik Lake,Chignik Lake,AK,USA,56.25504722,-158.7753614,249.0
 A85,Kwigillingok,Kwigillingok,AK,USA,59.87644778,-163.1675583,376.0
 AAF,Apalachicola Municipal,Apalachicola,FL,USA,0.0,0.0,3.0
-AAO,Colonel James Jabara,Wichita,KS,USA,0.0,0.0,0.0
+AAO,Colonel James Jabara,Wichita,KS,USA,37.74755556,-97.22113889,0.0
 AAS,Taylor County,Cambellsville,KY,USA,0.0,0.0,0.0
 AAT,Alturas Municipal,Alturas,CA,USA,41.483,-120.5653611,24.0
 ABE,Lehigh Valley International,Allentown,PA,USA,0.0,0.0,0.0
-ABI,Abilene Regional,Abilene,TX,USA,0.0,0.0,426.0
+ABI,Abilene Regional,Abilene,TX,USA,32.41132,-99.68189722,426.0
 ABO,Antonio (Nery) Juarbe Pol,Arecibo,PR,USA,18.45111111,-66.67555556,320.0
 ABQ,Albuquerque International,Albuquerque,NM,USA,0.0,0.0,178.0
 ABR,Aberdeen Regional,Aberdeen,SD,USA,0.0,0.0,0.0
-ABY,Southwest Georgia Regional,Albany,GA,USA,0.0,0.0,0.0
+ABY,Southwest Georgia Regional,Albany,GA,USA,31.535515,-84.19447333,0.0
 ACB,Antrim County,Bellaire,MI,USA,0.0,0.0,0.0
 ACJ,Souther,Americus,GA,USA,0.0,0.0,0.0
 ACK,Nantucket Memorial,Nantucket,MA,USA,41.25305194,-70.06018139,217.0
 ACQ,Waseca Municipal,Waseca,MN,USA,0.0,0.0,333.0
-ACT,Waco Regional,Waco,TX,USA,0.0,0.0,120.0
+ACT,Waco Regional,Waco,TX,USA,31.61128833,-97.23051917,120.0
 ACV,Arcata,Arcata/Eureka,CA,USA,40.97811528,-124.1086189,499.0
 ACY,Atlantic City International,Atlantic City,NJ,USA,39.45758333,-74.57716667,120.0
-ACZ,Henderson,Wallace,NC,USA,0.0,0.0,0.0
+ACZ,Henderson,Wallace,NC,USA,34.71789028,-78.00362444,0.0
 ADC,Wadena Municipal,Wadena,MN,USA,0.0,0.0,0.0
 ADG,Lenawee County,Adrian,MI,USA,0.0,0.0,0.0
 ADH,Ada Municipal,Ada,OK,USA,0.0,0.0,0.0
 ADK,Adak,Adak,AK,USA,51.87796389,-176.6460306,352.0
-ADM,Ardmore Municipal,Ardmore,OK,USA,0.0,0.0,0.0
+ADM,Ardmore Municipal,Ardmore,OK,USA,34.30320667,-97.01952167,0.0
 ADQ,Kodiak,Kodiak,AK,USA,57.74996778,-152.4938553,349.0
 ADS,Addison,Dallas/Addison,TX,USA,0.0,0.0,0.0
 ADT,Atwood-Rawlins County City-County,Atwood,KS,USA,0.0,0.0,362.0
 ADU,Audubon Municipal,Audubon,IA,USA,0.0,0.0,421.0
 AEG,Double Eagle II,Albuquerque,NM,USA,0.0,0.0,0.0
-AEL,Albert Lea Municipal,Albert Lea,MN,USA,0.0,0.0,0.0
+AEL,Albert Lea Municipal,Albert Lea,MN,USA,43.68151278,-93.36723778,0.0
 AEX,Alexandria International,Alexandria,LA,USA,0.0,0.0,0.0
 AFE,Kake,Kake,AK,USA,56.96048139,-133.9082694,128.0
-AFJ,Washington County,Washington,PA,USA,0.0,0.0,0.0
+AFJ,Washington County,Washington,PA,USA,40.13648833,-80.29020083,0.0
 AFK,Nebraska City Municipal,Nebraska City,NE,USA,0.0,0.0,0.0
 AFM,Ambler,Ambler,AK,USA,67.10610472,-157.8536203,5.0
 AFN,Jaffrey Municipal Silver Ranch,Jaffrey,NH,USA,42.80513417,-72.00302194,190.0
 AFO,Afton Municipal,Afton,WY,USA,0.0,0.0,108.0
-AFW,Fort Worth Alliance,Fort Worth,TX,USA,0.0,0.0,0.0
+AFW,Fort Worth Alliance,Fort Worth,TX,USA,32.98763889,-97.31880556,0.0
 AGC,Allegheny Cty,Pittsburgh,PA,USA,0.0,0.0,463.0
 AGN,Angoon SPB,Angoon,AK,USA,57.50355528,-134.5850939,314.0
 AGO,Magnolia Municipal,Magnolia,AR,USA,0.0,0.0,0.0
 AGS,Bush,Augusta,GA,USA,0.0,0.0,0.0
 AGZ,Wagner Municipal,Wagner,SD,USA,0.0,0.0,345.0
-AHH,Amery Municipal,Amery,WI,USA,0.0,0.0,11.0
+AHH,Amery Municipal,Amery,WI,USA,45.28114833,-92.37539222,11.0
 AHN,Athens Municipal,Athens,GA,USA,0.0,0.0,192.0
 AHP,Port Alexander SPB,Port Alexander,AK,USA,56.24684222,-134.6481539,486.0
 AHQ,Wahoo Municipal,Wahoo,NE,USA,0.0,0.0,0.0
-AIA,Alliance Municipal,Alliance,NE,USA,0.0,0.0,0.0
+AIA,Alliance Municipal,Alliance,NE,USA,42.05325,-102.8037222,0.0
 AID,Anderson Municipal,Anderson,IN,USA,0.0,0.0,0.0
 AIG,Langlade County,Antigo,WI,USA,0.0,0.0,393.0
-AIK,Aiken Municipal,Aiken,SC,USA,0.0,0.0,67.0
+AIK,Aiken Municipal,Aiken,SC,USA,33.64955556,-81.68447222,67.0
 AIO,Atlantic Municipal,Atlantic,IA,USA,0.0,0.0,122.0
-AIT,Aitkin Municipal,Aitkin,MN,USA,0.0,0.0,0.0
+AIT,Aitkin Municipal,Aitkin,MN,USA,46.5484225,-93.6768,0.0
 AIV,George Downer,Aliceville,AL,USA,0.0,0.0,301.0
 AIY,Atlantic City Municipal,Atlantic City,NJ,USA,39.36002778,-74.45608333,203.0
 AIZ,Lee C Fine Memorial,Kaiser/Lake Ozark,MO,USA,0.0,0.0,309.0
 AJC,Chignik (Anchorage Bay),Chignik,AK,USA,56.3114625,-158.3732369,290.0
 AJG,Mt Carmel Municipal,Mt Carmel,IL,USA,0.0,0.0,0.0
 AJO,Corona Municipal,Corona,CA,USA,33.89765389,-117.60244,436.0
-AJR,Habersham County,Cornelia,GA,USA,0.0,0.0,0.0
+AJR,Habersham County,Cornelia,GA,USA,34.50081944,-83.55487,0.0
 AK5,Perryville,Perryville,AK,USA,55.90806056,-159.1585781,149.0
 AKA,Atka,Atka,AK,USA,52.22034833,-174.2063503,423.0
 AKH,Gastonia Municipal,Gastonia,NC,USA,0.0,0.0,57.0
@@ -821,13 +821,13 @@ AKK,Akhiok,Akhiok,AK,USA,56.93869083,-154.1825556,392.0
 AKN,King Salmon,King Salmon,AK,USA,58.67680167,-156.6492175,172.0
 AKO,Akron-Washington Co,Akron,CO,USA,0.0,0.0,413.0
 AKP,Anaktuvuk Pass,Anaktuvuk Pass,AK,USA,68.1343225,-151.74168,384.0
-AKR,Akron Fulton Intl.,Akron,OH,USA,0.0,0.0,228.0
+AKR,Akron Fulton Intl.,Akron,OH,USA,41.0375,-81.46693944,228.0
 AKW,Klawock,Klawock,AK,USA,55.57923333,-133.0759972,470.0
 AL08,Vaiden,Marion,AL,USA,0.0,0.0,213.0
 ALB,Albany Cty,Albany,NY,USA,42.74811944,-73.80297861,414.0
 ALI,Alice International,Alice,TX,USA,0.0,0.0,0.0
-ALM,Alamogordo-White Sands Regional,Alamogordo,NM,USA,0.0,0.0,496.0
-ALN,St. Louis Regional,Alton/St. Louis,IL,USA,0.0,0.0,0.0
+ALM,Alamogordo-White Sands Regional,Alamogordo,NM,USA,32.83994444,-105.9905833,496.0
+ALN,St. Louis Regional,Alton/St. Louis,IL,USA,38.89029083,-90.04604306,0.0
 ALO,Waterloo Municipal,Waterloo,IA,USA,0.0,0.0,10.0
 ALS,San Luis Valley Regional/Bergman,Alamosa,CO,USA,0.0,0.0,0.0
 ALW,Walla Walla Regional,Walla Walla,WA,USA,46.09456167,-118.2880367,489.0
@@ -842,13 +842,13 @@ ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.996185
 AND,Anderson County,Anderson,SC,USA,0.0,0.0,193.0
 ANE,Anoka County,Minneapolis,MN,USA,0.0,0.0,197.0
 ANI,Aniak,Aniak,AK,USA,61.58159694,-159.5430428,453.0
-ANQ,Steuben County-Tri State,Angola,IN,USA,0.0,0.0,311.0
+ANQ,Steuben County-Tri State,Angola,IN,USA,41.63969833,-85.08349333,311.0
 ANV,Anvik,Anvik,AK,USA,62.64858333,-160.1898889,45.0
 ANW,Ainsworth Municipal,Ainsworth,NE,USA,0.0,0.0,349.0
-ANY,Anthony Municipal,Anthony,KS,USA,0.0,0.0,169.0
-AOC,Arco-Butte County,Arco,ID,USA,0.0,0.0,4.0
+ANY,Anthony Municipal,Anthony,KS,USA,37.15852194,-98.07964667,169.0
+AOC,Arco-Butte County,Arco,ID,USA,43.60343056,-113.3340972,4.0
 AOH,Allen County,Lima,OH,USA,0.0,0.0,0.0
-AOO,Altoona-Blair Cty,Altoona,PA,USA,0.0,0.0,320.0
+AOO,Altoona-Blair Cty,Altoona,PA,USA,40.29637222,-78.32002306,320.0
 APA,Centennial,Denver,CO,USA,0.0,0.0,0.0
 APC,Napa County,Napa,CA,USA,38.21319444,-122.2806944,459.0
 APF,Naples Municipal,Naples,FL,USA,0.0,0.0,425.0
@@ -860,14 +860,14 @@ AQH,Kwinhagak,Quinhagak,AK,USA,59.75700722,-161.8794789,357.0
 AQT,Nuiqsut,Nuiqsut,AK,USA,70.20995278,-151.0055611,161.0
 AQW,Harriman And West,North Adams,MA,USA,42.69591417,-73.17038306,225.0
 AQY,Girdwood,Girdwood,AK,USA,60.96609583,-149.1257892,31.0
-ARA,Acadiana Regional,New Iberia,LA,USA,0.0,0.0,24.0
-ARB,Ann Arbor Municipal,Ann Arbor,MI,USA,0.0,0.0,0.0
+ARA,Acadiana Regional,New Iberia,LA,USA,30.03775833,-91.88389611,24.0
+ARB,Ann Arbor Municipal,Ann Arbor,MI,USA,42.22298361,-83.74560722,0.0
 ARC,Arctic Village,Arctic Village,AK,USA,68.11608083,-145.5761114,408.0
-ARG,Walnut Ridge Regional,Walnut Ridge,AR,USA,0.0,0.0,344.0
-ARR,Aurora Municipal,Chicago/Aurora,IL,USA,0.0,0.0,0.0
+ARG,Walnut Ridge Regional,Walnut Ridge,AR,USA,36.12534667,-90.92461944,344.0
+ARR,Aurora Municipal,Chicago/Aurora,IL,USA,41.77192944,-88.47565917,0.0
 ART,Watertown Intl,Watertown,NY,USA,0.0,0.0,0.0
-ARV,Lakeland,Minocqua-Woodruff,WI,USA,0.0,0.0,0.0
-ASD,Slidell,Slidell,LA,USA,0.0,0.0,24.0
+ARV,Lakeland,Minocqua-Woodruff,WI,USA,45.92792556,-89.73094278,0.0
+ASD,Slidell,Slidell,LA,USA,30.345055,-89.82078833,24.0
 ASE,Aspen-Pitkin Co/Sardy,Aspen,CO,USA,0.0,0.0,328.0
 ASG,Springdale Municipal,Springdale,AR,USA,0.0,0.0,0.0
 ASH,Boire,Nashua,NH,USA,42.78176306,-71.51477944,451.0
@@ -881,8 +881,8 @@ ATA,Hall-Miller Municipal,Atlanta,TX,USA,0.0,0.0,0.0
 ATK,Atqasuk,Atqasuk,AK,USA,70.46727611,-157.4357361,317.0
 ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,0.0,0.0,0.0
 ATS,Artesia Municipal,Artesia,NM,USA,0.0,0.0,324.0
-ATW,Outagamie County Regional,Appleton,WI,USA,0.0,0.0,384.0
-ATY,Watertown Municipal,Watertown,SD,USA,0.0,0.0,380.0
+ATW,Outagamie County Regional,Appleton,WI,USA,44.25740806,-88.51947556,384.0
+ATY,Watertown Municipal,Watertown,SD,USA,44.91398056,-97.15471944,380.0
 AUG,Augusta State,Augusta,ME,USA,44.32064972,-69.79731806,340.0
 AUH,Aurora Municipal,Aurora,NE,USA,0.0,0.0,420.0
 AUK,Alakanuk,Alakanuk,AK,USA,62.68004417,-164.6599253,443.0
@@ -896,28 +896,28 @@ AVK,Alva Regional,Alva,OK,USA,0.0,0.0,158.0
 AVL,Asheville Regional,Asheville,NC,USA,0.0,0.0,333.0
 AVO,Avon Park Municipal,Avon Park,FL,USA,0.0,0.0,0.0
 AVP,Wilkes-Barre/Scranton Intl,Wilkes-Barre/Scranton,PA,USA,0.0,0.0,497.0
-AVQ,Marana Northwest Regional,Marana,AZ,USA,0.0,0.0,132.0
+AVQ,Marana Northwest Regional,Marana,AZ,USA,32.40939028,-111.2185086,132.0
 AVX,Catalina,Avalon,CA,USA,33.40494444,-118.4158611,247.0
 AWG,Washington Municipal,Washington,IA,USA,0.0,0.0,0.0
 AWI,Wainwright,Wainwright,AK,USA,70.638,-159.99475,154.0
 AWM,West Memphis Municipal,West Memphis,AR,USA,0.0,0.0,0.0
 AWO,Arlington Municipal,Arlington,WA,USA,48.16074833,-122.1590208,408.0
-AXA,Algona Municipal,Algona,IA,USA,0.0,0.0,0.0
+AXA,Algona Municipal,Algona,IA,USA,43.07791056,-94.27199278,0.0
 AXN,Chandler,Alexandria,MN,USA,0.0,0.0,0.0
 AXS,Altus Municipal,Altus,OK,USA,0.0,0.0,0.0
 AXV,Neil Armstrong,Wapakoneta,OH,USA,0.0,0.0,161.0
 AXX,Angel Fire,Angel Fire,NM,USA,0.0,0.0,0.0
-AYS,Waycross-Ware County,Waycross,GA,USA,0.0,0.0,295.0
+AYS,Waycross-Ware County,Waycross,GA,USA,31.24905556,-82.39530556,295.0
 AZC,Colorado City Municipal,Colorado City,AZ,USA,0.0,0.0,0.0
 AZE,Hazelhurst,Hazelhurst,GA,USA,0.0,0.0,0.0
-AZO,Kalamazoo County,Kalamazoo,MI,USA,0.0,0.0,339.0
+AZO,Kalamazoo County,Kalamazoo,MI,USA,42.234875,-85.5520575,339.0
 B01,Granville,Granville,NY,USA,43.42507111,-73.26205306,284.0
 B08,Silver Springs,Silver Springs,NV,USA,39.40324917,-119.2518292,1.0
-B16,Whitford,Weedsport,NY,USA,0.0,0.0,414.0
+B16,Whitford,Weedsport,NY,USA,43.08027611,-76.53837556,414.0
 B19,Biddeford Municipal,Biddeford,ME,USA,43.46411111,-70.47238889,297.0
 B21,Sugarloaf Regional,Carrabasset,ME,USA,45.08616639,-70.21617778,99.0
 BAF,Barnes Municipal,Westfield,MA,USA,42.15773111,-72.71562028,320.0
-BAK,Columbus Municipal,Columbus,IN,USA,0.0,0.0,325.0
+BAK,Columbus Municipal,Columbus,IN,USA,39.26191861,-85.89634556,325.0
 BAM,Battle Mountain,Battle Mountain,NV,USA,40.59904583,-116.8743358,163.0
 BAX,Huron County Memorial,Bad Axe,MI,USA,0.0,0.0,0.0
 BAZ,New Braunfels Municipal,New Braunfels,TX,USA,0.0,0.0,0.0
@@ -931,7 +931,7 @@ BCK,Black River Falls Area,Black River Falls,WI,USA,0.0,0.0,0.0
 BCT,Boca Raton,Boca Raton,FL,USA,0.0,0.0,426.0
 BCV,Birchwood,Birchwood,AK,USA,61.41612444,-149.50888,419.0
 BDE,Baudette International,Baudette,MN,USA,0.0,0.0,0.0
-BDG,Blanding Muni,Blanding,UT,USA,0.0,0.0,471.0
+BDG,Blanding Muni,Blanding,UT,USA,37.58303472,-109.4832889,471.0
 BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833,175.0
 BDQ,Morrilton Municipal,Morrilton,AR,USA,0.0,0.0,451.0
 BDR,Igor I Sikorsky Memorial,Bridgeport,CT,USA,41.16348417,-73.12617861,339.0
@@ -939,7 +939,7 @@ BDX,Broadus,Broadus,MT,USA,0.0,0.0,0.0
 BED,Laurence G Hanscom,Bedford,MA,USA,42.46995306,-71.28903,382.0
 BEH,Southwest Michigan Regional,Benton Harbor,MI,USA,0.0,0.0,269.0
 BET,Bethel,Bethel,AK,USA,60.77977639,-161.8379975,345.0
-BFD,Bradford Reg,Bradford,PA,USA,0.0,0.0,0.0
+BFD,Bradford Reg,Bradford,PA,USA,41.80306778,-78.64012083,0.0
 BFF,Scotts Bluff County,Scottsbluff,NE,USA,0.0,0.0,0.0
 BFI,Boeing Field/King County Intl,Seattle,WA,USA,47.52998917,-122.3019561,257.0
 BFK,Buffalo Municipal,Buffalo,OK,USA,0.0,0.0,66.0
@@ -948,7 +948,7 @@ BFM,Mobile Downtown,Mobile,AL,USA,0.0,0.0,211.0
 BFR,Virgil I Grissom Municipal,Bedford,IN,USA,0.0,0.0,0.0
 BFW,Silver Bay Municipal,Silver Bay,MN,USA,0.0,0.0,196.0
 BGD,Hutchinson County,Borger,TX,USA,0.0,0.0,323.0
-BGE,Decatur County Industrial Airpark,Bainbridge,GA,USA,0.0,0.0,0.0
+BGE,Decatur County Industrial Airpark,Bainbridge,GA,USA,30.97152778,-84.63744444,0.0
 BGF,Winchester Municipal,Winchester,TN,USA,0.0,0.0,0.0
 BGM,Binghamton Regional,Binghamton,NY,USA,0.0,0.0,0.0
 BGQ,Big Lake Strip Nr 2,Big Lake,AK,USA,61.53556806,-149.8138975,202.0
@@ -962,18 +962,18 @@ BIE,Beatrice Municipal,Beatrice,NE,USA,0.0,0.0,0.0
 BIG,Allen AAF,Delta Junction,AK,USA,63.99454722,-145.7216417,58.0
 BIH,Bishop,Bishop,CA,USA,37.37309556,-118.3636089,439.0
 BIL,Billings Logan Intl,Billings,MT,USA,0.0,0.0,56.0
-BIS,Bismarck Municipal,Bismarck,ND,USA,0.0,0.0,0.0
-BIV,Tulip City,Holland,MI,USA,0.0,0.0,0.0
+BIS,Bismarck Municipal,Bismarck,ND,USA,46.77411111,-100.7467222,0.0
+BIV,Tulip City,Holland,MI,USA,42.74316667,-86.10502778,0.0
 BJC,Jeffco,Denver,CO,USA,0.0,0.0,0.0
 BJI,Bemidji-Beltrami County,Bemidji,MN,USA,0.0,0.0,0.0
 BJJ,Wayne County,Wooster,OH,USA,0.0,0.0,0.0
-BKD,Breckenridge Stephens County,Breckenridge,TX,USA,0.0,0.0,0.0
+BKD,Breckenridge Stephens County,Breckenridge,TX,USA,32.71904694,-98.89099972,0.0
 BKE,Baker City Municipal,Baker City,OR,USA,44.83733333,-117.8090833,86.0
-BKL,Burke Lakefront,Cleveland,OH,USA,0.0,0.0,427.0
+BKL,Burke Lakefront,Cleveland,OH,USA,41.5175,-81.68333333,427.0
 BKV,Hernando County,Brooksville,FL,USA,0.0,0.0,213.0
 BKW,Raleigh Cty Memorial,Beckley,WV,USA,0.0,0.0,490.0
-BKX,Brookings Municipal,Brookings,SD,USA,0.0,0.0,446.0
-BLF,Mercer Cty,Bluefield,WV,USA,0.0,0.0,0.0
+BKX,Brookings Municipal,Brookings,SD,USA,44.30483333,-96.81694444,446.0
+BLF,Mercer Cty,Bluefield,WV,USA,37.29579944,-81.20769056,0.0
 BLH,Blythe,Blythe,CA,USA,0.0,0.0,122.0
 BLI,Bellingham Intl,Bellingham,WA,USA,48.79275,-122.5375278,376.0
 BLM,Allaire Arpt,Belmar/Farmingdale,NJ,USA,40.18691806,-74.12488694,375.0
@@ -982,24 +982,24 @@ BMC,Brigham City,Brigham City,UT,USA,0.0,0.0,0.0
 BMG,Monroe County,Bloomington,IN,USA,0.0,0.0,0.0
 BMI,Central Illinois Regional,Bloomington,IL,USA,0.0,0.0,393.0
 BML,Berlin Municipal,Berlin,NH,USA,44.57537278,-71.17593167,345.0
-BMQ,Burnet Muni-Kate Craddock,Burnet,TX,USA,0.0,0.0,264.0
+BMQ,Burnet Muni-Kate Craddock,Burnet,TX,USA,30.73894444,-98.23858333,264.0
 BMT,Beaumont Municipal,Beaumont,TX,USA,0.0,0.0,0.0
-BNA,Nashville International,Nashville,TN,USA,0.0,0.0,108.0
+BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222,108.0
 BNF,Baranof Warm Springs SPB,Baranof Warm Springs,AK,USA,57.08882583,-134.8331414,159.0
 BNG,Banning Municipal,Banning,CA,USA,33.92307111,-116.8505756,103.0
-BNL,Barnwell County,Barnwell,SC,USA,0.0,0.0,468.0
+BNL,Barnwell County,Barnwell,SC,USA,33.25777778,-81.38833333,468.0
 BNO,Burns Muni,Burns,OR,USA,43.59212778,-118.9549789,14.0
 BNW,Boone Municipal,Boone,IA,USA,0.0,0.0,0.0
 BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778,148.0
 BOK,Brookings,Brookings,OR,USA,42.07455556,-124.2900939,35.0
 BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917,146.0
 BOW,Bartow Municipal,Bartow,FL,USA,0.0,0.0,0.0
-BPI,Big Piney-Marbleton,Big Piney,WY,USA,0.0,0.0,224.0
-BPK,Baxter County Regional,Mountain Home,AR,USA,0.0,0.0,0.0
-BPT,Southeast Texas Regional,Beaumont/Port Arthur,TX,USA,0.0,0.0,0.0
+BPI,Big Piney-Marbleton,Big Piney,WY,USA,42.58506972,-110.1111531,224.0
+BPK,Baxter County Regional,Mountain Home,AR,USA,36.36894194,-92.47052806,0.0
+BPT,Southeast Texas Regional,Beaumont/Port Arthur,TX,USA,29.95083333,-94.02069444,0.0
 BQK,Glynco Jetport,Brunswick,GA,USA,0.0,0.0,225.0
 BQN,Rafael Hernandez,Aguadilla,PR,USA,18.49486111,-67.12944444,171.0
-BRD,Brainerd-Crow Wing County Regional,Brainerd,MN,USA,0.0,0.0,0.0
+BRD,Brainerd-Crow Wing County Regional,Brainerd,MN,USA,46.39785806,-94.1372275,0.0
 BRL,Burlington Municipal,Burlington,IA,USA,0.0,0.0,377.0
 BRO,Brownsville/S.Padre Island International,Brownsville,TX,USA,0.0,0.0,0.0
 BRW,Wiley Post Will Rogers Memorial,Barrow,AK,USA,71.2854475,-156.7660019,24.0
@@ -1010,11 +1010,11 @@ BTL,W K Kellogg Regional,Battle Creek,MI,USA,0.0,0.0,0.0
 BTM,Bert Mooney,Butte,MT,USA,0.0,0.0,0.0
 BTN,Britton Municipal,Britton,SD,USA,0.0,0.0,0.0
 BTP,Butler Cty,Butler,PA,USA,0.0,0.0,0.0
-BTR,"Baton Rouge Metropolitan, Ryan",Baton Rouge,LA,USA,0.0,0.0,0.0
+BTR,"Baton Rouge Metropolitan, Ryan",Baton Rouge,LA,USA,30.53316083,-91.14963444,0.0
 BTT,Bettles,Bettles,AK,USA,66.91528667,-151.5280556,333.0
 BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125,273.0
 BTY,Beatty,Beatty,NV,USA,36.86105722,-116.7870036,80.0
-BUB,Cram,Burwell,NE,USA,0.0,0.0,0.0
+BUB,Cram,Burwell,NE,USA,41.77669444,-99.14975,0.0
 BUF,Buffalo Niagara Intl,Buffalo,NY,USA,0.0,0.0,356.0
 BUM,Butler Memorial,Butler,MO,USA,0.0,0.0,182.0
 BUR,Burbank-Glendale-Pasadena,Burbank,CA,USA,34.20061917,-118.3584969,124.0
@@ -1027,17 +1027,17 @@ BVS,Skagit Regional/Bay View,Burlington/Mount Vernon,WA,USA,48.47088889,-122.420
 BVX,Batesville Regional,Batesville,AR,USA,0.0,0.0,0.0
 BVY,Beverly Municipal,Beverly,MA,USA,42.58417111,-70.91651833,397.0
 BWC,Brawley Municipal,Brawley,CA,USA,32.9931,-115.5169325,369.0
-BWD,Brownwood Municipal,Brownwood,TX,USA,0.0,0.0,27.0
+BWD,Brownwood Municipal,Brownwood,TX,USA,31.79362222,-98.95649528,27.0
 BWG,Bowling Green-Warren County,Bowling Green,KY,USA,0.0,0.0,397.0
 BWI,Baltimore-Washington International,Baltimore,MD,USA,0.0,0.0,0.0
-BWP,Harry Stern,Wahpeton,ND,USA,0.0,0.0,0.0
+BWP,Harry Stern,Wahpeton,ND,USA,46.24640083,-96.6056825,0.0
 BXA,George R Carr Memorial,Bogalusa,LA,USA,0.0,0.0,27.0
 BXG,Burke County,Waynesboro,GA,USA,0.0,0.0,284.0
 BXK,Buckeye Municipal,Buckeye,AZ,USA,0.0,0.0,0.0
 BYA,Boundary,Boundary,AK,USA,64.07830278,-141.113375,65.0
 BYG,Johnson County,Buffalo,WY,USA,0.0,0.0,131.0
 BYI,Burley Municipal,Burley,ID,USA,0.0,0.0,390.0
-BZN,Gallatin,Bozeman,MT,USA,0.0,0.0,415.0
+BZN,Gallatin,Bozeman,MT,USA,45.77690139,-111.1530072,415.0
 C00,Mercer County,Aledo,IL,USA,0.0,0.0,0.0
 C05,Chenega Bay,Chenega,AK,USA,60.07730556,-147.9918889,135.0
 C09,Morris Municipal,Morris,IL,USA,0.0,0.0,365.0
@@ -1050,38 +1050,38 @@ C34,Gibson City Municipal,Gibson City,IL,USA,0.0,0.0,278.0
 C35,Reedsburg Municipal,Reedsburg,WI,USA,0.0,0.0,379.0
 C47,Portage Municipal,Portage,WI,USA,0.0,0.0,0.0
 C52,Burlington Municipal,Burlington,WI,USA,0.0,0.0,0.0
-C56,Sanger,Chicago/Monee,IL,USA,0.0,0.0,0.0
+C56,Sanger,Chicago/Monee,IL,USA,41.37756167,-87.68137528,0.0
 C62,Kendallville Municipal,Kendallville,IN,USA,0.0,0.0,377.0
 C65,Plymouth Municipal,Plymouth,IN,USA,0.0,0.0,0.0
-C66,Monmouth Municipal,Monmouth,IL,USA,0.0,0.0,0.0
-C71,Crosby Municipal,Crosby,MS,USA,0.0,0.0,54.0
+C66,Monmouth Municipal,Monmouth,IL,USA,40.92970444,-90.63110722,0.0
+C71,Crosby Municipal,Crosby,MS,USA,31.29600472,-91.05288167,54.0
 C73,Dixon Muni-Charles R Walgreen,Dixon,IL,USA,0.0,0.0,0.0
-C75,Marshall County,Lacon,IL,USA,0.0,0.0,0.0
+C75,Marshall County,Lacon,IL,USA,41.01928583,-89.38642222,0.0
 C77,Poplar Grove,Poplar Grove,IL,USA,0.0,0.0,0.0
 C80,New Coalinga Municipal,Coalinga,CA,USA,36.16313889,-120.2938139,409.0
-C81,Campbell,Chicago/Round Lake Park,IL,USA,0.0,0.0,337.0
+C81,Campbell,Chicago/Round Lake Park,IL,USA,42.32461111,-88.07408806,337.0
 C83,Byron,Byron,CA,USA,37.8284525,-121.6258219,164.0
-C91,Dowagiac Municipal,Dowagiac,MI,USA,0.0,0.0,55.0
+C91,Dowagiac Municipal,Dowagiac,MI,USA,41.99293417,-86.1280125,55.0
 CAD,Wexford County,Cadillac,MI,USA,0.0,0.0,0.0
 CAE,Columbia Metropolitan,Columbia,SC,USA,0.0,0.0,179.0
 CAG,Craig-Moffat,Craig,CO,USA,0.0,0.0,0.0
-CAK,Akron-Canton Regional,Akron,OH,USA,0.0,0.0,132.0
+CAK,Akron-Canton Regional,Akron,OH,USA,40.91631194,-81.44246556,132.0
 CAO,Clayton Municipal Airpark,Clayton,NM,USA,0.0,0.0,164.0
 CAR,Caribou Municipal,Caribou,ME,USA,46.8715,-68.01791667,328.0
-CAV,Clarion Municipal,Clarion,IA,USA,0.0,0.0,35.0
+CAV,Clarion Municipal,Clarion,IA,USA,42.74194389,-93.75890944,35.0
 CBE,Cumberland Regional,Cumberland,MD,USA,0.0,0.0,284.0
-CBF,Council Bluffs Municipal,Council Bluffs,IA,USA,0.0,0.0,0.0
+CBF,Council Bluffs Municipal,Council Bluffs,IA,USA,41.25947222,-95.75997222,0.0
 CBG,Cambridge Municipal,Cambridge,MN,USA,0.0,0.0,0.0
-CBK,Shaltz,Colby,KS,USA,0.0,0.0,268.0
+CBK,Shaltz,Colby,KS,USA,39.42753083,-101.0465719,268.0
 CCB,Cable,Upland,CA,USA,34.11154056,-117.6875897,167.0
 CCO,Newnan-Coweta County,Newnan,GA,USA,0.0,0.0,262.0
 CCR,Buchanan,Concord,CA,USA,37.98965639,-122.0568972,127.0
 CCY,Charles City Municipal,Charles City,IA,USA,0.0,0.0,351.0
 CDB,Cold Bay,Cold Bay,AK,USA,55.20559972,-162.7242628,299.0
 CDC,Cedar City Muni,Cedar City,UT,USA,0.0,0.0,218.0
-CDH,Harrell,Camden,AR,USA,0.0,0.0,0.0
+CDH,Harrell,Camden,AR,USA,33.62279917,-92.76339528,0.0
 CDI,Cambridge Municipal,Cambridge,OH,USA,0.0,0.0,0.0
-CDK,George T Lewis,Cedar Key,FL,USA,0.0,0.0,321.0
+CDK,George T Lewis,Cedar Key,FL,USA,29.137745,-83.04984361,321.0
 CDN,Woodward,Camden,SC,USA,0.0,0.0,254.0
 CDR,Chadron Municipal,Chadron,NE,USA,0.0,0.0,381.0
 CDV,Merle K (Mudhole) Smith,Cordova,AK,USA,60.49183389,-145.4776503,341.0
@@ -1095,25 +1095,25 @@ CEV,Mettel,Connersville,IN,USA,0.0,0.0,88.0
 CEW,Bob Sikes,Crestview,FL,USA,0.0,0.0,0.0
 CEY,Kyle-Oakley,Murray,KY,USA,0.0,0.0,0.0
 CEZ,Cortez Muni,Cortez,CO,USA,0.0,0.0,0.0
-CFD,Coulter,Bryan,TX,USA,0.0,0.0,488.0
+CFD,Coulter,Bryan,TX,USA,30.71569444,-96.33136111,488.0
 CFJ,Crawfordsville Municipal,Crawfordsville,IN,USA,0.0,0.0,475.0
 CFK,Chefornak,Chefornak,AK,USA,60.14922556,-164.2856325,86.0
-CFT,Greenlee County,Clifton-Morenci,AZ,USA,0.0,0.0,0.0
+CFT,Greenlee County,Clifton-Morenci,AZ,USA,32.95284306,-109.2103453,0.0
 CFV,Coffeyville Municipal,Coffeyville,KS,USA,0.0,0.0,0.0
 CGA,Craig SPB,Craig,AK,USA,55.47883139,-133.1478011,470.0
-CGC,Crystal River,Crystal River,FL,USA,0.0,0.0,0.0
+CGC,Crystal River,Crystal River,FL,USA,28.86727778,-82.57130556,0.0
 CGE,Cambridge-Dorchester,Cambridge,MD,USA,0.0,0.0,0.0
-CGF,Cuyahoga County,Cleveland,OH,USA,0.0,0.0,0.0
+CGF,Cuyahoga County,Cleveland,OH,USA,41.56512389,-81.48635389,0.0
 CGI,Cape Girardeau Municipal,Cape Girardeau,MO,USA,0.0,0.0,0.0
 CGS,College Park,College Park,MD,USA,0.0,0.0,255.0
 CGX,Chicago Meigs,Chicago,IL,USA,0.0,0.0,17.0
 CGZ,Casa Grande Municipal,Casa Grande,AZ,USA,0.0,0.0,0.0
 CHA,Lovell,Chattanooga,TN,USA,0.0,0.0,0.0
 CHD,Chandler Municipal,Chandler,AZ,USA,0.0,0.0,0.0
-CHK,Chickasha Municipal,Chickasha,OK,USA,0.0,0.0,0.0
+CHK,Chickasha Municipal,Chickasha,OK,USA,35.09614694,-97.96618361,0.0
 CHO,Charlottesville-Albermarle,Charlottesville,VA,USA,0.0,0.0,0.0
 CHP,Circle Hot Springs,Circle Hot Springs,AK,USA,65.48547222,-144.6107836,31.0
-CHS,Charleston AFB/International,Charleston,SC,USA,0.0,0.0,0.0
+CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583,0.0
 CHT,Chillicothe Municipal,Chillicothe,MO,USA,0.0,0.0,0.0
 CHU,Houston County,Caledonia,MN,USA,0.0,0.0,195.0
 CIC,Chico Municipal,Chico,CA,USA,39.79538278,-121.8584231,247.0
@@ -1125,12 +1125,12 @@ CIR,Cairo,Cairo,IL,USA,0.0,0.0,0.0
 CIU,Chippewa County International,Sault Ste. Marie,MI,USA,0.0,0.0,299.0
 CJR,Culpeper Regional,Culpeper,VA,USA,0.0,0.0,0.0
 CJX,Crooked Creek,Crooked Creek,AK,USA,61.86902194,-158.1371178,154.0
-CKB,Benedum,Clarksburg,WV,USA,0.0,0.0,82.0
-CKC,Grand Marais/Cook County,Grand Marais,MN,USA,0.0,0.0,0.0
-CKF,Crisp County - Cordele,Cordele,GA,USA,0.0,0.0,0.0
+CKB,Benedum,Clarksburg,WV,USA,39.29663889,-80.22808333,82.0
+CKC,Grand Marais/Cook County,Grand Marais,MN,USA,47.83830556,-90.38313889,0.0
+CKF,Crisp County - Cordele,Cordele,GA,USA,31.98883333,-83.77391667,0.0
 CKI,Williamsburg County,Kingstree,SC,USA,0.0,0.0,175.0
 CKM,Fletcher,Clarksdale,MS,USA,0.0,0.0,113.0
-CKN,Crookston Muni Kirkwood,Crookston,MN,USA,0.0,0.0,313.0
+CKN,Crookston Muni Kirkwood,Crookston,MN,USA,47.84169417,-96.62162028,313.0
 CKP,Cherokee Municipal,Cherokee,IA,USA,0.0,0.0,0.0
 CKU,Cordova Muni,Cordova,AK,USA,60.54390333,-145.7267042,471.0
 CKV,Outlaw,Clarksville,TN,USA,0.0,0.0,0.0
@@ -1150,52 +1150,52 @@ CMH,Port Columbus Intl,Columbus,OH,USA,0.0,0.0,340.0
 CMI,University of Illinois-Willard,Champaign/Urbana,IL,USA,0.0,0.0,332.0
 CMX,Houghton County Memorial,Hancock,MI,USA,0.0,0.0,0.0
 CMY,Sparta/Fort McCoy,Sparta,WI,USA,0.0,0.0,0.0
-CNC,Chariton Municipal,Chariton,IA,USA,0.0,0.0,0.0
+CNC,Chariton Municipal,Chariton,IA,USA,41.01962389,-93.35968028,0.0
 CNH,Claremont Municipal,Claremont,NH,USA,43.37043194,-72.36867667,126.0
 CNK,Blosser Municipal,Concordia,KS,USA,0.0,0.0,446.0
 CNM,Cavern City Air Terminal,Carlsbad,NM,USA,0.0,0.0,0.0
 CNO,Chino,Chino,CA,USA,33.97469444,-117.6366111,465.0
 CNP,Billy G Ray,Chappell,NE,USA,0.0,0.0,393.0
 CNU,Chanute Martin Johnson,Chanute,KS,USA,0.0,0.0,0.0
-CNW,TSTC-Waco,Waco,TX,USA,0.0,0.0,0.0
+CNW,TSTC-Waco,Waco,TX,USA,31.63783139,-97.07413889,0.0
 CNY,Canyonlands,Moab,UT,USA,0.0,0.0,447.0
-COD,Yellowstone Regional,Cody,WY,USA,0.0,0.0,0.0
+COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961,0.0
 COE,Coeur D'Alene Air Terminal,Coeur D'Alene,ID,USA,47.77429167,-116.8196231,25.0
-COI,Merritt Island,Merritt Island,FL,USA,0.0,0.0,446.0
+COI,Merritt Island,Merritt Island,FL,USA,28.34158944,-80.6854975,446.0
 COM,Coleman Municipal,Coleman,TX,USA,0.0,0.0,156.0
 CON,Concord Municipal,Concord,NH,USA,43.20273278,-71.50228556,414.0
-COQ,Cloquet-Carlton County,Cloquet,MN,USA,0.0,0.0,0.0
-COS,City of Colorado Springs Muni,Colorado Springs,CO,USA,0.0,0.0,472.0
+COQ,Cloquet-Carlton County,Cloquet,MN,USA,46.70016833,-92.50552861,0.0
+COS,City of Colorado Springs Muni,Colorado Springs,CO,USA,38.80580556,-104.70025,472.0
 COT,Cotulla-Lasalle County,Cotulla,TX,USA,0.0,0.0,0.0
 COU,Columbia Regional,Columbia,MO,USA,0.0,0.0,116.0
 CPC,Columbus County Municipal,Whiteville,NC,USA,0.0,0.0,170.0
 CPK,Chesapeake Municipal,Norfolk,VA,USA,0.0,0.0,0.0
 CPM,Compton/Woodley,Compton,CA,USA,33.89001611,-118.2436831,453.0
-CPR,Natrona County Intl,Casper,WY,USA,0.0,0.0,0.0
+CPR,Natrona County Intl,Casper,WY,USA,42.90835556,-106.4644661,0.0
 CPS,St. Louis Downtown,Cahokia/St. Louis,IL,USA,0.0,0.0,438.0
 CPX,Benjamin Rivera Noriega,Isla De Culebra,PR,USA,18.31328917,-65.30432444,245.0
 CQA,Lakefield,Celina,OH,USA,0.0,0.0,159.0
-CQB,Chandler Municipal,Chandler,OK,USA,0.0,0.0,74.0
+CQB,Chandler Municipal,Chandler,OK,USA,35.72381556,-96.82027306,74.0
 CQX,Chatham Municipal,Chatham,MA,USA,41.68840028,-69.98952417,295.0
 CRC,Circle City,Circle,AK,USA,65.83049389,-144.0758128,179.0
 CRE,Grand Strand,North Myrtle Beach,SC,USA,0.0,0.0,129.0
 CRG,Craig Municipal,Jacksonville,FL,USA,0.0,0.0,0.0
 CRO,Corcoran,Corcoran,CA,USA,36.10245111,-119.5948469,321.0
-CRP,Corpus Christi International,Corpus Christi,TX,USA,0.0,0.0,0.0
+CRP,Corpus Christi International,Corpus Christi,TX,USA,27.77036083,-97.50121528,0.0
 CRQ,McClellan-Palomar,Carlsbad,CA,USA,33.12822222,-117.2802222,100.0
 CRS,C Davis Campbell -Corsicana Muni,Corsicana,TX,USA,0.0,0.0,157.0
-CRT,Crossett Municipal,Crossett,AR,USA,0.0,0.0,11.0
-CRW,Yeager,Charleston,WV,USA,0.0,0.0,487.0
-CRX,Roscoe Turner,Corinth,MS,USA,0.0,0.0,0.0
+CRT,Crossett Municipal,Crossett,AR,USA,33.17833278,-91.88018806,11.0
+CRW,Yeager,Charleston,WV,USA,38.37315083,-81.59318972,487.0
+CRX,Roscoe Turner,Corinth,MS,USA,34.91496778,-88.60348361,0.0
 CSB,Cambridge Municipal,Cambridge,NE,USA,0.0,0.0,0.0
 CSG,Columbus Metropolitan,Columbus,GA,USA,0.0,0.0,0.0
-CSM,Clinton-Sherman,Clinton,OK,USA,0.0,0.0,0.0
+CSM,Clinton-Sherman,Clinton,OK,USA,35.33983917,-99.20049944,0.0
 CSQ,Creston Municipal,Creston,IA,USA,0.0,0.0,0.0
-CSV,Crossville Memorial,Crossville,TN,USA,0.0,0.0,483.0
+CSV,Crossville Memorial,Crossville,TN,USA,35.95129194,-85.08497806,483.0
 CTB,Cut Bank Muni,Cut Bank,MT,USA,0.0,0.0,0.0
 CTJ,West Georgia Regional,Carrollton,GA,USA,0.0,0.0,0.0
 CTK,Ingersoll,Canton,IL,USA,0.0,0.0,0.0
-CTY,Cross City,Cross City,FL,USA,0.0,0.0,498.0
+CTY,Cross City,Cross City,FL,USA,29.63552778,-83.10475,498.0
 CTZ,Sampson County,Clinton,NC,USA,0.0,0.0,0.0
 CUB,Columbia Owens Downtown,Columbia,SC,USA,0.0,0.0,197.0
 CUH,Cushing Municipal,Cushing,OK,USA,0.0,0.0,0.0
@@ -1203,11 +1203,11 @@ CUL,Carmi Municipal,Carmi,IL,USA,0.0,0.0,230.0
 CUT,Custer County,Custer,SD,USA,0.0,0.0,0.0
 CVG,Cincinnati Northern Kentucky Intl,Covington,KY,USA,0.0,0.0,0.0
 CVK,Sharp County Regional,Ash Flat,AR,USA,0.0,0.0,0.0
-CVN,Clovis Municipal,Clovis,NM,USA,0.0,0.0,136.0
+CVN,Clovis Municipal,Clovis,NM,USA,34.42513889,-103.0792778,136.0
 CVO,Corvallis Muni,Corvallis,OR,USA,44.49719361,-123.2898297,383.0
 CVX,Charlevoix Municipal,Charlevoix,MI,USA,0.0,0.0,30.0
 CWA,Central Wisconsin,Mosinee,WI,USA,0.0,0.0,0.0
-CWF,Chennault International,Lake Charles,LA,USA,0.0,0.0,130.0
+CWF,Chennault International,Lake Charles,LA,USA,30.21059167,-93.14318944,130.0
 CWI,Clinton Municipal,Clinton,IA,USA,0.0,0.0,0.0
 CWV,Claxton-Evans County,Claxton,GA,USA,0.0,0.0,0.0
 CXC,Chitina,Chitina,AK,USA,61.58285917,-144.4270969,221.0
@@ -1216,7 +1216,7 @@ CXF,Coldfoot,Coldfoot,AK,USA,67.25163417,-150.2065672,292.0
 CXL,Calexico International,Calexico,CA,USA,32.66950333,-115.5133281,254.0
 CXO,Montgomery County,Conroe,TX,USA,0.0,0.0,130.0
 CXP,Carson,Carson City,NV,USA,39.19222972,-119.7343611,198.0
-CXU,Camilla-Mitchell County,Camilla,GA,USA,0.0,0.0,452.0
+CXU,Camilla-Mitchell County,Camilla,GA,USA,31.21291667,-84.23680556,452.0
 CXY,Capital City,Harrisburg,PA,USA,0.0,0.0,378.0
 CYO,Pickaway County Memorial,Circleville,OH,USA,0.0,0.0,0.0
 CYS,Cheyenne,Cheyenne,WY,USA,0.0,0.0,0.0
@@ -1230,20 +1230,20 @@ D04,Bowman Municipal,Bowman,ND,USA,0.0,0.0,0.0
 D05,Garrison Municipal,Garrison,ND,USA,0.0,0.0,490.0
 D07,Faith Municipal,Faith,SD,USA,0.0,0.0,0.0
 D09,Bottineau Municipal,Bottineau,ND,USA,0.0,0.0,298.0
-D19,Quentin Aanenson,Luverne,MN,USA,0.0,0.0,0.0
-D22,Angola,Angola,NY,USA,0.0,0.0,448.0
+D19,Quentin Aanenson,Luverne,MN,USA,43.62080278,-96.21864028,0.0
+D22,Angola,Angola,NY,USA,42.66010111,-78.99115556,448.0
 D25,Manitowish Waters,Manitowish Waters,WI,USA,0.0,0.0,0.0
 D38,Canandaiga,Canandaiga,NY,USA,0.0,0.0,0.0
-D42,Springfield Municipal,Springfield,MN,USA,0.0,0.0,40.0
+D42,Springfield Municipal,Springfield,MN,USA,44.23107,-94.99893444,40.0
 D50,Crosby Municipal,Crosby,ND,USA,0.0,0.0,0.0
 D55,Robertson,Langdon,ND,USA,0.0,0.0,0.0
-D57,Glen Ullin Municipal,Glen Ullin,ND,USA,0.0,0.0,279.0
+D57,Glen Ullin Municipal,Glen Ullin,ND,USA,46.81278306,-101.8601556,279.0
 D60,Tioga Municipal,Tioga,ND,USA,0.0,0.0,180.0
-D73,Monroe-Walton County,Monroe,GA,USA,0.0,0.0,54.0
+D73,Monroe-Walton County,Monroe,GA,USA,33.78149889,-83.69355389,54.0
 D77,Lancaster,Lancaster,NY,USA,0.0,0.0,326.0
-D87,Harbor Springs,Harbor Springs,MI,USA,0.0,0.0,310.0
-D95,Dupont-Lapeer,Lapeer,MI,USA,0.0,0.0,47.0
-D98,Romeo,Romeo,MI,USA,0.0,0.0,486.0
+D87,Harbor Springs,Harbor Springs,MI,USA,45.42556528,-84.91338389,310.0
+D95,Dupont-Lapeer,Lapeer,MI,USA,43.06703333,-83.27244444,47.0
+D98,Romeo,Romeo,MI,USA,42.79699083,-82.97526583,486.0
 DAB,Daytona Beach International,Daytona Beach,FL,USA,0.0,0.0,0.0
 DAG,Barstow-Daggett,Daggett,CA,USA,34.85371333,-116.7866875,245.0
 DAL,Dallas Love,Dallas,TX,USA,0.0,0.0,185.0
@@ -1252,16 +1252,16 @@ DAW,Skyhaven,Rochester,NH,USA,43.28406194,-70.92925472,184.0
 DAY,James M Cox Dayton Intl,Dayton,OH,USA,0.0,0.0,0.0
 DBN,"W. H. ""Bud"" Barron",Dublin,GA,USA,0.0,0.0,391.0
 DBQ,Dubuque Municipal,Dubuque,IA,USA,0.0,0.0,0.0
-DCA,Ronald Reagan Washington National,Arlington,VA,USA,0.0,0.0,264.0
+DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222,264.0
 DCK,Dahl Creek,Dahl Creek,AK,USA,66.94333806,-156.9046739,385.0
 DCU,Pryor  Regional,Decatur,AL,USA,0.0,0.0,140.0
 DCY,Daviess County,Washington,IN,USA,0.0,0.0,0.0
-DDC,Dodge City Regional,Dodge City,KS,USA,0.0,0.0,0.0
+DDC,Dodge City Regional,Dodge City,KS,USA,37.76312194,-99.96542389,0.0
 DDH,William H. Morse State,Bennington,VT,USA,42.8913325,-73.2464075,231.0
 DEC,Decatur,Decatur,IL,USA,0.0,0.0,0.0
 DED,Deland Municipal-Taylor,Deland,FL,USA,0.0,0.0,440.0
 DEE,Deering,Deering,AK,USA,66.06820583,-162.7666028,134.0
-DEH,Decorah Municipal,Decorah,IA,USA,0.0,0.0,430.0
+DEH,Decorah Municipal,Decorah,IA,USA,43.27550139,-91.73937389,430.0
 DEN,Denver Intl,Denver,CO,USA,0.0,0.0,0.0
 DEQ,J Lynn Helms Sevier County,De Queen,AR,USA,0.0,0.0,0.0
 DET,Detroit City,Detroit,MI,USA,0.0,0.0,0.0
@@ -1270,18 +1270,18 @@ DFI,Defiance Memorial,Defiance,OH,USA,0.0,0.0,38.0
 DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,0.0,0.0,0.0
 DGW,Converse County,Douglas,WY,USA,0.0,0.0,165.0
 DHN,Dothan,Dothan,AL,USA,0.0,0.0,0.0
-DHT,Dalhart Municipal,Dalhart,TX,USA,0.0,0.0,427.0
-DIK,Dickinson Municipal,Dickinson,ND,USA,0.0,0.0,0.0
+DHT,Dalhart Municipal,Dalhart,TX,USA,36.022585,-102.5472775,427.0
+DIK,Dickinson Municipal,Dickinson,ND,USA,46.79738889,-102.8019528,0.0
 DKB,Dekalb-Taylor Municipal,Dekalb,IL,USA,0.0,0.0,0.0
 DKK,Dunkirk Municipal,Dunkirk,NY,USA,0.0,0.0,0.0
-DKX,Knoxville Downtown Island,Knoxville,TN,USA,0.0,0.0,0.0
+DKX,Knoxville Downtown Island,Knoxville,TN,USA,35.96383361,-83.87365389,0.0
 DLG,Dillingham,Dillingham,AK,USA,59.0454125,-158.5033389,302.0
-DLH,Duluth International,Duluth,MN,USA,0.0,0.0,273.0
+DLH,Duluth International,Duluth,MN,USA,46.84209028,-92.19364861,273.0
 DLL,Baraboo - Wisconsin Dells,Baraboo,WI,USA,0.0,0.0,0.0
-DLN,Dillon,Dillon,MT,USA,0.0,0.0,225.0
+DLN,Dillon,Dillon,MT,USA,45.25536056,-112.5525067,225.0
 DLO,Delano Municipal,Delano,CA,USA,35.74558056,-119.2365039,434.0
 DLS,Columbia Gorge Regional,The Dalles,OR,USA,45.61854556,-121.1673439,275.0
-DLZ,Delaware Municipal,Delaware,OH,USA,0.0,0.0,244.0
+DLZ,Delaware Municipal,Delaware,OH,USA,40.27970139,-83.11480167,244.0
 DM2,Diomede Heliport,Diomede,AK,USA,65.75861111,-168.9530556,17.0
 DMN,Deming Municipal,Deming,NM,USA,0.0,0.0,414.0
 DMO,Sedalia Memorial,Sedalia,MO,USA,0.0,0.0,0.0
@@ -1295,11 +1295,11 @@ DPA,Du Page,Chicago/West Chicago,IL,USA,0.0,0.0,39.0
 DPL,P B Raiford,Kenansville,NC,USA,0.0,0.0,351.0
 DQH,Douglas Municipal,Douglas,GA,USA,0.0,0.0,0.0
 DRI,Beauregard Parish,De Ridder,LA,USA,0.0,0.0,0.0
-DRO,Durango-La Plata County,Durango,CO,USA,0.0,0.0,0.0
+DRO,Durango-La Plata County,Durango,CO,USA,37.15151667,-107.7537692,0.0
 DRT,Del Rio International,Del Rio,TX,USA,0.0,0.0,0.0
 DSM,Des Moines International,Des Moines,IA,USA,0.0,0.0,0.0
-DSV,Dansville Muni,Dansville,NY,USA,0.0,0.0,471.0
-DTA,Delta Municipal,Delta,UT,USA,0.0,0.0,0.0
+DSV,Dansville Muni,Dansville,NY,USA,42.57089972,-77.71305083,471.0
+DTA,Delta Municipal,Delta,UT,USA,39.38328861,-112.5096683,0.0
 DTL,Detroit Lakes -Wething,Detroit Lakes,MN,USA,0.0,0.0,63.0
 DTN,Shreveport Downtown,Shreveport,LA,USA,0.0,0.0,71.0
 DTO,Denton Municipal,Denton,TX,USA,0.0,0.0,346.0
@@ -1307,7 +1307,7 @@ DTS,Destin-Ft. Walton Beach,Destin,FL,USA,0.0,0.0,0.0
 DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,0.0,0.0,350.0
 DUA,Eaker,Durant,OK,USA,0.0,0.0,0.0
 DUC,Halliburton,Duncan,OK,USA,0.0,0.0,393.0
-DUG,Bisbee Douglas International,Douglas Bisbee,AZ,USA,0.0,0.0,0.0
+DUG,Bisbee Douglas International,Douglas Bisbee,AZ,USA,31.46902778,-109.6036667,0.0
 DUJ,Du Bois-Jefferson Cty,Du Bois,PA,USA,0.0,0.0,0.0
 DUT,Unalaska,Unalaska,AK,USA,53.90013889,-166.5435,19.0
 DUX,Moore County,Dumas,TX,USA,0.0,0.0,0.0
@@ -1317,32 +1317,32 @@ DVL,Devils Lake Municipal-Knoke,Devils Lake,ND,USA,0.0,0.0,0.0
 DVN,Davenport Municipal,Davenport,IA,USA,0.0,0.0,175.0
 DVO,Gnoss,Novato,CA,USA,38.14351944,-122.5572167,353.0
 DVT,Phoenix-Deer Valley,Phoenix,AZ,USA,0.0,0.0,0.0
-DWH,David Wayne Hooks Memorial,Houston,TX,USA,0.0,0.0,278.0
+DWH,David Wayne Hooks Memorial,Houston,TX,USA,30.06186111,-95.55277778,278.0
 DWU,Ashland-Boyd County,Ashland,KY,USA,0.0,0.0,0.0
 DXE,Dexter Municipal,Dexter,MO,USA,0.0,0.0,0.0
 DXR,Danbury Municipal,Danbury,CT,USA,41.37153528,-73.48219056,70.0
 DXX,Madison-Lac Qui Parle County,Madison,MN,USA,0.0,0.0,0.0
-DYB,Summerville,Summerville,SC,USA,0.0,0.0,230.0
+DYB,Summerville,Summerville,SC,USA,33.06344444,-80.27933333,230.0
 DYL,Doylestown,Doylestown,PA,USA,0.0,0.0,467.0
-DYR,Dyersburg Municipal,Dyersburg,TN,USA,0.0,0.0,0.0
+DYR,Dyersburg Municipal,Dyersburg,TN,USA,35.99850694,-89.40608333,0.0
 DYT,Sky Harbor,Duluth,MN,USA,0.0,0.0,336.0
-E01,Monahans-Roy Hurd Memorial,Monahans,TX,USA,0.0,0.0,0.0
-E04,Eunice,Eunice,NM,USA,0.0,0.0,95.0
+E01,Monahans-Roy Hurd Memorial,Monahans,TX,USA,31.58246583,-102.9090428,0.0
+E04,Eunice,Eunice,NM,USA,32.45679139,-103.2404708,95.0
 E05,Hatch Muni,Hatch,NM,USA,0.0,0.0,0.0
 E06,Lea County-Zip Franklin Memorial,Lovington,NM,USA,0.0,0.0,0.0
 E07,Lea County/Tatum,Tatum,NM,USA,33.26122278,-103.2768939,231.0
 E11,Andrews County,Andrews,TX,USA,0.0,0.0,0.0
 E15,Graham Municipal,Graham,TX,USA,0.0,0.0,205.0
-E19,Gruver Municipal,Gruver,TX,USA,0.0,0.0,0.0
+E19,Gruver Municipal,Gruver,TX,USA,36.23372611,-101.4321894,0.0
 E24,Whiteriver,Whiteriver,AZ,USA,0.0,0.0,0.0
 E25,Wickenburg Municipal,Wickenburg,AZ,USA,0.0,0.0,0.0
-E26,Lea County,Jal,NM,USA,0.0,0.0,395.0
+E26,Lea County,Jal,NM,USA,32.13107833,-103.1548506,395.0
 E35,Fabens,Fabens,TX,USA,0.0,0.0,55.0
 E38,Alpine-Casparis Municipal,Alpine,TX,USA,0.0,0.0,0.0
 E42,Spearman Municipal,Spearman,TX,USA,0.0,0.0,261.0
 E51,Bagdad,Bagdad,AZ,USA,0.0,0.0,0.0
 E52,Oldham County,Vega,TX,USA,0.0,0.0,12.0
-E60,Eloy Municipal,Eloy,AZ,USA,0.0,0.0,0.0
+E60,Eloy Municipal,Eloy,AZ,USA,32.80700583,-111.58679,0.0
 E63,Gila Bend Municipal,Gila Bend,AZ,USA,0.0,0.0,220.0
 E80,Alexander Municipal,Belen,NM,USA,0.0,0.0,0.0
 E89,Conchas State Park,Conchas Dam,NM,USA,0.0,0.0,276.0
@@ -1357,12 +1357,12 @@ EAU,Chippewa Valley Regional,Eau Claire,WI,USA,0.0,0.0,0.0
 EBS,Webster City Municipal,Webster City,IA,USA,0.0,0.0,0.0
 ECG,Elizabeth City CG Air Station/Municipal,Elizabeth City,NC,USA,0.0,0.0,288.0
 ECS,Mondell,Newcastle,WY,USA,0.0,0.0,455.0
-EDE,Edenton Municipal,Edenton,NC,USA,0.0,0.0,126.0
+EDE,Edenton Municipal,Edenton,NC,USA,36.027735,-76.56709333,126.0
 EDN,Enterprise Municipal,Enterprise,AL,USA,0.0,0.0,490.0
 EED,Needles,Needles,CA,USA,0.0,0.0,363.0
 EEK,Eek,Eek,AK,USA,60.21590417,-162.0056092,74.0
 EEN,Dillant-Hopkins,Keene,NH,USA,42.89839944,-72.27078111,263.0
-EEO,Meeker,Meeker,CO,USA,0.0,0.0,0.0
+EEO,Meeker,Meeker,CO,USA,40.04886222,-107.8859067,0.0
 EET,Shelby County,Alabaster,AL,USA,0.0,0.0,348.0
 EFC,Belle Fourche Municipal,Belle Fourche,SD,USA,0.0,0.0,16.0
 EFD,Ellington,Houston,TX,USA,0.0,0.0,69.0
@@ -1374,7 +1374,7 @@ EGQ,Emmetsburg Municipal,Emmetsburg,IA,USA,0.0,0.0,382.0
 EGT,Wellington Municipal,Wellington,KS,USA,0.0,0.0,0.0
 EGV,Eagle River Union,Eagle River,WI,USA,0.0,0.0,0.0
 EHA,Elkhart-Morton County,Elkhart,KS,USA,0.0,0.0,0.0
-EHO,Shelby Municipal,Shelby,NC,USA,0.0,0.0,0.0
+EHO,Shelby Municipal,Shelby,NC,USA,35.25555556,-81.60099722,0.0
 EHR,Henderson City-County,Henderson,KY,USA,0.0,0.0,458.0
 EII,Egegik,Egegik,AK,USA,58.18837472,-157.3809872,359.0
 EIW,County Memorial,New Madrid,MO,USA,0.0,0.0,42.0
@@ -1385,34 +1385,34 @@ EKO,Elko Regional,Elko,NV,USA,40.82492611,-115.7916964,140.0
 EKQ,Wayne County,Monticello,KY,USA,0.0,0.0,0.0
 EKX,Elizabethtown,Elizabethtown,KY,USA,0.0,0.0,406.0
 EKY,Bessemer Municipal,Bessemer,AL,USA,0.0,0.0,0.0
-ELA,Eagle Lake Municipal,Eagle Lake,TX,USA,0.0,0.0,137.0
+ELA,Eagle Lake Municipal,Eagle Lake,TX,USA,29.60301389,-96.32248444,137.0
 ELD,South Arkansas Regional At Goodwin,El Dorado,AR,USA,0.0,0.0,0.0
 ELI,Elim,Elim,AK,USA,64.61400972,-162.2700681,304.0
 ELK,Elk City Municipal,Elk City,OK,USA,0.0,0.0,0.0
-ELM,Elmira/Corning Regional,Elmira,NY,USA,0.0,0.0,0.0
+ELM,Elmira/Corning Regional,Elmira,NY,USA,42.15991361,-76.89144333,0.0
 ELN,Bowers,Ellensburg,WA,USA,47.03302778,-120.5306944,498.0
 ELO,Ely Municipal,Ely,MN,USA,0.0,0.0,268.0
-ELP,El Paso International,El Paso,TX,USA,0.0,0.0,212.0
+ELP,El Paso International,El Paso,TX,USA,31.80666667,-106.3778056,212.0
 ELV,Elfin Cove SPB,Elfin Cove,AK,USA,58.19518417,-136.3473928,250.0
 ELY,Ely Arpt (Yelland),Ely,NV,USA,0.0,0.0,0.0
 ELZ,Wellsville Muni Tarantine,Wellsville,NY,USA,0.0,0.0,0.0
 EMM,Kemmerer Municipal,Kemmerer,WY,USA,0.0,0.0,0.0
 EMP,Emporia Municipal,Emporia,KS,USA,0.0,0.0,0.0
 EMT,El Monte,El Monte,CA,USA,34.08600889,-118.0348453,403.0
-EMV,Emporia-Greensville Regional,Emporia,VA,USA,0.0,0.0,198.0
+EMV,Emporia-Greensville Regional,Emporia,VA,USA,36.68691667,-77.48280556,198.0
 ENA,Kenai Municipal,Kenai,AK,USA,60.572,-151.2475278,187.0
 ENL,Centralia Municipal,Centralia,IL,USA,0.0,0.0,0.0
 ENM,Emmonak,Emmonak,AK,USA,62.78518639,-164.4910461,448.0
 ENN,Nenana Municipal,Nenana,AK,USA,64.54898167,-149.0735053,129.0
 ENV,Wendover,Wendover,UT,USA,0.0,0.0,9.0
-ENW,Kenosha Regional,Kenosha,WI,USA,0.0,0.0,0.0
+ENW,Kenosha Regional,Kenosha,WI,USA,42.5957075,-87.92780333,0.0
 EOK,Keokuk Municipal,Keokuk,IA,USA,0.0,0.0,0.0
-EOS,Neosho Memorial,Neosho,MO,USA,0.0,0.0,23.0
+EOS,Neosho Memorial,Neosho,MO,USA,36.81080556,-94.39169444,23.0
 EPH,Ephrata Muni,Ephrata,WA,USA,47.30758333,-119.5158889,258.0
 EPM,Eastport Municipal,Eastport,ME,USA,44.91011111,-67.01269444,303.0
 EQA,Captain Jack Thomas,El Dorado,KS,USA,0.0,0.0,141.0
 EQY,Monroe,Monroe,NC,USA,0.0,0.0,243.0
-ERI,Erie Intl,Erie,PA,USA,0.0,0.0,0.0
+ERI,Erie Intl,Erie,PA,USA,42.08202139,-80.17621556,0.0
 ERV,Kerrville Muni/Louis Schreiner,Kerrville,TX,USA,0.0,0.0,0.0
 ERY,Luce County Hale,Newberry,MI,USA,0.0,0.0,0.0
 ESC,Delta County,Escanaba,MI,USA,0.0,0.0,17.0
@@ -1429,7 +1429,7 @@ EUL,Caldwell Industrial,Caldwell (Boise),ID,USA,43.64186111,-116.6357778,417.0
 EVB,New Smyrna Beach Municipal,New Smyrna Beach,FL,USA,0.0,0.0,0.0
 EVM,Eveleth-Virginia Muni,Eveleth,MN,USA,0.0,0.0,359.0
 EVU,Maryville Memorial,Maryville,MO,USA,0.0,0.0,483.0
-EVV,Evansville Regional,Evansville,IN,USA,0.0,0.0,0.0
+EVV,Evansville Regional,Evansville,IN,USA,38.03799139,-87.53062667,0.0
 EVW,Evanston-Uinta County Burns,Evanston,WY,USA,0.0,0.0,0.0
 EVY,Summit Airpark,Middletown,DE,USA,0.0,0.0,329.0
 EWB,New Bedford Municipal,New Bedford,MA,USA,41.67614167,-70.95694167,488.0
@@ -1444,33 +1444,33 @@ EYW,Key West International,Key West,FL,USA,0.0,0.0,456.0
 EZI,Kewanee Municipal,Kewanee,IL,USA,0.0,0.0,404.0
 EZM,Eastman-Dodge County,Eastman,GA,USA,0.0,0.0,0.0
 EZZ,Cameron Memorial,Cameron,MO,USA,0.0,0.0,0.0
-F00,Jones,Bonham,TX,USA,0.0,0.0,0.0
-F01,Quanah Municipal,Quanah,TX,USA,0.0,0.0,457.0
-F05,Vernon - Wilbarger County,Vernon,TX,USA,0.0,0.0,231.0
-F06,Marian Airpark,Wellington,TX,USA,0.0,0.0,232.0
+F00,Jones,Bonham,TX,USA,33.61172222,-96.17938889,0.0
+F01,Quanah Municipal,Quanah,TX,USA,34.27708306,-99.75926861,457.0
+F05,Vernon - Wilbarger County,Vernon,TX,USA,34.22566806,-99.28375,231.0
+F06,Marian Airpark,Wellington,TX,USA,34.84561083,-100.1959481,232.0
 F08,Eufaula Municipal,Eufaula,OK,USA,0.0,0.0,0.0
 F10,Henryetta Municipal,Henryetta,OK,USA,0.0,0.0,403.0
 F12,Rusk County,Henderson,TX,USA,0.0,0.0,0.0
 F17,Center Municipal,Center,TX,USA,0.0,0.0,483.0
-F18,Cleburne Municipal,Cleburne,TX,USA,0.0,0.0,211.0
+F18,Cleburne Municipal,Cleburne,TX,USA,32.35376389,-97.43375,211.0
 F21,Memphis Municipal,Memphis,TX,USA,0.0,0.0,312.0
 F22,Perry Municipal,Perry,OK,USA,0.0,0.0,36.0
 F24,Minden-Webster,Minden,LA,USA,0.0,0.0,300.0
 F28,El Reno Municipal,El Reno,OK,USA,0.0,0.0,0.0
-F29,Clarence E. Page Municipal,Oklahoma City,OK,USA,0.0,0.0,137.0
-F30,Sulphur Municipal,Sulphur,OK,USA,0.0,0.0,443.0
+F29,Clarence E. Page Municipal,Oklahoma City,OK,USA,35.4880825,-97.82354556,137.0
+F30,Sulphur Municipal,Sulphur,OK,USA,34.52453278,-96.98973944,443.0
 F31,Lake Texoma State Park,Kingston,OK,USA,0.0,0.0,345.0
 F32,Healdton Municipal,Healdton,OK,USA,0.0,0.0,0.0
-F36,Cordell Municipal,Cordell,OK,USA,0.0,0.0,0.0
+F36,Cordell Municipal,Cordell,OK,USA,35.30421917,-98.96702167,0.0
 F37,Wauchula Municipal,Wauchula,FL,USA,0.0,0.0,318.0
 F39,Grayson County,Sherman/Denison,TX,USA,0.0,0.0,85.0
-F41,Ennis Municipal,Ennis,TX,USA,0.0,0.0,0.0
+F41,Ennis Municipal,Ennis,TX,USA,32.32969444,-96.66388889,0.0
 F44,Athens Jones Municipal,Athens,TX,USA,0.0,0.0,377.0
 F45,North Palm Beach County General Aviation,West Palm Beach,FL,USA,0.0,0.0,387.0
 F46,Rockwall Municipal,Rockwall,TX,USA,0.0,0.0,0.0
 F49,Slaton Municipal,Slaton,TX,USA,0.0,0.0,170.0
 F51,Winnsboro Municipal,Winnsboro,TX,USA,32.93884556,-95.27886083,0.0
-F53,Franklin County,Mount Vernon,TX,USA,0.0,0.0,0.0
+F53,Franklin County,Mount Vernon,TX,USA,33.21530583,-95.2374925,0.0
 F55,Granbury Municipal,Granbury,TX,USA,0.0,0.0,390.0
 F56,Arledge,Stamford,TX,USA,0.0,0.0,0.0
 F70,French Valley,Murieta/Temecula,CA,USA,33.57605556,-117.1279722,321.0
@@ -1489,17 +1489,17 @@ FAQ,Fitiuta,Fitiuta Village,AS,USA,14.21577583,-169.4239058,41.0
 FAR,Hector International,Fargo,ND,USA,0.0,0.0,0.0
 FAT,Fresno Yosemite International,Fresno,CA,USA,36.77619444,-119.7181389,30.0
 FAY,Fayetteville Municipal,Fayetteville,NC,USA,0.0,0.0,0.0
-FBL,Faribault Municipal,Faribault,MN,USA,0.0,0.0,0.0
+FBL,Faribault Municipal,Faribault,MN,USA,44.32468556,-93.31082889,0.0
 FBR,Fort Bridger,Fort Bridger,WY,USA,0.0,0.0,377.0
 FBY,Fairbury Municipal,Fairbury,NE,USA,0.0,0.0,269.0
 FCA,Glacier Park Intl,Kalispell,MT,USA,0.0,0.0,0.0
 FCH,Fresno-Chandler Downtown,Fresno,CA,USA,36.732365,-119.8198961,107.0
-FCI,Chesterfield County,Richmond,VA,USA,0.0,0.0,0.0
+FCI,Chesterfield County,Richmond,VA,USA,37.4065375,-77.52498667,0.0
 FCM,Flying Cloud,Minneapolis,MN,USA,0.0,0.0,0.0
 FCY,Forrest City Municipal,Forrest City,AR,USA,0.0,0.0,475.0
 FDK,Frederick Municipal,Frederick,MD,USA,0.0,0.0,0.0
 FDR,Frederick Municipal,Frederick,OK,USA,0.0,0.0,0.0
-FDW,Fairfield County,Winnsboro,SC,USA,0.0,0.0,0.0
+FDW,Fairfield County,Winnsboro,SC,USA,34.31547222,-81.10880556,0.0
 FDY,Findlay,Findlay,OH,USA,0.0,0.0,131.0
 FEP,Albertus,Freeport,IL,USA,0.0,0.0,411.0
 FET,Fremont Municipal,Fremont,NE,USA,0.0,0.0,0.0
@@ -1509,13 +1509,13 @@ FFL,Fairfield Municipal,Fairfield,IA,USA,0.0,0.0,0.0
 FFM,Fergus Falls Muni-Einar Mickelson,Fergus Falls,MN,USA,0.0,0.0,347.0
 FFT,Capital City,Frankfort,KY,USA,0.0,0.0,63.0
 FFZ,Falcon,Mesa,AZ,USA,0.0,0.0,0.0
-FGX,Fleming-Mason,Flemingsburg,KY,USA,0.0,0.0,276.0
+FGX,Fleming-Mason,Flemingsburg,KY,USA,38.54180556,-83.74338889,276.0
 FHR,Friday Harbor,Friday Harbor,WA,USA,48.52197222,-123.0243611,500.0
-FHU,Libby AAF-Sierra Vista Municipal,Fort Huachuca-Sierra Vista,AZ,USA,0.0,0.0,411.0
+FHU,Libby AAF-Sierra Vista Municipal,Fort Huachuca-Sierra Vista,AZ,USA,31.58847222,-110.3443889,411.0
 FIG,Clearfield-Lawrence,Clearfield,PA,USA,0.0,0.0,0.0
 FIT,Fitchburg Municipal,Fitchburg,MA,USA,42.55412194,-71.75895639,448.0
 FKL,Chess-Lamberton,Franklin,PA,USA,0.0,0.0,0.0
-FKN,Franklin Municipal-John Beverly Rose,Franklin,VA,USA,0.0,0.0,0.0
+FKN,Franklin Municipal-John Beverly Rose,Franklin,VA,USA,36.69817806,-76.90312694,0.0
 FKR,Frankfort Municipal,Frankfort,IN,USA,0.0,0.0,0.0
 FLD,Fond Du Lac County,Fond Du Lac,WI,USA,0.0,0.0,390.0
 FLG,Flagstaff Pulliam,Flagstaff,AZ,USA,0.0,0.0,0.0
@@ -1529,7 +1529,7 @@ FMN,Four Corners Regional,Farmington,NM,USA,0.0,0.0,104.0
 FMY,Page,Ft. Myers,FL,USA,0.0,0.0,405.0
 FMZ,Fairmont State,Fairmont,NE,USA,0.0,0.0,489.0
 FNB,Brenner,Falls City,NE,USA,0.0,0.0,0.0
-FNL,Fort Collins-Loveland,Fort Collins/Loveland,CO,USA,0.0,0.0,0.0
+FNL,Fort Collins-Loveland,Fort Collins/Loveland,CO,USA,40.45182722,-105.0113356,0.0
 FNR,Funter Bay SPB,Funter Bay,AK,USA,58.25438583,-134.8979067,113.0
 FNT,Bishop,Flint,MI,USA,0.0,0.0,164.0
 FOA,Flora,Flora,IL,USA,0.0,0.0,0.0
@@ -1538,39 +1538,39 @@ FOE,Forbes,Topeka,KS,USA,0.0,0.0,0.0
 FOK,Francis Gabreski,Westhampton Beach,NY,USA,40.84365472,-72.63178917,340.0
 FOT,Rohnerville,Fortuna,CA,USA,40.55393583,-124.1326589,476.0
 FPR,St. Lucie County International,Ft. Pierce,FL,USA,0.0,0.0,84.0
-FQD,Rutherford County-Marchman,Rutherfordton,NC,USA,0.0,0.0,0.0
+FQD,Rutherford County-Marchman,Rutherfordton,NC,USA,35.42822222,-81.93507778,0.0
 FRG,Republic,Farmingdale,NY,USA,40.72878111,-73.41340722,145.0
-FRH,French Lick Municipal,French Lick,IN,USA,0.0,0.0,398.0
+FRH,French Lick Municipal,French Lick,IN,USA,38.50622139,-86.63693528,398.0
 FRM,Fairmont Municipal,Fairmont,MN,USA,0.0,0.0,305.0
 FRR,Front Royal-Warren County,Front Royal,VA,USA,0.0,0.0,145.0
 FSD,Joe Foss,Sioux Falls,SD,USA,0.0,0.0,0.0
 FSE,Fosston Municipal,Fosston,MN,USA,0.0,0.0,158.0
-FSK,Fort Scott Municipal,Fort Scott,KS,USA,0.0,0.0,370.0
+FSK,Fort Scott Municipal,Fort Scott,KS,USA,37.79843056,-94.76938111,370.0
 FSM,Fort Smith Regional,Fort Smith,AR,USA,0.0,0.0,316.0
 FSO,Franklin County State,Highgate,VT,USA,44.94028083,-73.09746,283.0
 FST,Fort Stockton - Pecos County,Fort Stockton,TX,USA,0.0,0.0,0.0
-FSU,Fort Sumner Municipal,Fort Sumner,NM,USA,0.0,0.0,2.0
+FSU,Fort Sumner Municipal,Fort Sumner,NM,USA,34.48339944,-104.2171967,2.0
 FSW,Fort Madison Municipal,Fort Madison,IA,USA,0.0,0.0,338.0
 FTG,Front Range,Denver,CO,USA,0.0,0.0,0.0
 FTT,Elton Hensley Memorial,Fulton,MO,USA,0.0,0.0,0.0
-FTW,Fort Worth Meacham International,Fort Worth,TX,USA,0.0,0.0,0.0
+FTW,Fort Worth Meacham International,Fort Worth,TX,USA,32.81977778,-97.36244444,0.0
 FTY,Fulton County - Brown,Atlanta,GA,USA,0.0,0.0,0.0
 FUL,Fullerton Municipal,Fullerton,CA,USA,33.87201417,-117.9797842,429.0
 FVE,Northern Aroostook Regional,Frenchville,ME,USA,47.28550417,-68.31275,390.0
-FVX,Farmville Municipal,Farmville,VA,USA,0.0,0.0,116.0
+FVX,Farmville Municipal,Farmville,VA,USA,37.35752861,-78.43779806,116.0
 FWA,Fort Wayne International,Fort Wayne,IN,USA,0.0,0.0,142.0
 FWC,Fairfield Municipal,Fairfield,IL,USA,0.0,0.0,270.0
 FWN,Sussex,Sussex,NJ,USA,41.20020667,-74.62305056,486.0
 FWS,Spinks,Fort Worth,TX,USA,0.0,0.0,161.0
 FXE,Fort Lauderdale Executive,Ft. Lauderdale,FL,USA,0.0,0.0,274.0
-FXY,Forest City Municipal,Forest City,IA,USA,0.0,0.0,0.0
-FYE,Fayette County,Somerville,TN,USA,0.0,0.0,204.0
-FYM,Fayetteville Municipal,Fayetteville,TN,USA,0.0,0.0,319.0
+FXY,Forest City Municipal,Forest City,IA,USA,43.23473417,-93.6241025,0.0
+FYE,Fayette County,Somerville,TN,USA,35.20592,-89.39441667,204.0
+FYM,Fayetteville Municipal,Fayetteville,TN,USA,35.05836278,-86.56441139,319.0
 FYU,Fort Yukon,Fort Yukon,AK,USA,66.57149028,-145.2504169,296.0
 FYV,Fayetteville Municipal,Fayetteville,AR,USA,0.0,0.0,0.0
 FZG,Fitzgerald Municipal,Fitzgerald,GA,USA,0.0,0.0,0.0
-FZI,Fostoria Metropolitan,Fostoria,OH,USA,0.0,0.0,0.0
-FZY,Oswego Cty,Fulton,NY,USA,0.0,0.0,188.0
+FZI,Fostoria Metropolitan,Fostoria,OH,USA,41.19083111,-83.39453639,0.0
+FZY,Oswego Cty,Fulton,NY,USA,43.35077528,-76.38805361,188.0
 GAB,Gabbs,Gabbs,NV,USA,38.92409111,-117.9590072,21.0
 GAD,Gadsden Municipal,Gadsden,AL,USA,0.0,0.0,19.0
 GAF,Grafton Municipal,Grafton,ND,USA,0.0,0.0,0.0
@@ -1583,16 +1583,16 @@ GBD,Great Bend Municipal,Great Bend,KS,USA,0.0,0.0,370.0
 GBG,Galesburg Municipal,Galesburg,IL,USA,0.0,0.0,214.0
 GBH,Galbraith Lake,Galbraith Lake,AK,USA,68.47906306,-149.4900214,334.0
 GBR,Great Barrington,Great Barrington,MA,USA,42.18421417,-73.40324056,193.0
-GCC,Gillette-Campbell County,Gillette,WY,USA,0.0,0.0,0.0
+GCC,Gillette-Campbell County,Gillette,WY,USA,44.34889806,-105.5393614,0.0
 GCK,Garden City Regional,Garden City,KS,USA,0.0,0.0,419.0
-GCM,Claremore Regional,Claremore,OK,USA,0.0,0.0,174.0
-GCN,Grand Canyon National Park,Grand Canyon,AZ,USA,0.0,0.0,0.0
-GCT,Guthrie County Regional,Guthrie Center,IA,USA,0.0,0.0,120.0
+GCM,Claremore Regional,Claremore,OK,USA,36.29441667,-95.47966667,174.0
+GCN,Grand Canyon National Park,Grand Canyon,AZ,USA,35.95235389,-112.1469647,0.0
+GCT,Guthrie County Regional,Guthrie Center,IA,USA,41.68776417,-94.43524611,120.0
 GCY,Greeneville Municipal,Greeneville,TN,USA,0.0,0.0,429.0
 GDM,Gardner Municipal,Gardner,MA,USA,42.54986639,-72.01602194,44.0
-GDV,Dawson Community,Glendive,MT,USA,0.0,0.0,0.0
+GDV,Dawson Community,Glendive,MT,USA,47.13871861,-104.8071994,0.0
 GDW,Gladwin,Gladwin,MI,USA,0.0,0.0,321.0
-GDY,Grundy Municipal,Grundy,VA,USA,0.0,0.0,0.0
+GDY,Grundy Municipal,Grundy,VA,USA,37.23240111,-82.12499083,0.0
 GED,Sussex Cty Arpt,Georgetown,DE,USA,0.0,0.0,368.0
 GEG,Spokane Intl,Spokane,WA,USA,47.61985556,-117.5338425,345.0
 GEO,Brown County,Georgetown,OH,USA,0.0,0.0,115.0
@@ -1603,52 +1603,52 @@ GFK,Grand Forks International,Grand Forks,ND,USA,0.0,0.0,0.0
 GFL,Floyd D. Bennett,Glens Falls,NY,USA,43.34121,-73.6103075,232.0
 GFZ,Greenfield Municipal,Greenfield,IA,USA,0.0,0.0,0.0
 GGE,Georgetown County,Georgetown,SC,USA,0.0,0.0,0.0
-GGF,Grant Municipal,Grant,NE,USA,0.0,0.0,273.0
+GGF,Grant Municipal,Grant,NE,USA,40.86952778,-101.7328611,273.0
 GGG,Gregg County,Longview,TX,USA,0.0,0.0,45.0
 GGI,Grinnell Municipal,Grinnell,IA,USA,0.0,0.0,0.0
-GGP,Logansport Municipal,Logansport,IN,USA,0.0,0.0,66.0
+GGP,Logansport Municipal,Logansport,IN,USA,40.71126139,-86.37449917,66.0
 GGW,Wokal Field/Glasgow Intl,Glasgow,MT,USA,0.0,0.0,446.0
 GHM,Centerville Municipal,Centerville,TN,USA,0.0,0.0,0.0
-GHW,Glenwood Municipal,Glenwood,MN,USA,0.0,0.0,0.0
+GHW,Glenwood Municipal,Glenwood,MN,USA,45.64389167,-95.32043056,0.0
 GIF,Winter Havens Gilbert,Winter Haven,FL,USA,0.0,0.0,188.0
 GJT,Walker,Grand Junction,CO,USA,0.0,0.0,0.0
 GKJ,Port Meadville,Meadville,PA,USA,0.0,0.0,331.0
 GKN,Gulkana,Gulkana,AK,USA,62.15488889,-145.4566389,32.0
 GKT,Gatlinburg-Pigeon Forge,Sevierville,TN,USA,0.0,0.0,368.0
-GKY,Arlington Municipal,Arlington,TX,USA,0.0,0.0,0.0
+GKY,Arlington Municipal,Arlington,TX,USA,32.66241528,-97.09391139,0.0
 GLD,Renner Field/Goodland Municipal,Goodland,KS,USA,0.0,0.0,0.0
-GLE,Gainesville Municipal,Gainesville,TX,USA,0.0,0.0,0.0
+GLE,Gainesville Municipal,Gainesville,TX,USA,33.65136111,-97.19702778,0.0
 GLH,Mid Delta Regional,Greenville,MS,USA,0.0,0.0,93.0
 GLR,Otsego County,Gaylord,MI,USA,0.0,0.0,172.0
-GLS,Galveston-Scholes,Galveston,TX,USA,0.0,0.0,0.0
+GLS,Galveston-Scholes,Galveston,TX,USA,29.26532333,-94.86040667,0.0
 GLW,Glasgow Municipal,Glasgow,KY,USA,0.0,0.0,22.0
-GLY,Clinton Memorial,Clinton,MO,USA,0.0,0.0,0.0
+GLY,Clinton Memorial,Clinton,MO,USA,38.35657306,-93.68417694,0.0
 GMJ,Grove Municipal,Grove,OK,USA,0.0,0.0,359.0
 GMU,Greenville Downtown,Greenville,SC,USA,0.0,0.0,0.0
-GNB,Granby-Grand County,Granby,CO,USA,0.0,0.0,3.0
+GNB,Granby-Grand County,Granby,CO,USA,40.08970806,-105.9172367,3.0
 GNF,Grenada Municipal,Grenada,MS,USA,0.0,0.0,89.0
-GNG,Gooding Municipal,Gooding,ID,USA,0.0,0.0,0.0
+GNG,Gooding Municipal,Gooding,ID,USA,42.91716639,-114.7651575,0.0
 GNT,Grants-Milan Municipal,Grants,NM,USA,0.0,0.0,0.0
 GNU,Goodnews,Goodnews,AK,USA,59.11727556,-161.5813967,382.0
 GNV,Gainesville Regional,Gainesville,FL,USA,0.0,0.0,0.0
 GOK,Guthrie Municipal,Guthrie,OK,USA,0.0,0.0,5.0
 GON,Groton-New London,Groton,CT,USA,41.33005778,-72.04513556,445.0
 GPH,Clay County Regional,Mosby,MO,USA,0.0,0.0,353.0
-GPM,Grand Prairie Municipal,Grand Prairie,TX,USA,0.0,0.0,121.0
+GPM,Grand Prairie Municipal,Grand Prairie,TX,USA,32.69858333,-97.04652778,121.0
 GPT,Gulfport-Biloxi Regional,Gulfport-Biloxi,MS,USA,0.0,0.0,0.0
 GPZ,Grand Rapids-Itasca County,Grand Rapids,MN,USA,0.0,0.0,0.0
 GQQ,Galion Municipal,Galion,OH,USA,0.0,0.0,0.0
 GRB,Austin Straubel International,Green Bay,WI,USA,0.0,0.0,308.0
 GRD,Greenwood County,Greenwood,SC,USA,0.0,0.0,0.0
-GRE,Greenville,Greenville,IL,USA,0.0,0.0,229.0
+GRE,Greenville,Greenville,IL,USA,38.83615778,-89.37841111,229.0
 GRI,Central Nebraska Regional,Grand Island,NE,USA,0.0,0.0,195.0
-GRK,Robert Gray AAF,Killeen,TX,USA,0.0,0.0,485.0
+GRK,Robert Gray AAF,Killeen,TX,USA,31.06489778,-97.82779778,485.0
 GRN,Gordon Municipal,Gordon,NE,USA,0.0,0.0,470.0
 GRO,Rota International,Rota Island,CQ,USA,14.1743075,-145.2425353,251.0
 GRR,Kent County International,Grand Rapids,MI,USA,0.0,0.0,449.0
 GSH,Goshen Municipal,Goshen,IN,USA,0.0,0.0,0.0
 GSN,Saipan International,Obyan,CQ,USA,15.11900139,-145.7293561,231.0
-GSO,Piedmont Triad International,Greensboro,NC,USA,0.0,0.0,139.0
+GSO,Piedmont Triad International,Greensboro,NC,USA,36.09774694,-79.9372975,139.0
 GSP,Greenville-Spartanburg,Greer,SC,USA,0.0,0.0,0.0
 GST,Gustavus,Gustavus,AK,USA,58.42438139,-135.7073814,336.0
 GTF,Great Falls Intl,Great Falls,MT,USA,0.0,0.0,0.0
@@ -1657,35 +1657,35 @@ GTU,Georgetown Municipal,Georgetown,TX,USA,0.0,0.0,187.0
 GUC,Gunnison County,Gunnison,CO,USA,0.0,0.0,0.0
 GUM,Guam International,Agana,GU,USA,13.48345,-144.7959825,494.0
 GUP,Gallup Municipal,Gallup,NM,USA,0.0,0.0,403.0
-GUY,Guymon Municipal,Guymon,OK,USA,0.0,0.0,275.0
+GUY,Guymon Municipal,Guymon,OK,USA,36.68507194,-101.5077817,275.0
 GVL,Lee Gilmer Memorial,Gainesville,GA,USA,0.0,0.0,0.0
 GVQ,Genesee Cty,Batavia,NY,USA,0.0,0.0,196.0
 GVT,Majors,Greenville,TX,USA,0.0,0.0,58.0
 GWO,Greenwood-Leflore,Greenwood,MS,USA,0.0,0.0,163.0
 GWR,Gwinner-Roger Melroe,Gwinner,ND,USA,0.0,0.0,0.0
 GWW,Goldsboro-Wayne Municipal,Goldsboro,NC,USA,0.0,0.0,160.0
-GXY,Greeley-Weld County,Greeley,CO,USA,0.0,0.0,0.0
+GXY,Greeley-Weld County,Greeley,CO,USA,40.43561833,-104.6321156,0.0
 GYH,Donaldson Center,Greenville,SC,USA,0.0,0.0,0.0
 GYR,Phoenix Goodyear,Goodyear,AZ,USA,0.0,0.0,222.0
-GYY,Gary/Chicago,Gary,IN,USA,0.0,0.0,48.0
+GYY,Gary/Chicago,Gary,IN,USA,41.61627306,-87.41278806,48.0
 GZH,Middleton,Evergreen,AL,USA,0.0,0.0,30.0
 GZS,Abernathy,Pulaski,TN,USA,0.0,0.0,0.0
 H04,Vinita Municipal,Vinita,OK,USA,0.0,0.0,0.0
 H05,Wilburton Municipal,Wilburton,OK,USA,0.0,0.0,0.0
-H19,Bowling Green Municipal,Bowling Green,MO,USA,0.0,0.0,298.0
+H19,Bowling Green Municipal,Bowling Green,MO,USA,39.36993361,-91.21925556,298.0
 H21,Camdenton Memorial,Camdenton,MO,USA,0.0,0.0,465.0
 H30,Hamilton Municipal,Hamilton,NY,USA,0.0,0.0,0.0
 H35,Clarksville Municipal,Clarksville,AR,USA,0.0,0.0,350.0
-H41,Memorial,Mexico,MO,USA,0.0,0.0,0.0
+H41,Memorial,Mexico,MO,USA,39.15751389,-91.81826667,0.0
 H45,Seminole Municipal,Seminole,OK,USA,0.0,0.0,0.0
 H66,Nowata Municipal,Nowata,OK,USA,0.0,0.0,118.0
 H71,Mid-America Industrial,Pryor,OK,USA,0.0,0.0,176.0
 H79,Eldon Model Airpark,Eldon,MO,USA,0.0,0.0,242.0
-H88,Municipal,Fredericktown,MO,USA,0.0,0.0,279.0
+H88,Municipal,Fredericktown,MO,USA,37.605825,-90.28731389,279.0
 H92,Hominy,Hominy,OK,USA,0.0,0.0,0.0
 H96,Benton Municipal,Benton,IL,USA,0.0,0.0,111.0
 H97,Pawnee Municipal,Pawnee,OK,USA,0.0,0.0,0.0
-HAB,Marion County,Hamilton,AL,USA,0.0,0.0,165.0
+HAB,Marion County,Hamilton,AL,USA,34.11757222,-87.99819583,165.0
 HAE,Hannibal Municipal,Hannibal,MO,USA,0.0,0.0,301.0
 HAF,Half Moon Bay,Half Moon Bay,CA,USA,37.51382944,-122.5010892,251.0
 HAI,Three Rivers Municipal,Three Rivers,MI,USA,0.0,0.0,451.0
@@ -1693,18 +1693,18 @@ HAO,Hamilton-Fairfield,Hamilton,OH,USA,0.0,0.0,0.0
 HAY,Haycock,Haycock,AK,USA,65.20098944,-161.1567792,453.0
 HBC,Mohall Municipal,Mohall,ND,USA,0.0,0.0,0.0
 HBG,Bobby L. Chain Municipal,Hattiesburg,MS,USA,0.0,0.0,412.0
-HBR,Hobart Municipal,Hobart,OK,USA,0.0,0.0,0.0
+HBR,Hobart Municipal,Hobart,OK,USA,34.9913075,-99.0513525,0.0
 HBV,Jim Hogg County,Hebbronville,TX,USA,0.0,0.0,70.0
 HBZ,Heber Springs Municipal,Heber Springs,AR,USA,0.0,0.0,435.0
 HCD,Hutchinson Municipal,Hutchinson,MN,USA,0.0,0.0,492.0
 HCO,Hallock Municipal,Hallock,MN,USA,0.0,0.0,0.0
 HDC,Hammond Municipal,Hammond,LA,USA,0.0,0.0,98.0
-HDE,Brewster,Holdredge,NE,USA,0.0,0.0,0.0
+HDE,Brewster,Holdredge,NE,USA,40.45269444,-99.33733333,0.0
 HDH,Dillingham Airfield,Mokuleia,HI,USA,21.57947361,-158.1972814,49.0
 HDI,Hardwick,Cleveland,TN,USA,0.0,0.0,279.0
 HDN,Yampa Valley,Hayden,CO,USA,0.0,0.0,0.0
 HDO,Hondo Municipal,Hondo,TX,USA,0.0,0.0,0.0
-HEE,Thompson-Robbins,Helena-West Helena,AR,USA,0.0,0.0,0.0
+HEE,Thompson-Robbins,Helena-West Helena,AR,USA,34.57648972,-90.67588639,0.0
 HEF,Manassas Reg./Harry P Davis,Manassas,VA,USA,0.0,0.0,249.0
 HEI,Hettinger Municipal,Hettinger,ND,USA,0.0,0.0,0.0
 HEQ,Holyoke,Holyoke,CO,USA,0.0,0.0,2.0
@@ -1723,15 +1723,15 @@ HIE,Mt Washington Regional,Whitefield,NH,USA,44.36761639,-71.54447111,82.0
 HIG,Higginsville Industrial Municipal,Higginsville,MO,USA,0.0,0.0,0.0
 HII,Lake Havasu City,Lake Havasu City,AZ,USA,0.0,0.0,177.0
 HIO,Portland-Hillsboro,Hillsboro (Portland),OR,USA,45.54039389,-122.9498258,209.0
-HJH,Hebron Municipal,Hebron,NE,USA,0.0,0.0,81.0
+HJH,Hebron Municipal,Hebron,NE,USA,40.15225,-97.58697222,81.0
 HJO,Hanford Municipal,Hanford,CA,USA,36.31852194,-119.6288675,35.0
 HKA,Blytheville Municipal,Blytheville,AR,USA,0.0,0.0,0.0
 HKS,Hawkins,Jackson,MS,USA,0.0,0.0,277.0
 HKY,Hickory Municipal,Hickory,NC,USA,0.0,0.0,0.0
-HLC,Hill City Municipal,Hill City,KS,USA,0.0,0.0,245.0
-HLG,Wheeling-Ohio Cty,Wheeling,WV,USA,0.0,0.0,96.0
+HLC,Hill City Municipal,Hill City,KS,USA,39.37883611,-99.83149444,245.0
+HLG,Wheeling-Ohio Cty,Wheeling,WV,USA,40.175,-80.64627778,96.0
 HLN,Helena Regional,Helena,MT,USA,0.0,0.0,0.0
-HLX,Twin County,Galax,VA,USA,0.0,0.0,30.0
+HLX,Twin County,Galax,VA,USA,36.76611472,-80.82356556,30.0
 HMT,Hemet-Ryan,Hemet,CA,USA,33.73398167,-117.0225258,203.0
 HMZ,Bedford County,Bedford,PA,USA,0.0,0.0,0.0
 HNB,Huntingburg,Huntingburg,IN,USA,0.0,0.0,0.0
@@ -1750,8 +1750,8 @@ HOT,Memorial,Hot Springs,AR,USA,0.0,0.0,226.0
 HOU,William P Hobby,Houston,TX,USA,0.0,0.0,272.0
 HPB,Hooper Bay,Hooper Bay,AK,USA,61.52418306,-166.1467797,321.0
 HPN,Westchester Cty,White Plains,NY,USA,41.06695778,-73.70757444,130.0
-HPT,Hampton Municipal,Hampton,IA,USA,0.0,0.0,397.0
-HQG,Hugoton Municipal,Hugoton,KS,USA,0.0,0.0,0.0
+HPT,Hampton Municipal,Hampton,IA,USA,42.72372361,-93.22634056,397.0
+HQG,Hugoton Municipal,Hugoton,KS,USA,37.16308056,-101.3705267,0.0
 HQM,Bowerman,Hoquiam,WA,USA,46.97120167,-123.9365581,445.0
 HQU,Thomson-McDuffie County,Thomson,GA,USA,0.0,0.0,63.0
 HQZ,Mesquite Metro,Mesquite,TX,USA,0.0,0.0,0.0
@@ -1766,7 +1766,7 @@ HSB,Harrisburg-Raleigh,Harrisburg,IL,USA,0.0,0.0,0.0
 HSE,Billy Mitchell,Hatteras,NC,USA,0.0,0.0,54.0
 HSI,Hastings Municipal,Hastings,NE,USA,0.0,0.0,398.0
 HSL,Huslia,Huslia,AK,USA,65.70055556,-156.3875,12.0
-HSP,Ingalls,Hot Springs,VA,USA,0.0,0.0,0.0
+HSP,Ingalls,Hot Springs,VA,USA,37.95144444,-79.83389444,0.0
 HSR,Hot Springs Municipal,Hot Springs,SD,USA,0.0,0.0,0.0
 HSV,Huntsville International,Huntsville,AL,USA,0.0,0.0,0.0
 HTH,Hawthorne Municipal,Hawthorne,NV,USA,38.54436583,-118.6343003,484.0
@@ -1778,7 +1778,7 @@ HUF,Terre Haute International-Hulman,Terre Haute,IN,USA,0.0,0.0,436.0
 HUL,Houlton International,Houlton,ME,USA,46.12308333,-67.79205556,187.0
 HUM,Houma-Terrebonne,Houma,LA,USA,0.0,0.0,109.0
 HUS,Hughes,Hughes,AK,USA,66.04112167,-154.2631903,201.0
-HUT,Hutchinson Municipal,Hutchinson,KS,USA,0.0,0.0,0.0
+HUT,Hutchinson Municipal,Hutchinson,KS,USA,38.06548306,-97.86063361,0.0
 HVC,Hopkinsville-Christian County,Hopkinsville,KY,USA,0.0,0.0,0.0
 HVE,Hanksville,Hanksville,UT,USA,0.0,0.0,0.0
 HVN,Tweed-New Haven,New Haven,CT,USA,41.26389889,-72.8871,180.0
@@ -1789,43 +1789,43 @@ HWI,Hawk Inlet SPB,Hawk Inlet,AK,USA,58.12744139,-134.7559531,496.0
 HWO,North Perry,Hollywood,FL,USA,0.0,0.0,0.0
 HWQ,Wheatland County  At Harlowton,Harlowton,MT,USA,0.0,0.0,0.0
 HWV,Brookhaven,Shirley,NY,USA,40.81676528,-72.86204722,331.0
-HXD,Hilton Head,Hilton Head Island,SC,USA,0.0,0.0,0.0
+HXD,Hilton Head,Hilton Head Island,SC,USA,32.22436111,-80.69747222,0.0
 HXF,Hartford Municipal,Hartford,WI,USA,0.0,0.0,0.0
 HYA,Barnstable Mun Boardman/Polando,Hyannis,MA,USA,41.66933639,-70.28035583,275.0
 HYG,Hydaburg SPB,Hydaburg,AK,USA,55.20631611,-132.8283131,293.0
 HYI,San Marcos Municipal,San Marcos,TX,USA,0.0,0.0,0.0
 HYL,Hollis SPB,Hollis,AK,USA,55.48158833,-132.6460942,70.0
 HYR,Sawyer County,Hayward,WI,USA,0.0,0.0,203.0
-HYS,Hays Municipal,Hays,KS,USA,0.0,0.0,443.0
+HYS,Hays Municipal,Hays,KS,USA,38.84494167,-99.27403361,443.0
 HYW,Conway-Horry County,Conway,SC,USA,0.0,0.0,0.0
-HZD,Carroll County,Huntingdon,TN,USA,0.0,0.0,0.0
+HZD,Carroll County,Huntingdon,TN,USA,36.08930722,-88.46329778,0.0
 HZE,Mercer County Regional,Hazen,ND,USA,0.0,0.0,0.0
 HZL,Hazleton Muni,Hazleton,PA,USA,0.0,0.0,424.0
-HZR,False River Air Park,New Roads,LA,USA,0.0,0.0,0.0
+HZR,False River Air Park,New Roads,LA,USA,30.71832333,-91.47866972,0.0
 HZY,Ashtabula County,Ashtabula,OH,USA,0.0,0.0,0.0
-I05,Sturgis Municipal,Sturgis,KY,USA,0.0,0.0,0.0
-I12,Sidney Municipal,Sidney,OH,USA,0.0,0.0,0.0
-I16,Kee,Pineville,WV,USA,0.0,0.0,431.0
+I05,Sturgis Municipal,Sturgis,KY,USA,37.54083333,-87.95183333,0.0
+I12,Sidney Municipal,Sidney,OH,USA,40.24127944,-84.15101167,0.0
+I16,Kee,Pineville,WV,USA,37.60044444,-81.55927778,431.0
 I18,Jackson County,Ravenswood,WV,USA,0.0,0.0,439.0
 I19,Greene County,Dayton,OH,USA,0.0,0.0,0.0
 I22,Randolph County,Winchester,IN,USA,0.0,0.0,438.0
 I23,Fayette County,Washington Court House,OH,USA,0.0,0.0,0.0
 I25,Welch Muni,Welch,WV,USA,0.0,0.0,0.0
 I32,Morehead-Rowan County,Morehead,KY,USA,0.0,0.0,423.0
-I34,Greensburg-Decatur County,Greensburg,IN,USA,0.0,0.0,0.0
+I34,Greensburg-Decatur County,Greensburg,IN,USA,39.32691111,-85.52252694,0.0
 I35,Tucker-Guthrie Memorial,Harlan,KY,USA,0.0,0.0,0.0
-I39,Madison County,Richmond,KY,USA,0.0,0.0,0.0
+I39,Madison County,Richmond,KY,USA,37.63152778,-84.33244444,0.0
 I40,Richard Downing,Coshocton,OH,USA,0.0,0.0,110.0
-I42,Paoli Municipal,Paoli,IN,USA,0.0,0.0,0.0
+I42,Paoli Municipal,Paoli,IN,USA,38.58338806,-86.46248778,0.0
 I43,James A Rhodes,Jackson,OH,USA,0.0,0.0,0.0
-I50,Stanton,Stanton,KY,USA,0.0,0.0,80.0
+I50,Stanton,Stanton,KY,USA,37.85008167,-83.84575194,80.0
 I57,Pike County,Waverly,OH,USA,0.0,0.0,0.0
 I63,Mt. Sterling Municipal,Mt. Sterling,IL,USA,0.0,0.0,0.0
 I66,Clinton,Wilmington,OH,USA,0.0,0.0,153.0
 I67,Cincinnati West,Harrison,OH,USA,0.0,0.0,0.0
-I68,Lebanon-Warren County,Lebanon,OH,USA,0.0,0.0,0.0
+I68,Lebanon-Warren County,Lebanon,OH,USA,39.46217306,-84.25184722,0.0
 I69,Clermont County,Batavia,OH,USA,0.0,0.0,0.0
-I74,Grimes,Urbana,OH,USA,0.0,0.0,0.0
+I74,Grimes,Urbana,OH,USA,40.12928306,-83.7548775,0.0
 I75,Osceola Municipal,Osceola,IA,USA,0.0,0.0,418.0
 I76,Peru Municipal,Peru,IN,USA,0.0,0.0,433.0
 I78,Union County,Marysville,OH,USA,0.0,0.0,0.0
@@ -1848,11 +1848,11 @@ IDP,Independence Municipal,Independence,KS,USA,0.0,0.0,293.0
 IEM,Whittier,Whittier,AK,USA,60.7772125,-148.7215775,107.0
 IEN,Pine Ridge,Pine Ridge,SD,USA,0.0,0.0,0.0
 IER,Natchitoches Municipal,Natchitoches,LA,USA,0.0,0.0,0.0
-IFA,Iowa Falls Municipal,Iowa Falls,IA,USA,0.0,0.0,0.0
+IFA,Iowa Falls Municipal,Iowa Falls,IA,USA,42.47078639,-93.26995361,0.0
 IFP,Laughlin/Bullhead International,Bullhead City,AZ,USA,0.0,0.0,0.0
 IGG,Igiugig,Igiugig,AK,USA,59.32373528,-155.9032733,62.0
 IGM,Kingman,Kingman,AZ,USA,0.0,0.0,29.0
-IGQ,Lansing Municipal,Chicago/Lansing,IL,USA,0.0,0.0,0.0
+IGQ,Lansing Municipal,Chicago/Lansing,IL,USA,41.53988889,-87.53216667,0.0
 IGT,Nightmute,Nightmute,AK,USA,60.47032722,-164.6856414,217.0
 IIB,Independence Municipal,Independence,IA,USA,0.0,0.0,157.0
 IIK,Kipnuk,Kipnuk,AK,USA,59.93295111,-164.0305131,96.0
@@ -1860,44 +1860,44 @@ IIY,Washington-Wilkes County,Washington,GA,USA,0.0,0.0,219.0
 IJD,Windham,Willimantic,CT,USA,41.74404028,-72.18023583,194.0
 IJX,Jacksonville Municipal,Jacksonville,IL,USA,0.0,0.0,0.0
 IKK,Greater Kankakee,Kankakee,IL,USA,0.0,0.0,185.0
-IKV,Ankeny Regional,Ankeny,IA,USA,0.0,0.0,417.0
-ILE,Killeen Municipal,Killeen,TX,USA,0.0,0.0,290.0
+IKV,Ankeny Regional,Ankeny,IA,USA,41.69128556,-93.56630333,417.0
+ILE,Killeen Municipal,Killeen,TX,USA,31.08583333,-97.6865,290.0
 ILG,New Castle County,Wilmington,DE,USA,0.0,0.0,0.0
 ILI,Iliamna,Iliamna,AK,USA,59.75380028,-154.9109597,481.0
 ILM,Wilmington International,Wilmington,NC,USA,0.0,0.0,423.0
 IML,Imperial Municipal,Imperial,NE,USA,0.0,0.0,93.0
-IMM,Immokalee,Immokalee,FL,USA,0.0,0.0,55.0
+IMM,Immokalee,Immokalee,FL,USA,26.43316667,-81.40102778,55.0
 IMS,Madison Municipal,Madison,IN,USA,0.0,0.0,240.0
 IMT,Ford,Iron Mountain/Kingsford,MI,USA,0.0,0.0,0.0
 IN03,Indianapolis Downtown,Indianapolis,IN,USA,0.0,0.0,0.0
 IND,Indianapolis International,Indianapolis,IN,USA,0.0,0.0,110.0
 INK,Winkler County,Wink,TX,USA,0.0,0.0,434.0
-INL,Falls International,International Falls,MN,USA,0.0,0.0,0.0
+INL,Falls International,International Falls,MN,USA,48.56618722,-93.40306667,0.0
 INT,Smith Reynolds,Winston-Salem,NC,USA,0.0,0.0,409.0
-INW,Winslow-Lindbergh Regional,Winslow,AZ,USA,0.0,0.0,0.0
-IOB,Mt Sterling-Montgomery County,Mount Sterling,KY,USA,0.0,0.0,76.0
+INW,Winslow-Lindbergh Regional,Winslow,AZ,USA,35.02191667,-110.7225278,0.0
+IOB,Mt Sterling-Montgomery County,Mount Sterling,KY,USA,38.05813889,-83.97958333,76.0
 IOW,Iowa City Municipal,Iowa City,IA,USA,0.0,0.0,191.0
 IPJ,Lincoln County,Lincolnton,NC,USA,0.0,0.0,236.0
 IPL,Imperial County,Imperial,CA,USA,32.83422028,-115.5787456,263.0
 IPT,Williamsport-Lycoming Cty,Williamsport,PA,USA,0.0,0.0,0.0
-IRK,Kirksville Regional,Kirksville,MO,USA,0.0,0.0,402.0
+IRK,Kirksville Regional,Kirksville,MO,USA,40.09364444,-92.54496917,402.0
 IRS,Kirsch Municipal,Sturgis,MI,USA,0.0,0.0,0.0
 ISM,Kissimmee Municipal,Orlando,FL,USA,0.0,0.0,0.0
 ISN,Sloulin Field International,Williston,ND,USA,0.0,0.0,0.0
-ISO,Kinston Regional Jetport At Stallin,Kinston,NC,USA,0.0,0.0,0.0
+ISO,Kinston Regional Jetport At Stallin,Kinston,NC,USA,35.32807944,-77.61552611,0.0
 ISP,Long Island - MacArthur,Islip,NY,USA,40.7952425,-73.10021194,414.0
-ISQ,Schoolcraft County,Manistique,MI,USA,0.0,0.0,200.0
+ISQ,Schoolcraft County,Manistique,MI,USA,45.97464056,-86.17183056,200.0
 ISW,Alexander,Wisconsin Rapids,WI,USA,0.0,0.0,35.0
-ISZ,Cincinnati-Blue Ash,Cincinnati,OH,USA,0.0,0.0,0.0
+ISZ,Cincinnati-Blue Ash,Cincinnati,OH,USA,39.24669444,-84.38897222,0.0
 ITH,Tompkins Cty,Ithaca,NY,USA,0.0,0.0,0.0
 ITO,Hilo International,Hilo,HI,USA,19.72026306,-155.0484703,373.0
-ITR,Kit Carson County,Burlington,CO,USA,0.0,0.0,382.0
+ITR,Kit Carson County,Burlington,CO,USA,39.2425,-102.2853889,382.0
 IWA,Williams Gateway,Phoenix,AZ,USA,0.0,0.0,0.0
-IWD,Gogebic County,Ironwood,MI,USA,0.0,0.0,245.0
+IWD,Gogebic County,Ironwood,MI,USA,46.52747472,-90.13139667,245.0
 IWH,Wabash Municipal,Wabash,IN,USA,0.0,0.0,0.0
 IWI,Wiscasset,Wiscasset,ME,USA,43.96141667,-69.71255556,344.0
 IWK,Wales,Wales,AK,USA,65.62394028,-168.0991719,315.0
-IWS,West Houston,Houston,TX,USA,0.0,0.0,0.0
+IWS,West Houston,Houston,TX,USA,29.81819444,-95.67261111,0.0
 IXD,New Century Aircenter,Olathe,KS,USA,0.0,0.0,257.0
 IYK,Inyokern,Inyokern,CA,USA,35.65884306,-117.8295122,451.0
 IYS,Wasilla,Wasilla,AK,USA,61.57196083,-149.5405556,431.0
@@ -1908,18 +1908,18 @@ JAN,Jackson International,Jackson,MS,USA,0.0,0.0,206.0
 JAS,Jasper County -Bell,Jasper,TX,USA,0.0,0.0,195.0
 JAU,Campbell County,Jacksboro,TN,USA,0.0,0.0,0.0
 JAX,Jacksonville International,Jacksonville,FL,USA,0.0,0.0,435.0
-JBR,Jonesboro Municipal,Jonesboro,AR,USA,0.0,0.0,0.0
+JBR,Jonesboro Municipal,Jonesboro,AR,USA,35.83186111,-90.64616667,0.0
 JCT,Kimble County,Junction,TX,USA,0.0,0.0,0.0
 JDN,Jordan,Jordan,MT,USA,0.0,0.0,126.0
 JEF,Jefferson City Memorial,Jefferson City,MO,USA,0.0,0.0,0.0
-JER,Jerome County,Jerome,ID,USA,0.0,0.0,0.0
+JER,Jerome County,Jerome,ID,USA,42.72663639,-114.4571506,0.0
 JES,Jesup-Wayne County,Jesup,GA,USA,0.0,0.0,0.0
 JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556,127.0
-JFX,Walker County,Jasper,AL,USA,0.0,0.0,55.0
+JFX,Walker County,Jasper,AL,USA,33.90199528,-87.31416639,55.0
 JHM,Kapalua,Lahaina,HI,USA,20.96293639,-156.6730317,401.0
-JHW,Chautauqua Cty,Jamestown,NY,USA,0.0,0.0,0.0
+JHW,Chautauqua Cty,Jamestown,NY,USA,42.15336861,-79.258035,0.0
 JKA,Jack Edwards,Gulf Shores,AL,USA,0.0,0.0,0.0
-JKJ,Moorhead Municipal,Moorhead,MN,USA,0.0,0.0,394.0
+JKJ,Moorhead Municipal,Moorhead,MN,USA,46.83919194,-96.66313028,394.0
 JKL,Julian Carroll,Jackson,KY,USA,0.0,0.0,0.0
 JLN,Joplin Regional,Joplin,MO,USA,0.0,0.0,27.0
 JMR,Mora Municipal,Mora,MN,USA,0.0,0.0,0.0
@@ -1931,24 +1931,24 @@ JQF,Concord Regional,Concord,NC,USA,0.0,0.0,456.0
 JRA,Port Authority-W 30th St Midtown Heliport,New York,NY,USA,40.75454583,-74.00708389,467.0
 JRB,Downtown Manhattan/Wall St. Heliport,New York,NY,USA,40.70121361,-74.00902833,34.0
 JRF,Kalaeloa (John Rodgers),Kapolei,HI,USA,21.30735389,-158.0703017,292.0
-JSO,Jacksonville-Cherokee County,Jacksonville,TX,USA,0.0,0.0,257.0
+JSO,Jacksonville-Cherokee County,Jacksonville,TX,USA,31.86933667,-95.21739028,257.0
 JST,Johnstown-Cambria Cty,Johnstown,PA,USA,0.0,0.0,36.0
 JVL,Rock County,Janesville,WI,USA,0.0,0.0,0.0
 JVY,Clark County,Jeffersonville,IN,USA,0.0,0.0,192.0
 JWG,Watonga,Watonga,OK,USA,0.0,0.0,0.0
 JWN,John C. Tune,Nashville,TN,USA,0.0,0.0,0.0
 JXN,Jackson County Reynolds,Jackson,MI,USA,0.0,0.0,0.0
-JYG,St James Municipal,St James,MN,USA,0.0,0.0,361.0
+JYG,St James Municipal,St James,MN,USA,43.98631833,-94.55793722,361.0
 JYL,Plantation Airpark,Sylvania,GA,USA,0.0,0.0,0.0
 JYM,Hillsdale Municipal,Hillsdale,MI,USA,0.0,0.0,270.0
 JYO,Leesburg Executive,Leesburg,VA,USA,0.0,0.0,136.0
-JYR,Municipal,York,NE,USA,0.0,0.0,203.0
-JZI,Charleston Executive,Charleston,SC,USA,0.0,0.0,0.0
+JYR,Municipal,York,NE,USA,40.89675,-97.62277778,203.0
+JZI,Charleston Executive,Charleston,SC,USA,32.70086111,-80.00291667,0.0
 JZP,Pickens County,Jasper,GA,USA,0.0,0.0,107.0
 JZZ,Koliganek,Koliganek,AK,USA,59.72664194,-157.2594722,397.0
 K01,Farington,Auburn,NE,USA,0.0,0.0,318.0
 K02,Perryville Municipal,Perryville,MO,USA,0.0,0.0,0.0
-K06,Greater Beardstown,Beardstown,IL,USA,0.0,0.0,0.0
+K06,Greater Beardstown,Beardstown,IL,USA,39.97338139,-90.40373556,0.0
 K09,Piseco Muni,Piseco,NY,USA,43.45340222,-74.51765083,294.0
 K15,Linn Creek-Grand Glaize Memorial,Osage Beach,MO,USA,0.0,0.0,432.0
 K20,Wendell H. Ford,Hazard,KY,USA,0.0,0.0,496.0
@@ -1960,14 +1960,14 @@ K34,Municipal,Gardner,KS,USA,0.0,0.0,262.0
 K39,St Clair Memorial,St Clair,MO,USA,0.0,0.0,123.0
 K46,Blair Municipal,Blair,NE,USA,0.0,0.0,0.0
 K54,Teller,Teller,AK,USA,65.24089806,-166.3360067,425.0
-K57,Gould Peterson Municipal,Tarkio,MO,USA,0.0,0.0,0.0
-K59,Amelia Earhart,Atchison,KS,USA,0.0,0.0,333.0
+K57,Gould Peterson Municipal,Tarkio,MO,USA,40.44583139,-95.36275806,0.0
+K59,Amelia Earhart,Atchison,KS,USA,39.57052472,-95.18033139,333.0
 K61,Moritz Memorial,Beloit,KS,USA,0.0,0.0,21.0
 K62,Falmouth Pendleton County,Falmouth,KY,USA,0.0,0.0,0.0
 K67,Oswego Municipal,Oswego,KS,USA,0.0,0.0,407.0
 K68,Garnett Municipal,Garnett,KS,USA,0.0,0.0,0.0
 K78,Abilene Municipal,Abilene.,KS,USA,0.0,0.0,161.0
-K81,Miami County,Paola,KS,USA,0.0,0.0,500.0
+K81,Miami County,Paola,KS,USA,38.53751389,-94.92524194,500.0
 K82,Smith Center Municipal,Smith Center,KS,USA,0.0,0.0,0.0
 K83,Sabetha Municipal,Sabetha,KS,USA,0.0,0.0,373.0
 K88,Allen County,Iola,KS,USA,0.0,0.0,0.0
@@ -2017,8 +2017,8 @@ L26,Hesperia,Hesperia,CA,USA,34.37722333,-117.3158783,33.0
 L31,Greater St. Tammany Parish,Covington,LA,USA,0.0,0.0,0.0
 L35,Big Bear City,Big Bear,CA,USA,34.26361944,-116.854475,408.0
 L38,Louisiana Regional,Gonzales,LA,USA,0.0,0.0,0.0
-L39,Leesville,Leesville,LA,USA,0.0,0.0,294.0
-L42,Allen Parish,Oakdale,LA,USA,0.0,0.0,0.0
+L39,Leesville,Leesville,LA,USA,31.16819444,-93.34245833,294.0
+L42,Allen Parish,Oakdale,LA,USA,30.75016667,-92.68847222,0.0
 L45,Bakersfield Municipal,Bakersfield,CA,USA,35.32483333,-118.9958333,286.0
 L49,South Lafourche,Galliano,LA,USA,0.0,0.0,0.0
 L52,Oceano County,Oceano,CA,USA,35.10136472,-120.6221153,173.0
@@ -2027,7 +2027,7 @@ L70,Agua Dulce Airpark,Agua Dulce,CA,USA,34.50415889,-118.3128561,179.0
 L71,California City Municipal,California City,CA,USA,35.15125306,-118.0166667,184.0
 L72,Trona,Trona,CA,USA,35.81245333,-117.3272783,88.0
 L75,Southland,Sulphur,LA,USA,0.0,0.0,0.0
-L83,Thibodaux Municipal,Thibodaux,LA,USA,0.0,0.0,484.0
+L83,Thibodaux Municipal,Thibodaux,LA,USA,29.74779194,-90.83289889,484.0
 L84,Lost Hills-Kern County,Lost Hills,CA,USA,35.62357083,-119.6862383,477.0
 L92,Alamo Landing,Alamo,NV,USA,37.36246083,-115.1944622,224.0
 LAA,Lamar Muni,Lamar,CO,USA,0.0,0.0,0.0
@@ -2037,11 +2037,11 @@ LAM,Los Alamos,Los Alamos,NM,USA,0.0,0.0,0.0
 LAN,Capital City,Lansing,MI,USA,0.0,0.0,429.0
 LAR,Laramie Regional,Laramie,WY,USA,0.0,0.0,0.0
 LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333,332.0
-LAW,Lawton-Ft Sill Regional,Lawton,OK,USA,0.0,0.0,63.0
+LAW,Lawton-Ft Sill Regional,Lawton,OK,USA,34.56771444,-98.41663667,63.0
 LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744,232.0
 LBB,Lubbock International,Lubbock,TX,USA,0.0,0.0,188.0
 LBE,Arnold Palmer Regional,Latrobe,PA,USA,0.0,0.0,211.0
-LBF,North Platte Regional,North Platte,NE,USA,0.0,0.0,490.0
+LBF,North Platte Regional,North Platte,NE,USA,41.12621194,-100.6836542,490.0
 LBL,Liberal Municipal,Liberal,KS,USA,0.0,0.0,0.0
 LBO,Floyd W Jones Lebanon,Lebanon,MO,USA,0.0,0.0,0.0
 LBT,Lumberton Municipal,Lumberton,NC,USA,0.0,0.0,0.0
@@ -2049,7 +2049,7 @@ LBX,Brazoria County,Angleton,TX,USA,0.0,0.0,0.0
 LCG,Wayne Municipal,Wayne,NE,USA,0.0,0.0,0.0
 LCH,Lake Charles Regional,Lake Charles,LA,USA,0.0,0.0,392.0
 LCI,Laconia Municipal,Laconia,NH,USA,43.57272806,-71.41890028,152.0
-LCK,Rickenbacker International,Columbus,OH,USA,0.0,0.0,251.0
+LCK,Rickenbacker International,Columbus,OH,USA,39.81375917,-82.92786472,251.0
 LCQ,Lake City Municipal,Lake City,FL,USA,0.0,0.0,23.0
 LDJ,Linden,Linden,NJ,USA,40.61744722,-74.24459417,373.0
 LDM,Mason County,Ludington,MI,USA,0.0,0.0,331.0
@@ -2070,28 +2070,28 @@ LHM,Lincoln Regional,Lincoln,CA,USA,38.90916111,-121.3513361,489.0
 LHQ,Fairfield County,Lancaster,OH,USA,0.0,0.0,0.0
 LHV,Wm T Piper Memorial,Lock Haven,PA,USA,0.0,0.0,206.0
 LHX,La Junta Muni,La Junta,CO,USA,0.0,0.0,303.0
-LHZ,Franklin County,Louisburg,NC,USA,0.0,0.0,196.0
+LHZ,Franklin County,Louisburg,NC,USA,36.02334528,-78.33027139,196.0
 LIC,Limon Municipal,Limon,CO,USA,0.0,0.0,54.0
 LIH,Lihue,Lihue,HI,USA,21.97598306,-159.3389581,393.0
 LIT,Adams,Little Rock,AR,USA,0.0,0.0,0.0
-LJF,Litchfield Municipal,Litchfield,MN,USA,0.0,0.0,337.0
+LJF,Litchfield Municipal,Litchfield,MN,USA,45.09712889,-94.50726833,337.0
 LKP,Lake Placid,Lake Placid,NY,USA,44.26447361,-73.96186639,28.0
 LKR,Lancaster County,Lancaster,SC,USA,0.0,0.0,0.0
 LKU,Louisa County / Freeman,Louisa,VA,USA,0.0,0.0,332.0
 LKV,Lake County,Lakeview,OR,USA,42.16111111,-120.3990703,191.0
-LLJ,Challis,Challis,ID,USA,0.0,0.0,498.0
+LLJ,Challis,Challis,ID,USA,44.52297806,-114.2175642,498.0
 LLQ,Monticello Municipal,Monticello,AR,USA,0.0,0.0,295.0
-LLU,Lamar Municipal,Lamar,MO,USA,0.0,0.0,486.0
+LLU,Lamar Municipal,Lamar,MO,USA,37.4894925,-94.31150444,486.0
 LMS,Louisville-Winston County,Louisville,MS,USA,0.0,0.0,75.0
 LMT,Klamath Falls International,Klamath Falls,OR,USA,42.15614361,-121.7332081,334.0
-LNA,Palm Beach County Park,Lantana,FL,USA,0.0,0.0,0.0
+LNA,Palm Beach County Park,Lantana,FL,USA,26.593,-80.08505556,0.0
 LNC,Lancaster,Lancaster,TX,USA,0.0,0.0,93.0
 LND,Hunt,Lander,WY,USA,0.0,0.0,481.0
 LNK,Lincoln Municipal,Lincoln,NE,USA,0.0,0.0,294.0
 LNL,Kings Land O' Lakes,Land O' Lakes,WI,USA,0.0,0.0,0.0
 LNN,Lost Nation,Willoughby,OH,USA,0.0,0.0,0.0
-LNP,Lonesome Pine,Wise,VA,USA,0.0,0.0,0.0
-LNS,Lancaster,Lancaster,PA,USA,0.0,0.0,0.0
+LNP,Lonesome Pine,Wise,VA,USA,36.98743194,-82.53017361,0.0
+LNS,Lancaster,Lancaster,PA,USA,40.12171528,-76.29609778,0.0
 LNY,Lanai,Lanai City,HI,USA,20.78561111,-156.9514181,423.0
 LOL,Derby,Lovelock,NV,USA,40.066405,-118.5651664,126.0
 LOT,Lewis University,Chicago/Romeoville,IL,USA,0.0,0.0,0.0
@@ -2099,14 +2099,14 @@ LOU,Bowman,Louisville,KY,USA,0.0,0.0,0.0
 LOZ,London-Corbin  Magee,London,KY,USA,0.0,0.0,0.0
 LPC,Lompoc,Lompoc,CA,USA,34.66561028,-120.4667883,54.0
 LPR,Lorain Co Regional,Lorain/Elyria,OH,USA,0.0,0.0,0.0
-LQK,Pickens County,Pickens,SC,USA,0.0,0.0,0.0
+LQK,Pickens County,Pickens,SC,USA,34.80997222,-82.70288889,0.0
 LQR,Larned-Pawnee County,Larned,KS,USA,0.0,0.0,0.0
-LRD,Laredo International,Laredo,TX,USA,0.0,0.0,0.0
+LRD,Laredo International,Laredo,TX,USA,27.54373861,-99.46154361,0.0
 LRG,Lincoln Regional,Lincoln,ME,USA,45.36216083,-68.53474694,318.0
 LRJ,Le Mars Municipal,Le Mars,IA,USA,0.0,0.0,335.0
 LRU,Las Cruces International,Las Cruces,NM,USA,0.0,0.0,0.0
-LSB,Lordsburg Municipal,Lordsburg,NM,USA,0.0,0.0,118.0
-LSE,La Crosse Municipal,La Crosse,WI,USA,0.0,0.0,436.0
+LSB,Lordsburg Municipal,Lordsburg,NM,USA,32.33278083,-108.6909742,118.0
+LSE,La Crosse Municipal,La Crosse,WI,USA,43.87937972,-91.25653778,436.0
 LSK,Lusk Muni,Lusk,WY,USA,0.0,0.0,127.0
 LSN,Los Banos Municipal,Los Banos,CA,USA,37.06290556,-120.8692511,457.0
 LUG,Ellington,Lewisburg,TN,USA,0.0,0.0,212.0
@@ -2119,7 +2119,7 @@ LVM,Mission,Livingston,MT,USA,0.0,0.0,0.0
 LVN,Airlake,Minneapolis,MN,USA,0.0,0.0,0.0
 LVS,Las Vegas Municipal,Las Vegas,NM,USA,0.0,0.0,169.0
 LWB,Greenbrier Valley,Lewisburg,WV,USA,0.0,0.0,291.0
-LWC,Lawrence Municipal,Lawrence,KS,USA,0.0,0.0,0.0
+LWC,Lawrence Municipal,Lawrence,KS,USA,39.01115222,-95.21657694,0.0
 LWD,Lamoni Municipal,Lamoni,IA,USA,0.0,0.0,325.0
 LWL,Wells Municipal/Harriet,Wells,NV,USA,0.0,0.0,399.0
 LWM,Lawrence Municipal,Lawrence,MA,USA,42.71720944,-71.12343,500.0
@@ -2130,7 +2130,7 @@ LXL,Little Falls - Morrison County,Little Falls,MN,USA,0.0,0.0,439.0
 LXN,Lexington (Jim Kelly),Lexington,NE,USA,0.0,0.0,213.0
 LXT,Lee's Summit Municipal,Lee's Summit,MO,USA,0.0,0.0,184.0
 LXV,Lake County,Leadville,CO,USA,0.0,0.0,432.0
-LXY,Mexia-Limestone County,Mexia,TX,USA,0.0,0.0,462.0
+LXY,Mexia-Limestone County,Mexia,TX,USA,31.63983472,-96.51472222,462.0
 LYH,Lynchburg Municipal-Preston Glenn,Lynchburg,VA,USA,0.0,0.0,0.0
 LYO,Lyons-Rice County Municipal,Lyons,KS,USA,0.0,0.0,478.0
 LZU,Gwinnett County,Lawrenceville,GA,USA,0.0,0.0,0.0
@@ -2139,44 +2139,44 @@ M02,Dickson Municipal,Dickson,TN,USA,0.0,0.0,496.0
 M03,Dennis F Cantrell,Conway,AR,USA,0.0,0.0,0.0
 M04,Covington Municipal,Covington,TN,USA,0.0,0.0,239.0
 M05,Caruthersville Memorial,Caruthersville,MO,USA,0.0,0.0,0.0
-M08,William L. Whitehurst,Bolivar,TN,USA,0.0,0.0,0.0
+M08,William L. Whitehurst,Bolivar,TN,USA,35.21445944,-89.04336222,0.0
 M09,Piedmont Municipal,Piedmont,MO,USA,0.0,0.0,165.0
 M11,Copiah County,Crystal Springs,MS,USA,0.0,0.0,0.0
-M13,Poplarville-Pearl River County,Poplarville,MS,USA,0.0,0.0,385.0
+M13,Poplarville-Pearl River County,Poplarville,MS,USA,30.78602056,-89.50450694,385.0
 M15,Perry County,Linden,TN,USA,0.0,0.0,0.0
 M16,John Bell Williams,Raymond,MS,USA,0.0,0.0,0.0
 M17,Bolivar Municipal,Bolivar,MO,USA,0.0,0.0,0.0
 M18,Hope Municipal,Hope,AR,USA,0.0,0.0,0.0
-M19,Newport Municipal,Newport,AR,USA,0.0,0.0,0.0
+M19,Newport Municipal,Newport,AR,USA,35.63771778,-91.17637556,0.0
 M21,Muhlenberg County,Greenville,KY,USA,0.0,0.0,483.0
 M22,Russellville Municipal,Russellville,AL,USA,0.0,0.0,0.0
 M23,James H. Easom,Newton,MS,USA,0.0,0.0,0.0
-M24,Dean Griffin Memorial,Wiggins,MS,USA,0.0,0.0,315.0
+M24,Dean Griffin Memorial,Wiggins,MS,USA,30.84324389,-89.15977333,315.0
 M25,Mayfield-Graves County,Mayfield,KY,USA,0.0,0.0,0.0
 M27,Waldron Municipal,Waldron,AR,USA,0.0,0.0,0.0
-M29,Hassel,Clifton,TN,USA,0.0,0.0,16.0
+M29,Hassel,Clifton,TN,USA,35.38507528,-87.96752833,16.0
 M30,Metropolis Municipal,Metropolis,IL,USA,0.0,0.0,0.0
-M32,Lake Village Municipal,Lake Village,AR,USA,0.0,0.0,0.0
+M32,Lake Village Municipal,Lake Village,AR,USA,33.3459775,-91.31569833,0.0
 M33,Sumner County Regional,Gallatin,TN,USA,0.0,0.0,0.0
 M34,Kentucky Dam State Park,Gilbertsville,KY,USA,0.0,0.0,170.0
 M36,Frank Federer Memorial,Brinkley,AR,USA,0.0,0.0,229.0
 M37,Ruleville-Drew,Drew,MS,USA,0.0,0.0,0.0
 M39,Mena Intermountain Municipal,Mena,AR,USA,0.0,0.0,0.0
 M40,Monroe County,Aberdeen-Amory,MS,USA,0.0,0.0,464.0
-M41,Holly Springs-Marshall County,Holly Springs,MS,USA,0.0,0.0,0.0
+M41,Holly Springs-Marshall County,Holly Springs,MS,USA,34.80434611,-89.5211075,0.0
 M43,Prentiss-Jefferson Davis County,Prentiss,MS,USA,0.0,0.0,384.0
 M44,Houston Municipal,Houston,MS,USA,0.0,0.0,302.0
-M46,Colstrip,Colstrip,MT,USA,0.0,0.0,0.0
+M46,Colstrip,Colstrip,MT,USA,45.85285,-106.7092722,0.0
 M48,Houston Memorial,Houston,MO,USA,0.0,0.0,161.0
-M52,Franklin-Wilkins,Lexington,TN,USA,0.0,0.0,296.0
+M52,Franklin-Wilkins,Lexington,TN,USA,35.65131944,-88.37893444,296.0
 M53,Humboldt Municipal,Humboldt,TN,USA,0.0,0.0,0.0
 M54,Lebanon Municipal,Lebanon,TN,USA,0.0,0.0,0.0
-M58,Monett Municipal,Monett,MO,USA,0.0,0.0,212.0
+M58,Monett Municipal,Monett,MO,USA,36.90621528,-94.01275833,212.0
 M59,Richton-Perry County,Richton,MS,USA,0.0,0.0,116.0
 M60,Woodruff County,Augusta,AR,USA,0.0,0.0,0.0
 M65,Wynne Municipal,Wynne,AR,USA,0.0,0.0,115.0
 M70,Pocahontas Municipal,Pocahontas,AR,USA,0.0,0.0,0.0
-M72,New Albany-Union County,New Albany,MS,USA,0.0,0.0,84.0
+M72,New Albany-Union County,New Albany,MS,USA,34.54722222,-89.02416667,84.0
 M73,Almyra Municipal,Almyra,AR,USA,0.0,0.0,0.0
 M75,Malta,Malta,MT,USA,0.0,0.0,230.0
 M76,Picayune Municipal,Picayune,MS,USA,0.0,0.0,34.0
@@ -2199,13 +2199,13 @@ MAO,Marion County,Marion,SC,USA,0.0,0.0,0.0
 MAW,Malden Municipal,Malden,MO,USA,0.0,0.0,0.0
 MAZ,Eugenio Maria De Hostos,Mayaguez,PR,USA,18.25569444,-67.14847222,65.0
 MBG,Mobridge Municipal,Mobridge,SD,USA,0.0,0.0,500.0
-MBL,Manistee County Blacker,Manistee,MI,USA,0.0,0.0,0.0
+MBL,Manistee County Blacker,Manistee,MI,USA,44.27319722,-86.2490025,0.0
 MBO,Bruce Campbell,Madison,MS,USA,0.0,0.0,91.0
 MBS,Mbs International,Saginaw,MI,USA,0.0,0.0,140.0
-MBT,Murfreesboro Municipal,Murfreesboro,TN,USA,0.0,0.0,0.0
+MBT,Murfreesboro Municipal,Murfreesboro,TN,USA,35.87748444,-86.37753222,0.0
 MBY,Omar N Bradley,Moberly,MO,USA,0.0,0.0,123.0
-MCB,McComb-Pike County,McComb,MS,USA,0.0,0.0,0.0
-MCD,Mackinac Island,Mackinac Island,MI,USA,0.0,0.0,0.0
+MCB,McComb-Pike County,McComb,MS,USA,31.17845444,-90.47187528,0.0
+MCD,Mackinac Island,Mackinac Island,MI,USA,45.86493444,-84.63734444,0.0
 MCE,Merced Municipal/MacReady,Merced,CA,USA,37.28472861,-120.5138858,342.0
 MCG,McGrath,McGrath,AK,USA,62.95287361,-155.6057625,375.0
 MCI,Kansas City International,Kansas City,MO,USA,0.0,0.0,276.0
@@ -2216,7 +2216,7 @@ MCW,Mason City Municipal,Mason City,IA,USA,0.0,0.0,0.0
 MCX,White County,Monticello,IN,USA,0.0,0.0,290.0
 MCZ,Martin County,Williamston,NC,USA,0.0,0.0,263.0
 MDD,Midland Airpark,Midland,TX,USA,0.0,0.0,0.0
-MDF,Mooreland Municipal,Mooreland,OK,USA,0.0,0.0,0.0
+MDF,Mooreland Municipal,Mooreland,OK,USA,36.48475778,-99.19415778,0.0
 MDH,Southern Illinois,Carbondale,IL,USA,0.0,0.0,54.0
 MDR,Medfra,Medfra,AK,USA,63.10577694,-154.7189806,201.0
 MDS,Madison Municipal,Madison,SD,USA,0.0,0.0,458.0
@@ -2229,10 +2229,10 @@ MEJ,Meade Municipal,Meade,KS,USA,0.0,0.0,0.0
 MEM,Memphis International,Memphis,TN,USA,0.0,0.0,0.0
 MER,Castle,Atwater,CA,USA,37.38048056,-120.5681889,153.0
 MEV,Minden-Tahoe,Minden,NV,USA,39.00030889,-119.7508064,78.0
-MEY,Mapleton Municipal,Mapleton,IA,USA,0.0,0.0,228.0
-MFD,Mansfield Lahm Municipal,Mansfield,OH,USA,0.0,0.0,64.0
+MEY,Mapleton Municipal,Mapleton,IA,USA,42.178295,-95.79364528,228.0
+MFD,Mansfield Lahm Municipal,Mansfield,OH,USA,40.82141667,-82.51663889,64.0
 MFE,McAllen Miller International,McAllen,TX,USA,0.0,0.0,214.0
-MFI,Marshfield Municipal,Marshfield,WI,USA,0.0,0.0,125.0
+MFI,Marshfield Municipal,Marshfield,WI,USA,44.63687972,-90.18932667,125.0
 MFR,Rogue Valley International,Medford,OR,USA,42.37422778,-122.8734978,482.0
 MFV,Accomack County,Melfa,VA,USA,0.0,0.0,40.0
 MGC,Michigan City Municipal,Michigan City,IN,USA,0.0,0.0,471.0
@@ -2253,38 +2253,38 @@ MIA,Miami International,Miami,FL,USA,0.0,0.0,0.0
 MIB,Minot AFB,,,USA,0.0,0.0,0.0
 MIC,Crystal,Minneapolis,MN,USA,0.0,0.0,0.0
 MIE,Delaware County,Muncie,IN,USA,0.0,0.0,353.0
-MIO,Miami Municipal,Miami,OK,USA,0.0,0.0,0.0
+MIO,Miami Municipal,Miami,OK,USA,36.90922083,-94.88750028,0.0
 MIT,Shafter-Minter,Shafter,CA,USA,35.50592944,-119.1915236,247.0
 MIV,Millville Muni,Millville,NJ,USA,0.0,0.0,0.0
 MIW,Marshalltown Municipal,Marshalltown,IA,USA,0.0,0.0,105.0
-MJQ,Jackson Municipal,Jackson,MN,USA,0.0,0.0,0.0
+MJQ,Jackson Municipal,Jackson,MN,USA,43.65004111,-94.98654611,0.0
 MJX,Robert J. Miller Airpark,Toms River,NJ,USA,39.92749806,-74.29237917,220.0
 MKA,Miller Municipal,Miller,SD,USA,0.0,0.0,183.0
 MKC,Downtown,Kansas City,MO,USA,0.0,0.0,0.0
 MKE,General Mitchell International,Milwaukee,WI,USA,0.0,0.0,88.0
-MKG,Muskegon County,Muskegon,MI,USA,0.0,0.0,244.0
+MKG,Muskegon County,Muskegon,MI,USA,43.16948806,-86.23822306,244.0
 MKJ,Mountain Empire,Marion,VA,USA,0.0,0.0,0.0
 MKK,Molokai,Kaunakakai,HI,USA,21.15288583,-157.0962561,300.0
 MKL,McKellar-Sipes Regional,Jackson,TN,USA,0.0,0.0,0.0
 MKO,Davis,Muskogee,OK,USA,0.0,0.0,0.0
 MKT,Mankato Regional,Mankato,MN,USA,0.0,0.0,0.0
-MKV,Marksville Municipal,Marksville,LA,USA,0.0,0.0,0.0
+MKV,Marksville Municipal,Marksville,LA,USA,31.09466,-92.06906861,0.0
 MKY,Marco Island,Marco Island,FL,USA,0.0,0.0,419.0
 MLB,Melbourne International,Melbourne,FL,USA,0.0,0.0,294.0
 MLC,McAlester Regional,McAlester,OK,USA,0.0,0.0,0.0
 MLE,Millard,Omaha,NE,USA,0.0,0.0,0.0
-MLF,Milford Municipal,Milford,UT,USA,0.0,0.0,0.0
-MLI,Quad City,Moline,IL,USA,0.0,0.0,68.0
+MLF,Milford Municipal,Milford,UT,USA,38.4266325,-113.0124564,0.0
+MLI,Quad City,Moline,IL,USA,41.44852639,-90.50753917,68.0
 MLJ,Baldwin County,Milledgeville,GA,USA,0.0,0.0,0.0
 MLL,Marshall,Marshall,AK,USA,61.8659225,-162.0690456,281.0
 MLS,Frank Wiley,Miles City,MT,USA,0.0,0.0,205.0
 MLT,Millinocket Municipal,Millinocket,ME,USA,45.64783611,-68.68556194,441.0
-MLU,Monroe Regional,Monroe,LA,USA,0.0,0.0,0.0
+MLU,Monroe Regional,Monroe,LA,USA,32.51086556,-92.03768778,0.0
 MLY,Manley Hot Springs,Manley Hot Springs,AK,USA,64.99756472,-150.6441297,447.0
 MMH,Mammoth Yosemite,Mammoth Lakes,CA,USA,37.62404861,-118.8377722,261.0
-MMI,McMinn County,Athens,TN,USA,0.0,0.0,251.0
+MMI,McMinn County,Athens,TN,USA,35.39730333,-84.56256861,251.0
 MMK,Meriden-Markham Municipal,Meriden,CT,USA,41.50871472,-72.82947833,9.0
-MML,Marshall Muni - Ryan,Marshall,MN,USA,0.0,0.0,0.0
+MML,Marshall Muni - Ryan,Marshall,MN,USA,44.45006611,-95.82234028,0.0
 MMU,Morristown Municipal,Morristown,NJ,USA,40.79935,-74.41487472,391.0
 MMV,McMinnville Muni,McMinnville,OR,USA,45.19444444,-123.1359444,51.0
 MNF,Mountain View,Mountain View,MO,USA,0.0,0.0,0.0
@@ -2293,7 +2293,7 @@ MNM,Menominee-Marinette Twin County,Menominee,MI,USA,0.0,0.0,444.0
 MNN,Marion Municipal,Marion,OH,USA,0.0,0.0,335.0
 MNV,Monroe County,Madisonville,TN,USA,0.0,0.0,480.0
 MNZ,Hamilton Municipal,Hamilton,TX,USA,0.0,0.0,0.0
-MO6,Washington Memorial,Washington,MO,USA,0.0,0.0,134.0
+MO6,Washington Memorial,Washington,MO,USA,38.59163472,-90.99761444,134.0
 MO85,Lawrence Smith Memorial,Harrisonville,MO,USA,0.0,0.0,158.0
 MOB,Mobile Regional,Mobile,AL,USA,0.0,0.0,270.0
 MOD,Modesto City-County-Harry Sham,Modesto,CA,USA,37.62581722,-120.9544214,105.0
@@ -2302,34 +2302,34 @@ MOR,Moore-Murrell,Morristown,TN,USA,0.0,0.0,245.0
 MOT,Minot International,Minot,ND,USA,0.0,0.0,463.0
 MOU,Mountain Village,Mountain Village,AK,USA,62.09536222,-163.6820594,9.0
 MOX,Morris Municipal,Morris,MN,USA,0.0,0.0,0.0
-MPE,Philadelphia Municipal,Philadelphia,MS,USA,0.0,0.0,251.0
+MPE,Philadelphia Municipal,Philadelphia,MS,USA,32.7995775,-89.12589472,251.0
 MPJ,Petit Jean Park,Morrilton,AR,USA,0.0,0.0,0.0
 MPO,Pocono Mountains Muni,Mount Pocono,PA,USA,0.0,0.0,123.0
-MPR,McPherson,McPherson,KS,USA,0.0,0.0,0.0
+MPR,McPherson,McPherson,KS,USA,38.35243722,-97.69133028,0.0
 MPV,Edward F Knapp State,Barre-Montpelier,VT,USA,44.203505,-72.56232944,448.0
-MPZ,Mount Pleasant Municipal,Mount Pleasant,IA,USA,0.0,0.0,481.0
-MQB,Macomb Municipal,Macomb,IL,USA,0.0,0.0,0.0
+MPZ,Mount Pleasant Municipal,Mount Pleasant,IA,USA,40.94661389,-91.511075,481.0
+MQB,Macomb Municipal,Macomb,IL,USA,40.52034556,-90.65246389,0.0
 MQI,Dare County Regional,Manteo,NC,USA,0.0,0.0,312.0
 MQJ,Mount Comfort,Indianapolis,IN,USA,0.0,0.0,0.0
 MQT,Marquette County Airport,,,USA,0.0,0.0,0.0
-MQW,Telfair-Wheeler,McRae,GA,USA,0.0,0.0,138.0
+MQW,Telfair-Wheeler,McRae,GA,USA,32.09577778,-82.88002778,138.0
 MQY,Smyrna,Smyrna,TN,USA,0.0,0.0,206.0
 MRB,Eastern Wv Reg/Shephard,Martinsburg,WV,USA,0.0,0.0,0.0
 MRC,Maury County,Columbia-Mt Pleasant,TN,USA,0.0,0.0,0.0
 MRF,Marfa Municipal,Marfa,TX,USA,0.0,0.0,185.0
-MRH,Michael J. Smith,Beaufort,NC,USA,0.0,0.0,0.0
+MRH,Michael J. Smith,Beaufort,NC,USA,34.73355028,-76.66059611,0.0
 MRI,Merrill,Anchorage,AK,USA,61.21437861,-149.8461614,327.0
-MRJ,Iowa County,Mineral Point,WI,USA,0.0,0.0,176.0
+MRJ,Iowa County,Mineral Point,WI,USA,42.88532917,-90.23198583,176.0
 MRN,Morganton-Lenoir,Morganton,NC,USA,0.0,0.0,0.0
 MRY,Monterey Peninsula,Monterey,CA,USA,36.5869825,-121.8429478,435.0
-MSA,Mount Pleasant Municipal,Mount Pleasant,TX,USA,0.0,0.0,0.0
+MSA,Mount Pleasant Municipal,Mount Pleasant,TX,USA,33.12936111,-94.97563889,0.0
 MSL,Northwest Alabama Regional,Muscle Shoals,AL,USA,0.0,0.0,276.0
 MSN,Dane County Regional,Madison,WI,USA,0.0,0.0,0.0
 MSO,Missoula International,Missoula,MT,USA,0.0,0.0,94.0
-MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,0.0,0.0,395.0
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225,395.0
 MSS,Massena Int'l-Richards,Massena,NY,USA,44.93582722,-74.84554583,188.0
 MSV,Sullivan Cty Intl,Monticello,NY,USA,41.70164917,-74.79501389,383.0
-MSY,New Orleans International,New Orleans,LA,USA,0.0,0.0,0.0
+MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778,0.0
 MTH,Florida Keys Marathon,Marathon,FL,USA,0.0,0.0,105.0
 MTJ,Montrose Regional,Montrose,CO,USA,0.0,0.0,342.0
 MTM,Metlakatla SPB,Metlakatla,AK,USA,55.13104528,-131.5780675,436.0
@@ -2337,10 +2337,10 @@ MTN,Martin State,Baltimore,MD,USA,0.0,0.0,222.0
 MTO,Coles County Memorial,Mattoon-Charleston,IL,USA,0.0,0.0,26.0
 MTP,Montauk,Montauk,NY,USA,41.07694333,-71.92039972,69.0
 MTV,Blue Ridge,Martinsville,VA,USA,0.0,0.0,0.0
-MTW,Manitowoc County,Manitowoc,WI,USA,0.0,0.0,0.0
+MTW,Manitowoc County,Manitowoc,WI,USA,44.1287725,-87.68058472,0.0
 MUE,Waimea-Kohala,Kamuela,HI,USA,20.00132694,-155.6681072,21.0
 MUT,Muscatine Municipal,Muscatine,IA,USA,0.0,0.0,0.0
-MVC,Monroe County,Monroeville,AL,USA,0.0,0.0,0.0
+MVC,Monroe County,Monroeville,AL,USA,31.45805306,-87.35104028,0.0
 MVE,Montevideo-Chippewa County,Montevideo,MN,USA,0.0,0.0,0.0
 MVI,Monte Vista Muni,Monte Vista,CO,USA,0.0,0.0,0.0
 MVL,Morrisville-Stowe State,Morrisville,VT,USA,44.53460806,-72.61400444,217.0
@@ -2348,7 +2348,7 @@ MVM,Machias Valley,Machias,ME,USA,44.70311111,-67.47861111,269.0
 MVN,Mt Vernon-Outland,Mt. Vernon,IL,USA,0.0,0.0,0.0
 MVY,Marthas Vineyard,Marthas Vineyard,MA,USA,41.39302583,-70.6143325,239.0
 MWA,Williamson County,Marion,IL,USA,0.0,0.0,352.0
-MWC,Lawrence J Timmerman,Milwaukee,WI,USA,0.0,0.0,0.0
+MWC,Lawrence J Timmerman,Milwaukee,WI,USA,43.11092694,-88.03442194,0.0
 MWH,Grant County,Moses Lake,WA,USA,47.20770806,-119.3201897,136.0
 MWK,Mount Airy-Surry County,Mount Airy,NC,USA,0.0,0.0,0.0
 MWL,Mineral Wells Municipal,Mineral Wells,TX,USA,0.0,0.0,213.0
@@ -2374,29 +2374,29 @@ N12,Lakewood,Lakewood,NJ,USA,40.0667825,-74.17764167,422.0
 N13,Bloomsburg Muni,Bloomsburg,PA,USA,0.0,0.0,0.0
 N14,Flying W,Lumbrerton,NJ,USA,39.93427778,-74.80725,335.0
 N23,Sidney Muni,Sidney,NY,USA,0.0,0.0,0.0
-N24,Questa Municipal Nr 2,Questa,NM,USA,0.0,0.0,0.0
+N24,Questa Municipal Nr 2,Questa,NM,USA,36.80030556,-105.5975,0.0
 N25,Westport,"Westport, NY",NY,USA,44.15838611,-73.43290444,136.0
 N27,Bradford County,Towanda,PA,USA,0.0,0.0,0.0
 N29,Magdalena,Magdalena,NM,USA,0.0,0.0,31.0
 N30,Cherry Ridge,Honesdale,PA,USA,0.0,0.0,0.0
-N35,Punxsutawney Muni,Punxsutawney,PA,USA,0.0,0.0,0.0
+N35,Punxsutawney Muni,Punxsutawney,PA,USA,40.96667472,-78.93000528,0.0
 N37,Monticello,Monticello,NY,USA,41.62249167,-74.70141111,378.0
 N38,Grand Canyon State,Wellsboro,PA,USA,0.0,0.0,453.0
 N40,Sky Manor,Pittstown,NJ,USA,40.56626889,-74.97864139,470.0
-N47,Pottstown Muni,Pottstown,PA,USA,0.0,0.0,191.0
+N47,Pottstown Muni,Pottstown,PA,USA,40.26040083,-75.67085306,191.0
 N51,Solberg-Hunterdon,Readington,NJ,USA,40.58286278,-74.73656222,437.0
 N53,Stroudsburg-Pocono,East Stroudsburg,PA,USA,0.0,0.0,0.0
-N57,New Garden Flying,Toughkenamon,PA,USA,0.0,0.0,0.0
-N66,Oneonta Muni,Oneonta,NY,USA,0.0,0.0,0.0
+N57,New Garden Flying,Toughkenamon,PA,USA,39.83052639,-75.76974472,0.0
+N66,Oneonta Muni,Oneonta,NY,USA,42.52476694,-75.06446167,0.0
 N67,Wings,Ambler,PA,USA,0.0,0.0,39.0
-N68,Chambersburg Muni,Chambersburg,PA,USA,0.0,0.0,37.0
+N68,Chambersburg Muni,Chambersburg,PA,USA,39.97295167,-77.64326778,37.0
 N69,Stormville,Stormville,NY,USA,41.57698222,-73.73235278,374.0
 N72,Warwick Muni,Warwick,NY,USA,41.28759361,-74.28709472,433.0
 N73,Red Lion,Vincentown,NJ,USA,39.90415167,-74.74954917,64.0
 N79,Northumberland Cty,Shamokin,PA,USA,0.0,0.0,0.0
 N81,Hammonton Muni,Hammonton,NJ,USA,39.66746889,-74.75773444,133.0
 N82,Wurtsboro-Sullivan Cty,Wurtsboro,NY,USA,41.59720444,-74.45840722,416.0
-N85,Alexandria,Pittstown,NJ,USA,0.0,0.0,259.0
+N85,Alexandria,Pittstown,NJ,USA,40.58757389,-75.01942056,259.0
 N87,Trenton-Robbinsville,Robbinsville,NJ,USA,40.21394333,-74.60179472,214.0
 N89,Joseph Y. Resnick,Ellenville,NY,USA,41.72787111,-74.37737583,271.0
 N93,New Golovin,Golovin,AK,USA,64.55305556,-163.0088889,205.0
@@ -2404,7 +2404,7 @@ N99,Brandywine,West Chester,PA,USA,0.0,0.0,322.0
 NC14,Rockingham County NC Shiloh,Reidsville,NC,USA,0.0,0.0,0.0
 NC67,Ashe County,West Jefferson,NC,USA,0.0,0.0,0.0
 ND06,Cavalier Municipal,Cavalier,ND,USA,0.0,0.0,0.0
-ND12,Ellendale Municipal,Ellendale,ND,USA,0.0,0.0,0.0
+ND12,Ellendale Municipal,Ellendale,ND,USA,46.01247194,-98.51287889,0.0
 ND17,Harvey Municipal,Harvey,ND,USA,0.0,0.0,84.0
 ND26,Kenmare Municipal,Kenmare,ND,USA,0.0,0.0,0.0
 ND28,Lakota Municipal,Lakota,ND,USA,0.0,0.0,0.0
@@ -2414,17 +2414,17 @@ ND44,Mott Municipal,Mott,ND,USA,0.0,0.0,0.0
 ND66,Washburn Municipal,Washburn,ND,USA,0.0,0.0,2.0
 NEW,Lakefront,New Orleans,LA,USA,0.0,0.0,294.0
 NH12,Plymouth Municipal,Plymouth,NH,USA,43.77923806,-71.75369056,36.0
-NK03,Kamp,Durhamville,NY,USA,0.0,0.0,0.0
+NK03,Kamp,Durhamville,NY,USA,43.13472111,-75.64890417,0.0
 NQA,Millington Municipal,Millington,TN,USA,0.0,0.0,0.0
 NRN,Norton Municipal,Norton,KS,USA,0.0,0.0,0.0
 NUL,Nulato,Nulato,AK,USA,64.72981944,-158.0731889,228.0
-NVD,Nevada Municipal,Nevada,MO,USA,0.0,0.0,274.0
+NVD,Nevada Municipal,Nevada,MO,USA,37.85206528,-94.30486472,274.0
 NY0,Fulton Cty,Johnstown,NY,USA,42.99821222,-74.32955111,262.0
 O02,Nervino,Beckwourth,CA,USA,39.82073556,-120.3543767,96.0
 O05,Rogers,Chester,CA,USA,40.28235278,-121.2411683,35.0
 O08,Colusa County,Colusa,CA,USA,39.17903,-121.9933611,322.0
 O09,Round Valley,Covelo,CA,USA,39.79015444,-123.2664025,252.0
-O11,Cherokee Nation,Stilwell,OK,USA,0.0,0.0,238.0
+O11,Cherokee Nation,Stilwell,OK,USA,35.75703083,-94.64994417,238.0
 O15,Turlock Municipal,Turlock,CA,USA,37.48743556,-120.6968669,57.0
 O16,Garberville,Garberville,CA,USA,40.08597806,-123.8136397,320.0
 O17,Nevada County  Air Park,Grass Valley,CA,USA,39.22402778,-121.0030833,327.0
@@ -2437,7 +2437,7 @@ O27,Oakdale,Oakdale,CA,USA,37.75634472,-120.8002089,73.0
 O28,Ells Field-Willits Municipal,Willits,CA,USA,39.45129778,-123.3722844,36.0
 O31,Healdsburg Municipal,Healdsburg,CA,USA,38.65352083,-122.8994397,352.0
 O32,Reedley Municipal,Reedley,CA,USA,36.66633917,-119.4498483,45.0
-O35,Hollis Municipal,Hollis,OK,USA,0.0,0.0,0.0
+O35,Hollis Municipal,Hollis,OK,USA,34.70839417,-99.90871194,0.0
 O37,Haigh,Orland,CA,USA,39.72124194,-122.1466508,473.0
 O41,Watts-Woodland,Woodland,CA,USA,38.67387639,-121.8720772,347.0
 O42,Woodlake,Woodlake,CA,USA,36.39883833,-119.1073289,456.0
@@ -2468,12 +2468,12 @@ OAR,Marina Municipal,Marina,CA,USA,36.68190278,-121.7624492,231.0
 OBE,Okeechobee County,Okeechobee,FL,USA,0.0,0.0,0.0
 OBU,Kobuk,Kobuk,AK,USA,66.90917056,-156.8610575,313.0
 OCF,Ocala Regional/Jim Taylor,Ocala,FL,USA,0.0,0.0,0.0
-OCH,Nacogdoches-A.L. Mangham Jr. Regional,Nacogdoches,TX,USA,0.0,0.0,497.0
-OCQ,Oconto Municipal,Oconto,WI,USA,0.0,0.0,0.0
+OCH,Nacogdoches-A.L. Mangham Jr. Regional,Nacogdoches,TX,USA,31.57802778,-94.70954167,497.0
+OCQ,Oconto Municipal,Oconto,WI,USA,44.8735825,-87.9090525,0.0
 OCW,Warren,Washington,NC,USA,0.0,0.0,297.0
 ODO,Odessa-Schlemeyer,Odessa,TX,USA,0.0,0.0,127.0
-ODX,Evelyn Sharp,Ord,NE,USA,0.0,0.0,0.0
-OEB,Branch County Memorial,Coldwater,MI,USA,0.0,0.0,0.0
+ODX,Evelyn Sharp,Ord,NE,USA,41.62425,-98.95236111,0.0
+OEB,Branch County Memorial,Coldwater,MI,USA,41.93344861,-85.052585,0.0
 OEL,Oakley Municipal,Oakley,KS,USA,0.0,0.0,434.0
 OEO,L. O. Simenstad Municipal,Osceola,WI,USA,0.0,0.0,124.0
 OFK,Karl Stefan Memorial,Norfolk,NE,USA,0.0,0.0,0.0
@@ -2491,38 +2491,38 @@ OIC,Lt Warren Eaton,Norwich,NY,USA,0.0,0.0,0.0
 OIN,Oberlin Municipal,Oberlin,KS,USA,0.0,0.0,57.0
 OJC,Johnson County Executive,Olathe,KS,USA,0.0,0.0,341.0
 OKB,Oceanside Municipal,Oceanside,CA,USA,33.21797639,-117.3515075,43.0
-OKC,Will Rogers World,Oklahoma City,OK,USA,0.0,0.0,0.0
+OKC,Will Rogers World,Oklahoma City,OK,USA,35.39308833,-97.60073389,0.0
 OKK,Kokomo Municipal,Kokomo,IN,USA,0.0,0.0,0.0
 OKM,Okmulgee Municipal,Okmulgee,OK,USA,0.0,0.0,0.0
 OKS,Garden County,Oshkosh,NE,USA,0.0,0.0,0.0
 OKV,Winchester Regional,Winchester,VA,USA,0.0,0.0,478.0
-OKZ,Kaolin,Sandersville,GA,USA,0.0,0.0,128.0
+OKZ,Kaolin,Sandersville,GA,USA,32.96672222,-82.83816667,128.0
 OLD,Dewitt Field-Old Town Municipal,Old Town,ME,USA,44.9525,-68.67433333,105.0
 OLE,Olean Muni,Olean,NY,USA,0.0,0.0,0.0
-OLF,L M Clayton,Wolf Point,MT,USA,0.0,0.0,0.0
+OLF,L M Clayton,Wolf Point,MT,USA,48.09451778,-105.5750536,0.0
 OLM,Olympia,Olympia,WA,USA,46.9705,-122.9022083,381.0
 OLS,Nogales International,Nogales,AZ,USA,0.0,0.0,0.0
 OLU,Columbus Municipal,Columbus,NE,USA,0.0,0.0,0.0
 OLV,Olive Branch,Olive Branch,MS,USA,0.0,0.0,0.0
-OLY,Olney-Noble,Olney-Noble,IL,USA,0.0,0.0,0.0
+OLY,Olney-Noble,Olney-Noble,IL,USA,38.72182722,-88.17643278,0.0
 OLZ,Oelwein Municipal,Oelwein,IA,USA,0.0,0.0,0.0
 OMA,Eppley Airfield,Omaha,NE,USA,0.0,0.0,0.0
 OME,Nome,Nome,AK,USA,64.51220222,-165.4452458,487.0
-OMH,Orange County,Orange,VA,USA,0.0,0.0,20.0
+OMH,Orange County,Orange,VA,USA,38.24721639,-78.04561028,20.0
 OMK,Omak,Omak,WA,USA,48.46440222,-119.5180503,152.0
 OMN,Ormond Beach Municipal,Ormond Beach,FL,USA,0.0,0.0,259.0
 ONA,Winona Muni-Max Conrad,Winona,MN,USA,0.0,0.0,0.0
-ONL,O Neill Municipal,O Neill,NE,USA,0.0,0.0,5.0
+ONL,O Neill Municipal,O Neill,NE,USA,42.46988889,-98.68805556,5.0
 ONM,Socorro Municipal,Socorro,NM,USA,0.0,0.0,0.0
 ONO,Ontario Muni,Ontario,OR,USA,44.02052417,-117.013635,436.0
 ONP,Newport Muni,Newport,OR,USA,44.58036111,-124.0579167,173.0
 ONT,Ontario International,Ontario,CA,USA,34.056,-117.6011944,212.0
 ONY,Olney Municipal,Olney,TX,USA,0.0,0.0,0.0
-ONZ,Grosse Ile Municipal,Detroit - Grosse Ile,MI,USA,0.0,0.0,288.0
+ONZ,Grosse Ile Municipal,Detroit - Grosse Ile,MI,USA,42.09860472,-83.16105861,288.0
 OOA,Oskaloosa Municipal,Oskaloosa,IA,USA,0.0,0.0,325.0
 OOH,Hoonah SPB,Hoonah,AK,USA,58.11215944,-135.451805,13.0
 OOK,Toksook Bay,Toksook Bay,AK,USA,60.53337639,-165.1139636,474.0
-OPF,Opa-Locka,Miami,FL,USA,0.0,0.0,179.0
+OPF,Opa-Locka,Miami,FL,USA,25.907,-80.27838889,179.0
 OPL,St Landry Parish - Ahart,Opelousas,LA,USA,0.0,0.0,322.0
 OPN,Thomaston-Upton County,Thomaston,GA,USA,0.0,0.0,0.0
 OQU,Quonset State,North Kingstown,RI,USA,41.5971525,-71.41215333,101.0
@@ -2533,7 +2533,7 @@ ORC,Orange City Municipal,Orange City,IA,USA,0.0,0.0,217.0
 ORD,Chicago O'Hare International,Chicago,IL,USA,0.0,0.0,0.0
 ORE,Orange Municipal,Orange,MA,USA,42.57011889,-72.28860667,470.0
 ORF,Norfolk International,Norfolk,VA,USA,0.0,0.0,433.0
-ORG,Orange County,Orange,TX,USA,0.0,0.0,381.0
+ORG,Orange County,Orange,TX,USA,30.06916667,-93.80091667,381.0
 ORH,Worcester Regional,Worcester,MA,USA,42.26733944,-71.87570944,129.0
 ORI,Port Lions,Port Lions,AK,USA,57.8853775,-152.8461011,4.0
 ORL,Executive,Orlando,FL,USA,0.0,0.0,0.0
@@ -2563,20 +2563,20 @@ OXC,Waterbury-Oxford,Oxford,CT,USA,41.47855556,-73.13525,301.0
 OXD,Miami University,Oxford,OH,USA,0.0,0.0,0.0
 OXI,Starke County,Knox,IN,USA,0.0,0.0,0.0
 OXR,Oxnard,Oxnard,CA,USA,34.20080083,-119.2072164,296.0
-OXV,Knoxville Municipal,Knoxville,IA,USA,0.0,0.0,171.0
+OXV,Knoxville Municipal,Knoxville,IA,USA,41.29888556,-93.11381556,171.0
 OYM,St Marys Muni,St Marys,PA,USA,0.0,0.0,0.0
 OZA,Ozona Municipal,Ozona,TX,USA,0.0,0.0,140.0
 OZW,Livingston County,Howell,MI,USA,0.0,0.0,0.0
 P01,Ajo Municipal,Ajo,AZ,USA,0.0,0.0,301.0
 P04,Bisbee Municipal,Bisbee,AZ,USA,0.0,0.0,374.0
 P08,Coolidge Municipal,Coolidge,AZ,USA,0.0,0.0,0.0
-P13,San Carlos Apache,Globe,AZ,USA,0.0,0.0,190.0
+P13,San Carlos Apache,Globe,AZ,USA,33.35314722,-110.6673611,190.0
 P14,Holbrook Municipal,Holbrook,AZ,USA,0.0,0.0,223.0
 P20,Avi Suquilla,Parker,AZ,USA,0.0,0.0,0.0
 P32,H.A. Clark Memorial,Williams,AZ,USA,0.0,0.0,0.0
 P33,Cochise County,Willcox,AZ,USA,0.0,0.0,0.0
 P45,Mount Pleasant-Scottdale,Mount Pleasant,PA,USA,0.0,0.0,404.0
-P52,Cottonwood,Cottonwood,AZ,USA,0.0,0.0,290.0
+P52,Cottonwood,Cottonwood,AZ,USA,34.73002111,-112.0351569,290.0
 P53,Rostraver,Monongahela,PA,USA,0.0,0.0,0.0
 PAE,Snohomish County,Everett,WA,USA,47.90762861,-122.2815892,251.0
 PAH,Barkley Regional,Paducah,KY,USA,0.0,0.0,462.0
@@ -2584,13 +2584,13 @@ PAK,Port Allen,Hanapepe,HI,USA,21.89686833,-159.6033217,273.0
 PAN,Payson,Payson,AZ,USA,0.0,0.0,184.0
 PAO,Palo Alto Arpt of Santa Clara Co,Palo Alto,CA,USA,37.46111944,-122.1150444,199.0
 PAQ,Palmer Municipal,Palmer,AK,USA,61.59474194,-149.0888242,141.0
-PBF,Grider,Pine Bluff,AR,USA,0.0,0.0,0.0
+PBF,Grider,Pine Bluff,AR,USA,34.17498722,-91.93472028,0.0
 PBH,Price County,Phillips,WI,USA,0.0,0.0,24.0
 PBI,Palm Beach International,West Palm Beach,FL,USA,0.0,0.0,453.0
 PBV,St. George,St. George,AK,USA,56.57735278,-169.6637361,250.0
 PCK,Porcupine Creek,Porcupine Creek,AK,USA,67.23789833,-150.2860608,22.0
 PCM,Plant City Municipal,Plant City,FL,USA,0.0,0.0,141.0
-PCW,Carl R. Keller,Port Clinton,OH,USA,0.0,0.0,0.0
+PCW,Carl R. Keller,Port Clinton,OH,USA,41.51627778,-82.86869444,0.0
 PCZ,Waupaca Municipal,Waupaca,WI,USA,0.0,0.0,0.0
 PDC,Prairie Du Chien Municipal,Prairie Du Chien,WI,USA,0.0,0.0,0.0
 PDK,Dekalb-Peachtree,Atlanta,GA,USA,0.0,0.0,0.0
@@ -2598,7 +2598,7 @@ PDT,Eastern Oregon Regional At Pendleton,Pendleton,OR,USA,45.69505556,-118.84144
 PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975,329.0
 PEA,Pella Municipal,Pella,IA,USA,0.0,0.0,482.0
 PEC,Pelican SPB,Pelican,AK,USA,57.95517222,-136.2362733,398.0
-PEO,Penn Yan,Penn Yan,NY,USA,0.0,0.0,497.0
+PEO,Penn Yan,Penn Yan,NY,USA,42.63813556,-77.05306083,497.0
 PEQ,Pecos Municipal,Pecos City,TX,USA,0.0,0.0,137.0
 PEZ,Pleasanton Municipal,Pleasanton,TX,USA,0.0,0.0,2.0
 PFN,Panama City-Bay County International,Panama City,FL,USA,0.0,0.0,0.0
@@ -2610,13 +2610,13 @@ PGV,Pitt-Greenville,Greenville,NC,USA,0.0,0.0,328.0
 PHD,Harry Clever,New Philadelphia,OH,USA,0.0,0.0,169.0
 PHF,Newport News/Williamsburg International,Newport News,VA,USA,0.0,0.0,496.0
 PHG,Phillipsburg Municipal,Phillipsburg,KS,USA,0.0,0.0,0.0
-PHH,Andrews Municipal,Andrews,SC,USA,0.0,0.0,0.0
+PHH,Andrews Municipal,Andrews,SC,USA,33.45169472,-79.52620111,0.0
 PHK,Palm Beach County Glades,Pahokee,FL,USA,0.0,0.0,0.0
 PHL,Philadelphia Intl,Philadelphia,PA,USA,0.0,0.0,0.0
-PHN,St Clair County International,Port Huron,MI,USA,0.0,0.0,0.0
+PHN,St Clair County International,Port Huron,MI,USA,42.91095778,-82.52886139,0.0
 PHO,Point Hope,Point Hope,AK,USA,68.34877417,-166.7993086,191.0
 PHP,Philip,Philip,SD,USA,0.0,0.0,0.0
-PHT,Henry County,Paris,TN,USA,0.0,0.0,0.0
+PHT,Henry County,Paris,TN,USA,36.33822472,-88.38287861,0.0
 PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,0.0,0.0,350.0
 PIA,Greater Peoria Regional,Peoria,IL,USA,0.0,0.0,109.0
 PIB,Hattiesburg-Laurel Regional,Hattiesburg-Laurel,MS,USA,0.0,0.0,0.0
@@ -2631,18 +2631,18 @@ PJY,Pinckneyville-Duquoin,Pinckneyville-Duquoin,IL,USA,0.0,0.0,103.0
 PKA,Napaskiak,Napaskiak,AK,USA,60.70369056,-161.7767367,290.0
 PKB,Wood Cty/Gill Robb Wilson,Parkersburg,WV,USA,0.0,0.0,0.0
 PKD,Park Rapids Municipal,Park Rapids,MN,USA,0.0,0.0,0.0
-PKF,Park Falls Municipal,Park Falls,WI,USA,0.0,0.0,0.0
+PKF,Park Falls Municipal,Park Falls,WI,USA,45.95502361,-90.42441806,0.0
 PLB,Clinton Cty,Plattsburgh,NY,USA,44.68751861,-73.52452306,446.0
-PLD,Portland Municipal,Portland,IN,USA,0.0,0.0,0.0
-PLN,Pellston Regional  of Emmet County,Pellston,MI,USA,0.0,0.0,472.0
+PLD,Portland Municipal,Portland,IN,USA,40.45076167,-84.99007917,0.0
+PLN,Pellston Regional  of Emmet County,Pellston,MI,USA,45.5709275,-84.796715,472.0
 PLR,St Clair County,Pell City,AL,USA,0.0,0.0,273.0
-PMB,Pembina Municipal,Pembina,ND,USA,0.0,0.0,163.0
+PMB,Pembina Municipal,Pembina,ND,USA,48.9425,-97.24083333,163.0
 PMD,Palmdale Production Flight,Palmdale,CA,USA,34.62938889,-118.0845528,324.0
 PMH,Greater Portsmouth Regional,Portsmouth,OH,USA,0.0,0.0,0.0
 PMP,Pompano Beach Airpark,Pompano Beach,FL,USA,0.0,0.0,320.0
 PMV,Plattsmouth Municipal,Plattsmouth,NE,USA,0.0,0.0,141.0
 PMX,Metropolitan,Palmer,MA,USA,42.22328722,-72.31138694,322.0
-PMZ,Plymouth Municipal,Plymouth,NC,USA,0.0,0.0,0.0
+PMZ,Plymouth Municipal,Plymouth,NC,USA,35.80843944,-76.75927694,0.0
 PNA,Ralph Wenz,Pinedale,WY,USA,0.0,0.0,0.0
 PNC,Ponca City Municipal,Ponca City,OK,USA,0.0,0.0,0.0
 PNE,Northeast Philadelphia,Philadelphia,PA,USA,0.0,0.0,398.0
@@ -2651,13 +2651,13 @@ PNN,Princeton Municipal,Princeton,ME,USA,45.20066667,-67.56438889,117.0
 PNP,Pilot Point,Pilot Point,AK,USA,57.58038056,-157.5674444,233.0
 PNS,Pensacola Regional,Pensacola,FL,USA,0.0,0.0,0.0
 POC,Brackett,La Verne,CA,USA,34.09164833,-117.7817803,17.0
-POF,Poplar Bluff Municipal,Poplar Bluff,MO,USA,0.0,0.0,0.0
-POH,Pocahontas Municipal,Pocahontas,IA,USA,0.0,0.0,463.0
+POF,Poplar Bluff Municipal,Poplar Bluff,MO,USA,36.77394444,-90.32484722,0.0
+POH,Pocahontas Municipal,Pocahontas,IA,USA,42.74280556,-94.64730556,463.0
 POU,Dutchess Cty,Poughkeepsie,NY,USA,41.62661111,-73.88411111,467.0
 POY,Powell Muni,Powell,WY,USA,0.0,0.0,0.0
-PPA,Perry Lefors,Pampa,TX,USA,0.0,0.0,490.0
+PPA,Perry Lefors,Pampa,TX,USA,35.61298806,-100.9962608,490.0
 PPC,Prospect Creek,Prospect Creek,AK,USA,66.81288139,-150.6437925,180.0
-PPF,Tri City,Parsons,KS,USA,0.0,0.0,0.0
+PPF,Tri City,Parsons,KS,USA,37.33125778,-95.50900667,0.0
 PPG,Pago Pago International,Pago Pago,AS,USA,14.33102278,-170.7105258,342.0
 PPO,La Porte Municipal,La Porte,IN,USA,0.0,0.0,22.0
 PPQ,Pittsfield Penstone Municipal,Pittsfield,IL,USA,0.0,0.0,0.0
@@ -2669,7 +2669,7 @@ PRB,Paso Robles Municipal,Paso Robles,CA,USA,35.67288611,-120.6270558,21.0
 PRC,Ernest A. Love,Prescott,AZ,USA,0.0,0.0,0.0
 PRG,Edgar County,Paris,IL,USA,0.0,0.0,0.0
 PRN,Greenville Municipal,Greenville,AL,USA,0.0,0.0,0.0
-PRO,Perry Municipal,Perry,IA,USA,0.0,0.0,0.0
+PRO,Perry Municipal,Perry,IA,USA,41.82801306,-94.15990361,0.0
 PRX,Cox,Paris,TX,USA,0.0,0.0,0.0
 PSB,Mid-State,Philipsburg,PA,USA,0.0,0.0,0.0
 PSC,Tri-Cities,Pasco,WA,USA,46.26468028,-119.1190292,176.0
@@ -2678,14 +2678,14 @@ PSF,Pittsfield Municipal,Pittsfield,MA,USA,42.42684667,-73.29292806,218.0
 PSG,James C. Johnson Petersburg,Petersburg,AK,USA,56.80165194,-132.9452781,347.0
 PSK,New River Valley,Dublin,VA,USA,0.0,0.0,453.0
 PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333,105.0
-PSN,Palestine Municipal,Palestine,TX,USA,0.0,0.0,0.0
+PSN,Palestine Municipal,Palestine,TX,USA,31.77969444,-95.70630556,0.0
 PSP,Palm Springs International,Palm Springs,CA,USA,33.82921556,-116.5062531,305.0
 PSX,Palacios Municipal,Palacios,TX,USA,0.0,0.0,131.0
 PTB,Dinwiddie County,Petersburg,VA,USA,0.0,0.0,0.0
 PTD,Potsdam Muni-Damon,Potsdam,NY,USA,44.67666917,-74.94844639,228.0
 PTH,Port Heiden,Port Heiden,AK,USA,56.95943333,-158.6318208,19.0
 PTK,Oakland-Pontiac,Pontiac,MI,USA,0.0,0.0,495.0
-PTN,Harry P. Williams Memorial,Patterson,LA,USA,0.0,0.0,4.0
+PTN,Harry P. Williams Memorial,Patterson,LA,USA,29.71081917,-91.33971778,4.0
 PTS,Atkinson Municipal,Pittsburg,KS,USA,0.0,0.0,288.0
 PTT,Pratt Industrial,Pratt,KS,USA,0.0,0.0,170.0
 PTU,Platinum,Platinum,AK,USA,59.01135611,-161.8196661,426.0
@@ -2699,14 +2699,14 @@ PVC,Provincetown Municipal,Provincetown,MA,USA,42.07199833,-70.22137667,252.0
 PVD,Theodore F Green State,Providence,RI,USA,41.72399917,-71.42822111,273.0
 PVF,Placerville,Placerville,CA,USA,38.72421806,-120.753325,451.0
 PVG,Hampton Roads Executive,Portsmouth,VA,USA,0.0,0.0,426.0
-PVJ,Pauls Valley Municipal,Pauls Valley,OK,USA,0.0,0.0,222.0
+PVJ,Pauls Valley Municipal,Pauls Valley,OK,USA,34.71105361,-97.22321694,222.0
 PVU,Provo Muni,Provo,UT,USA,0.0,0.0,119.0
 PVW,Hale County,Plainview,TX,USA,0.0,0.0,449.0
-PWA,Wiley Post,Oklahoma City,OK,USA,0.0,0.0,0.0
+PWA,Wiley Post,Oklahoma City,OK,USA,35.53455,-97.64721556,0.0
 PWC,Pine River Regional,Pine River,MN,USA,0.0,0.0,277.0
-PWD,Sher-Wood,Plentywood,MT,USA,0.0,0.0,0.0
+PWD,Sher-Wood,Plentywood,MT,USA,48.79030583,-104.533845,0.0
 PWG,McGregor Exectuive,Waco,TX,USA,0.0,0.0,0.0
-PWK,Palwaukee,Chicago/Wheeling/Prospect Heights,IL,USA,0.0,0.0,96.0
+PWK,Palwaukee,Chicago/Wheeling/Prospect Heights,IL,USA,42.11418083,-87.90148083,96.0
 PWM,Portland International Jetport,Portland,ME,USA,43.64616667,-70.30875,425.0
 PWT,Bremerton National,Bremerton,WA,USA,47.49275361,-122.7624286,97.0
 PXE,Perry-Houston Couty,Perry,GA,USA,0.0,0.0,0.0
@@ -2717,7 +2717,7 @@ PZQ,Presque Isle County,Rogers City,MI,USA,0.0,0.0,169.0
 Q00,Littlefield Municipal,Littlefield,TX,USA,0.0,0.0,0.0
 Q06,City of Tulia/Swisher County Municipal,Tulia,TX,USA,0.0,0.0,0.0
 Q14,San Juan Pueblo,Espanola,NM,USA,0.0,0.0,111.0
-Q16,Reserve,Reserve,NM,USA,0.0,0.0,359.0
+Q16,Reserve,Reserve,NM,USA,33.70005472,-108.8506214,359.0
 Q17,Boonville,Boonville,CA,USA,39.0126775,-123.3827864,115.0
 Q21,Brownsville,Brownsville,CA,USA,39.45544417,-121.2913511,67.0
 Q24,Levelland Municipal,Levelland,TX,USA,0.0,0.0,0.0
@@ -2732,8 +2732,8 @@ Q42,Springer Municipal,Springer,NM,USA,0.0,0.0,441.0
 Q44,Beaver Municipal,Beaver,OK,USA,0.0,0.0,382.0
 Q49,Firebaugh,Firebaugh,CA,USA,36.85998861,-120.4644675,79.0
 Q53,Franklin,Franklin,CA,USA,38.30491306,-121.4296736,226.0
-Q55,Dimmitt Municipal,Dimmitt,TX,USA,0.0,0.0,345.0
-Q58,Santa Rosa Municipal,Santa Rosa,NM,USA,0.0,0.0,0.0
+Q55,Dimmitt Municipal,Dimmitt,TX,USA,34.56673556,-102.3226947,345.0
+Q58,Santa Rosa Municipal,Santa Rosa,NM,USA,34.93442472,-104.643065,0.0
 Q61,Georgetown,Georgetown,CA,USA,38.92111389,-120.8647944,442.0
 Q68,Pine Mountain Lake,Groveland,CA,USA,37.86166667,-120.1778889,53.0
 Q72,Hayfork,Hayfork,CA,USA,40.54708833,-123.1816953,3.0
@@ -2745,7 +2745,7 @@ Q99,South County  of Santa Clara Co,San Martin,CA,USA,37.08158611,-121.5968056,4
 RAC,John H Batten,Racine,WI,USA,0.0,0.0,395.0
 RAL,Riverside Municipal,Riverside,CA,USA,33.95187528,-117.4451017,279.0
 RAP,Rapid City Regional,Rapid City,SD,USA,0.0,0.0,0.0
-RBD,Redbird,Dallas,TX,USA,0.0,0.0,96.0
+RBD,Redbird,Dallas,TX,USA,32.68086111,-96.86819444,96.0
 RBE,Bassett Municipal,Bassett,NE,USA,0.0,0.0,0.0
 RBG,Roseburg Regional,Roseburg,OR,USA,43.23878306,-123.3558617,367.0
 RBL,Red Bluff Municipal,Red Bluff,CA,USA,40.15065667,-122.2522903,57.0
@@ -2762,20 +2762,20 @@ RDR,Grand Forks AFB,,,USA,0.0,0.0,0.0
 RDU,Raleigh-Durham International,Raleigh,NC,USA,0.0,0.0,372.0
 RDV,Red Devil,Red Devil,AK,USA,61.78764333,-157.3479344,333.0
 RED,Red Lodge,Red Lodge,MT,USA,0.0,0.0,216.0
-RFD,Greater Rockford,Rockford,IL,USA,0.0,0.0,164.0
+RFD,Greater Rockford,Rockford,IL,USA,42.19536389,-89.09721111,164.0
 RFG,Refugio-Rooke,Refugio,TX,USA,0.0,0.0,0.0
-RGK,Red Wing Municipal,Red Wing,MN,USA,0.0,0.0,9.0
+RGK,Red Wing Municipal,Red Wing,MN,USA,44.58935611,-92.48496889,9.0
 RHI,Rhinelander-Oneida County,Rhinelander,WI,USA,0.0,0.0,419.0
 RHV,Reid-Hillview of Santa Clara Co,San Jose,CA,USA,37.33287306,-121.8197947,419.0
 RIC,Richmond International,Richmond,VA,USA,0.0,0.0,417.0
-RID,Richmond Municipal,Richmond,IN,USA,0.0,0.0,0.0
+RID,Richmond Municipal,Richmond,IN,USA,39.75721528,-84.84282,0.0
 RIF,Richfield Muni,Richfield,UT,USA,0.0,0.0,0.0
 RIL,Garfield County Regional,Rifle,CO,USA,0.0,0.0,0.0
 RIU,Rancho Murieta,Rancho Murieta,CA,USA,38.4887975,-121.1024447,73.0
 RIV,March,Riverside,CA,USA,33.88057333,-117.2594836,75.0
 RIW,Riverton Regional,Riverton,WY,USA,0.0,0.0,0.0
 RKD,Knox County Regional,Rockland,ME,USA,44.06008333,-69.09925,256.0
-RKP,Aransas County,Rockport,TX,USA,0.0,0.0,397.0
+RKP,Aransas County,Rockport,TX,USA,28.08677778,-97.04461111,397.0
 RKR,Robert S Kerr,Poteau,OK,USA,0.0,0.0,412.0
 RKS,Rock Springs-Sweetwater County,Rock Springs,WY,USA,0.0,0.0,50.0
 RKW,Rockwood Municipal,Rockwood,TN,USA,0.0,0.0,187.0
@@ -2784,8 +2784,8 @@ RME,Griffis Airpark,Rome,NY,USA,0.0,0.0,80.0
 RMG,Richard B Russell,Rome,GA,USA,0.0,0.0,0.0
 RMP,Rampart,Rampart,AK,USA,65.50786222,-150.1428047,124.0
 RMY,Brooks,Marshall,MI,USA,0.0,0.0,422.0
-RNC,Warren County Memorial,McMinnville,TN,USA,0.0,0.0,0.0
-RNH,New Richmond Municipal,New Richmond,WI,USA,0.0,0.0,0.0
+RNC,Warren County Memorial,McMinnville,TN,USA,35.69870944,-85.84381722,0.0
+RNH,New Richmond Municipal,New Richmond,WI,USA,45.14831139,-92.53806139,0.0
 RNM,Ramona,Ramona,CA,USA,33.038905,-116.9136392,92.0
 RNO,Reno/Tahoe International,Reno,NV,USA,39.49857611,-119.7680647,178.0
 RNT,Renton Municipal,Renton,WA,USA,47.49313889,-122.21575,224.0
@@ -2802,35 +2802,35 @@ RPB,Belleville Municipal,Belleville,KS,USA,0.0,0.0,212.0
 RPD,Rice Lake Regional-Carl's,Rice Lake,WI,USA,0.0,0.0,25.0
 RPX,Roundup,Roundup,MT,USA,0.0,0.0,369.0
 RQB,Roben-Hood,Big Rapids,MI,USA,0.0,0.0,0.0
-RQE,Window Rock,Window Rock,AZ,USA,0.0,0.0,339.0
-RRL,Merrill Municipal,Merrill,WI,USA,0.0,0.0,0.0
+RQE,Window Rock,Window Rock,AZ,USA,35.65205556,-109.0673889,339.0
+RRL,Merrill Municipal,Merrill,WI,USA,45.19927083,-89.71143389,0.0
 RRT,Warroad Intl Swede Carlson,Warroad,MN,USA,0.0,0.0,0.0
 RSH,Russian Mission,Russian Mission,AK,USA,61.77967583,-161.3194772,448.0
 RSL,Russell Municipal,Russell,KS,USA,0.0,0.0,49.0
 RSN,Ruston Regional,Ruston,LA,USA,0.0,0.0,0.0
 RST,Rochester International,Rochester,MN,USA,0.0,0.0,0.0
-RSV,Robinson Municipal,Robinson,IL,USA,0.0,0.0,48.0
+RSV,Robinson Municipal,Robinson,IL,USA,39.01604222,-87.649775,48.0
 RSW,Southwest Florida International,Ft. Myers,FL,USA,0.0,0.0,119.0
 RTN,Raton Municipal/Crews,Raton,NM,USA,0.0,0.0,182.0
-RUE,Russellville Municipal,Russellville,AR,USA,0.0,0.0,417.0
+RUE,Russellville Municipal,Russellville,AR,USA,35.25914667,-93.09326611,417.0
 RUG,Rugby Municipal,Rugby,ND,USA,0.0,0.0,0.0
 RUQ,Rowan County,Salisbury,NC,USA,0.0,0.0,106.0
 RUT,Rutland State,Rutland,VT,USA,43.52990694,-72.949615,379.0
 RVJ,Reidsville,Reidsville,GA,USA,0.0,0.0,368.0
-RVL,Mifflin Cty,Reedsville,PA,USA,0.0,0.0,104.0
+RVL,Mifflin Cty,Reedsville,PA,USA,40.67737417,-77.62682833,104.0
 RVN,Hawkins County,Rogersville,TN,USA,0.0,0.0,0.0
-RVS,"Richard Lloyd Jones, Jr.",Tulsa,OK,USA,0.0,0.0,0.0
-RWF,Redwood Falls Muni,Redwood Falls,MN,USA,0.0,0.0,127.0
+RVS,"Richard Lloyd Jones, Jr.",Tulsa,OK,USA,36.0396275,-95.984635,0.0
+RWF,Redwood Falls Muni,Redwood Falls,MN,USA,44.54720389,-95.082255,127.0
 RWI,Rocky Mount Wilson,Rocky Mount,NC,USA,0.0,0.0,443.0
-RWL,Rawlins Muni,Rawlins,WY,USA,0.0,0.0,0.0
+RWL,Rawlins Muni,Rawlins,WY,USA,41.8055975,-107.19994,0.0
 RWN,Arens,Winamac,IN,USA,0.0,0.0,0.0
 RXE,Rexburg-Madison County,Rexburg,ID,USA,0.0,0.0,0.0
 RYN,Ryan,Tucson,AZ,USA,0.0,0.0,0.0
-RYV,Watertown Municipal,Watertown,WI,USA,0.0,0.0,54.0
+RYV,Watertown Municipal,Watertown,WI,USA,43.16963222,-88.72321222,54.0
 RYY,Cobb County-McCollum,Marietta,GA,USA,0.0,0.0,296.0
-RZL,Jasper County,Rensselaer,IN,USA,0.0,0.0,390.0
+RZL,Jasper County,Rensselaer,IN,USA,40.94789861,-87.18257944,390.0
 RZN,Burnett County,Siren,WI,USA,0.0,0.0,0.0
-RZT,Ross County,Chillicothe,OH,USA,0.0,0.0,0.0
+RZT,Ross County,Chillicothe,OH,USA,39.44136778,-83.02251556,0.0
 RZZ,Halifax County,Roanoke Rapids,NC,USA,0.0,0.0,0.0
 S01,Conrad,Conrad,MT,USA,0.0,0.0,377.0
 S03,Ashland Muni-Sumner Parker,Ashland,OR,USA,42.19028361,-122.6606283,392.0
@@ -2842,12 +2842,12 @@ S18,Forks,Forks,WA,USA,47.94146583,-124.3929867,123.0
 S21,Sunriver,Sunriver,OR,USA,43.87633333,-121.4530556,460.0
 S23,Ione Municipal,Ione,WA,USA,48.70727528,-117.4126036,4.0
 S24,Sandusky Co,Fremont,OH,USA,0.0,0.0,0.0
-S25,Watford City Municipal,Watford City,ND,USA,0.0,0.0,0.0
+S25,Watford City Municipal,Watford City,ND,USA,47.79569972,-103.2536992,0.0
 S27,Kalispell City,Kalispell,MT,USA,0.0,0.0,0.0
 S28,International Peace Garden,Dunseith,ND,USA,0.0,0.0,115.0
 S30,Lebanon State,Lebanon,OR,USA,44.529845,-122.9295336,252.0
 S31,Lopez Island,Lopez,WA,USA,48.48259944,-122.9368444,409.0
-S32,Cooperstown Municipal,Cooperstown,ND,USA,0.0,0.0,218.0
+S32,Cooperstown Municipal,Cooperstown,ND,USA,47.42277361,-98.10587139,218.0
 S33,City-County,Madras,OR,USA,44.66623139,-121.1631,107.0
 S34,Plains,Plains,MT,USA,0.0,0.0,54.0
 S39,Prineville,Prineville,OR,USA,44.28699389,-120.9038328,118.0
@@ -2882,7 +2882,7 @@ SAD,Safford Regional,Safford,AZ,USA,0.0,0.0,28.0
 SAF,Santa Fe Municipal,Santa Fe,NM,USA,0.0,0.0,149.0
 SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567,149.0
 SAR,Sparta Community-Hunter,Sparta,IL,USA,0.0,0.0,0.0
-SAT,San Antonio International,San Antonio,TX,USA,0.0,0.0,0.0
+SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778,0.0
 SAV,Savannah International,Savannah,GA,USA,0.0,0.0,0.0
 SAW,Sawyer,Gwinn,MI,USA,0.0,0.0,0.0
 SAZ,Staples Municipal,Staples,MN,USA,0.0,0.0,0.0
@@ -2907,29 +2907,29 @@ SCX,Scott Municipal,Oneida,TN,USA,0.0,0.0,344.0
 SD07,Bison Municipal,Bison,SD,USA,0.0,0.0,359.0
 SD10,Canton Municipal,Canton,SD,USA,0.0,0.0,171.0
 SD12,Wilder,De Smet,SD,USA,0.0,0.0,381.0
-SD16,Eureka Municipal,Eureka,SD,USA,0.0,0.0,343.0
+SD16,Eureka Municipal,Eureka,SD,USA,45.79998111,-99.6420625,343.0
 SD18,Flandreau Municipal,Flandreau,SD,USA,0.0,0.0,68.0
 SD22,Hoven Municipal,Hoven,SD,USA,0.0,0.0,0.0
 SD28,McLaughlin Municipal,McLaughlin,SD,USA,0.0,0.0,321.0
 SD32,Murdo Municipal,Murdo,SD,USA,0.0,0.0,0.0
-SD33,Parkston Municipal,Parkston,SD,USA,0.0,0.0,0.0
+SD33,Parkston Municipal,Parkston,SD,USA,43.37915361,-97.97118278,0.0
 SD34,Presho Municipal,Presho,SD,USA,0.0,0.0,419.0
-SDA,Shenandoah Municipal,Shenandoah,IA,USA,0.0,0.0,0.0
-SDF,Louisville International-Standiford,Louisville,KY,USA,0.0,0.0,43.0
-SDL,Scottsdale,Scottsdale,AZ,USA,0.0,0.0,247.0
+SDA,Shenandoah Municipal,Shenandoah,IA,USA,40.75148167,-95.41347222,0.0
+SDF,Louisville International-Standiford,Louisville,KY,USA,38.17438889,-85.736,43.0
+SDL,Scottsdale,Scottsdale,AZ,USA,33.622875,-111.9105333,247.0
 SDM,Brown  Municipal,San Diego,CA,USA,32.57230556,-116.98025,31.0
 SDP,Sand Point Municipal,Sand Point,AK,USA,55.31502778,-160.5176944,242.0
 SDY,Sidney-Richland Municipal,Sidney,MT,USA,0.0,0.0,141.0
 SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131,82.0
 SEE,Gillespie,San Diego (El Cajon),CA,USA,32.82623111,-116.9724497,251.0
 SEF,Sebring  And Industrial Park,Sebring,FL,USA,0.0,0.0,0.0
-SEG,Penn Valley,Selinsgrove,PA,USA,0.0,0.0,0.0
+SEG,Penn Valley,Selinsgrove,PA,USA,40.82052917,-76.86377611,0.0
 SEM,Craig,Selma,AL,USA,0.0,0.0,500.0
 SEP,Clark Field Municipal,Stephenville,TX,USA,0.0,0.0,223.0
 SER,Freeman Municipal,Seymour,IN,USA,0.0,0.0,492.0
 SET,St Charles County Smart,St Charles,MO,USA,0.0,0.0,0.0
 SEZ,Sedona,Sedona,AZ,USA,0.0,0.0,191.0
-SFB,Orlando Sanford,Orlando,FL,USA,0.0,0.0,0.0
+SFB,Orlando Sanford,Orlando,FL,USA,28.77764,-81.23748944,0.0
 SFD,Bob Wiley,Winner,SD,USA,0.0,0.0,427.0
 SFF,Felts,Spokane,WA,USA,47.68281806,-117.3225583,286.0
 SFM,Sanford Regional,Sanford,ME,USA,43.39386111,-70.70800028,218.0
@@ -2938,7 +2938,7 @@ SFQ,Suffolk Municipal,Suffolk,VA,USA,0.0,0.0,0.0
 SFY,Tri-Township,Savanna,IL,USA,0.0,0.0,0.0
 SFZ,North Central State,Pawtucket,RI,USA,41.92076333,-71.49138139,104.0
 SGF,Springfield-Branson Regional,Springfield,MO,USA,0.0,0.0,0.0
-SGH,Springfield-Beckley Municipal,Springfield,OH,USA,0.0,0.0,0.0
+SGH,Springfield-Beckley Municipal,Springfield,OH,USA,39.84028194,-83.84015056,0.0
 SGJ,St. Augustine,St. Augustine,FL,USA,0.0,0.0,227.0
 SGR,Sugar Land Municipal/Hull,Houston,TX,USA,0.0,0.0,0.0
 SGS,South St.Paul Municipal,South St Paul,MN,USA,0.0,0.0,0.0
@@ -2951,7 +2951,7 @@ SHH,Shishmaref,Shishmaref,AK,USA,66.24956861,-166.0895589,465.0
 SHL,Sheldon Municipal,Sheldon,IA,USA,0.0,0.0,0.0
 SHN,Sanderson,Shelton,WA,USA,47.23355556,-123.1475556,118.0
 SHR,Sheridan County,Sheridan,WY,USA,0.0,0.0,0.0
-SHV,Shreveport Regional,Shreveport,LA,USA,0.0,0.0,428.0
+SHV,Shreveport Regional,Shreveport,LA,USA,32.4466275,-93.82559833,428.0
 SHX,Shageluk,Shageluk,AK,USA,62.69511944,-159.5690614,319.0
 SIG,Fernando Luis Ribas Dominicci,San Juan,PR,USA,18.45675,-66.09883333,371.0
 SIK,Sikeston Memorial Municipal,Sikeston,MO,USA,0.0,0.0,0.0
@@ -2960,15 +2960,15 @@ SIV,Sullivan County,Sullivan,IN,USA,0.0,0.0,154.0
 SIY,Siskiyou County,Montague,CA,USA,41.78144167,-122.4681094,138.0
 SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089,295.0
 SJN,St Johns Industrial Air Park,St Johns,AZ,USA,0.0,0.0,339.0
-SJT,San Angelo Regional /Mathis,San Angelo,TX,USA,0.0,0.0,361.0
+SJT,San Angelo Regional /Mathis,San Angelo,TX,USA,31.35775,-100.4963056,361.0
 SJU,Luis Munoz Marin International,San Juan,PR,USA,18.43941667,-66.00183333,162.0
 SJX,Beaver Island,St James,MI,USA,0.0,0.0,69.0
 SKA,Fairchild AFB,,,USA,47.615058,-117.655803,314.0
 SKI,Sac City Municipal,Sac City,IA,USA,0.0,0.0,221.0
 SKW,Skwentna,Skwentna,AK,USA,61.965295,-151.1913661,379.0
 SKX,Taos Municipal,Taos,NM,USA,0.0,0.0,0.0
-SLB,Storm Lake Municipal,Storm Lake,IA,USA,0.0,0.0,0.0
-SLC,Salt Lake City Intl,Salt Lake City,UT,USA,0.0,0.0,0.0
+SLB,Storm Lake Municipal,Storm Lake,IA,USA,42.59719444,-95.24066667,0.0
+SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731,0.0
 SLE,McNary Fld,Salem,OR,USA,44.90952778,-123.0025,163.0
 SLG,Smith,Siloam Springs,AR,USA,0.0,0.0,0.0
 SLK,Adirondack,Saranac Lake,NY,USA,44.38531,-74.20618472,426.0
@@ -2976,7 +2976,7 @@ SLN,Salina Municipal,Salina,KS,USA,0.0,0.0,262.0
 SLO,Salem-Leckrone,Salem,IL,USA,0.0,0.0,0.0
 SLQ,Sleetmute,Sleetmute,AK,USA,61.70931139,-157.1557008,102.0
 SLR,Sulphur Springs Municipal,Sulphur Springs,TX,USA,0.0,0.0,471.0
-SMD,Smith,Fort Wayne,IN,USA,0.0,0.0,232.0
+SMD,Smith,Fort Wayne,IN,USA,41.14335389,-85.15277694,232.0
 SME,Somerset-Pulaski County,Somerset,KY,USA,0.0,0.0,19.0
 SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669,158.0
 SMN,Lemhi County,Salmon,ID,USA,0.0,0.0,0.0
@@ -2997,17 +2997,17 @@ SOW,Show Low Municipal,Show Low,AZ,USA,0.0,0.0,0.0
 SPA,Spartanburg Downtown Memorial,Spartanburg,SC,USA,0.0,0.0,369.0
 SPB,Scappoose Industrial Airpark,Scappoose,OR,USA,45.77250444,-122.8623611,219.0
 SPF,Black Hills-Clyde Ice,Spearfish,SD,USA,0.0,0.0,0.0
-SPG,Albert Whitted Municipal,St. Petersburg,FL,USA,0.0,0.0,0.0
-SPH,Springhill,Springhill,LA,USA,0.0,0.0,383.0
+SPG,Albert Whitted Municipal,St. Petersburg,FL,USA,27.76511111,-82.62697222,0.0
+SPH,Springhill,Springhill,LA,USA,32.98316472,-93.41081028,383.0
 SPI,Capital,Springfield,IL,USA,0.0,0.0,0.0
 SPN,Tinian International Airport,,,N Mariana Islands,14.996111,145.621384,415.0
 SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,USA,0.0,0.0,0.0
-SPW,Spencer Municipal,Spencer,IA,USA,0.0,0.0,0.0
+SPW,Spencer Municipal,Spencer,IA,USA,43.16552778,-95.20280556,0.0
 SPX,Houston-Gulf,Houston,TX,USA,0.0,0.0,92.0
 SQI,Whiteside Co,Sterling Rockfalls,IL,USA,0.0,0.0,0.0
 SQL,San Carlos,San Carlos,CA,USA,37.511855,-122.2495236,238.0
 SRB,Upper Cumberland Regional,Sparta,TN,USA,0.0,0.0,463.0
-SRC,Searcy Municipal,Searcy,AR,USA,0.0,0.0,0.0
+SRC,Searcy Municipal,Searcy,AR,USA,35.21194639,-91.737165,0.0
 SRQ,Sarasota Bradenton International,Sarasota,FL,USA,0.0,0.0,89.0
 SRR,Sierra Blanca Regional,Ruidoso,NM,USA,0.0,0.0,189.0
 SRV,Stony River 2,Stony River,AK,USA,61.789875,-156.5881861,183.0
@@ -3017,7 +3017,7 @@ SSQ,Shell Lake Municipal,Shell Lake,WI,USA,0.0,0.0,491.0
 STC,St Cloud Regional,St Cloud,MN,USA,0.0,0.0,340.0
 STE,Stevens Point Municipal,Stevens Point,WI,USA,0.0,0.0,84.0
 STF,George M Bryan,Starkville,MS,USA,0.0,0.0,447.0
-STJ,Rosecrans Memorial,St Joseph,MO,USA,0.0,0.0,394.0
+STJ,Rosecrans Memorial,St Joseph,MO,USA,39.77194444,-94.90970556,394.0
 STK,Crosson,Sterling,CO,USA,0.0,0.0,90.0
 STL,Lambert-St Louis International,St Louis,MO,USA,0.0,0.0,449.0
 STP,St Paul Downtown Holman,St Paul,MN,USA,0.0,0.0,132.0
@@ -3031,7 +3031,7 @@ SUN,Friedman Memorial,Hailey,ID,USA,0.0,0.0,0.0
 SUS,Spirit of St Louis,St Louis,MO,USA,0.0,0.0,55.0
 SUT,Brunswick County,Southport,NC,USA,0.0,0.0,0.0
 SUW,Richard I Bong,Superior,WI,USA,0.0,0.0,363.0
-SUX,Sioux Gateway,Sioux City,IA,USA,0.0,0.0,265.0
+SUX,Sioux Gateway,Sioux City,IA,USA,42.40260333,-96.38436694,265.0
 SVA,Savoonga,Savoonga,AK,USA,63.68639444,-170.4926361,194.0
 SVC,Grant County,Silver City,NM,USA,0.0,0.0,0.0
 SVE,Susanville Municipal,Susanville,CA,USA,40.37684111,-120.5730033,331.0
@@ -3040,7 +3040,7 @@ SVS,Stevens Village,Stevens Village,AK,USA,66.00900528,-149.0959153,36.0
 SWD,Seward,Seward,AK,USA,60.12693833,-149.4188122,281.0
 SWF,Stewart,Newburgh,NY,USA,41.50409361,-74.10483833,465.0
 SWO,Stillwater Regional,Stillwater,OK,USA,0.0,0.0,219.0
-SWT,Seward Municipal,Seward,NE,USA,0.0,0.0,0.0
+SWT,Seward Municipal,Seward,NE,USA,40.86525806,-97.10931306,0.0
 SWW,Avenger,Sweetwater,TX,USA,0.0,0.0,0.0
 SXL,Summersville,Summersville,WV,USA,0.0,0.0,0.0
 SXP,Sheldon Point,Sheldon Point,AK,USA,62.52055556,-164.8477778,54.0
@@ -3048,32 +3048,32 @@ SXQ,Soldotna,Soldotna,AK,USA,60.47613889,-151.0324444,214.0
 SYF,Cheyenne County Municipal,St Francis,KS,USA,0.0,0.0,0.0
 SYI,Bomar Field-Shelbyville Municipal,Shelbyville,TN,USA,0.0,0.0,0.0
 SYR,Syracuse-Hancock Intl,Syracuse,NY,USA,0.0,0.0,0.0
-SYV,Sylvester,Sylvester,GA,USA,0.0,0.0,241.0
+SYV,Sylvester,Sylvester,GA,USA,31.55851111,-83.89573389,241.0
 SZP,Santa Paula,Santa Paula,CA,USA,34.34722167,-119.061215,87.0
 SZT,Sandpoint,Sandpoint,ID,USA,48.29965139,-116.5597681,455.0
-SZY,Robert Sibley,Selmer,TN,USA,0.0,0.0,456.0
+SZY,Robert Sibley,Selmer,TN,USA,35.20295,-88.49836139,456.0
 T00,Chambers County,Anahauac,TX,USA,0.0,0.0,260.0
 T03,Tuba City,Tuba City,AZ,USA,0.0,0.0,356.0
-T08,Tomahawk Regional,Tomahawk,WI,USA,0.0,0.0,61.0
+T08,Tomahawk Regional,Tomahawk,WI,USA,45.46913889,-89.80569444,61.0
 T18,Brooks County,Falfurrias,TX,USA,0.0,0.0,0.0
-T28,Lampasas Municipal,Lampasas,TX,USA,0.0,0.0,64.0
+T28,Lampasas Municipal,Lampasas,TX,USA,31.10672694,-98.19600194,64.0
 T35,Cameron Municipal Airpark,Cameron,TX,USA,0.0,0.0,0.0
-T36,Paul Pittman Memorial,Tylertown,MS,USA,0.0,0.0,0.0
+T36,Paul Pittman Memorial,Tylertown,MS,USA,31.14601111,-90.168145,0.0
 T41,La Porte Municipal,La Porte,TX,USA,0.0,0.0,0.0
 T44,Trident Basin,Kodiak,AK,USA,57.78083333,-152.3913889,246.0
 T47,Kickapoo Downtown Airpark,Wichita Falls,TX,USA,0.0,0.0,0.0
 T49,Big Spring McMahon-Wrinkle,Big Spring,TX,USA,0.0,0.0,0.0
 T53,Robstown-Nueces County,Robstown,TX,USA,0.0,0.0,0.0
-T56,Crockett-Houston County,Crockett,TX,USA,0.0,0.0,0.0
+T56,Crockett-Houston County,Crockett,TX,USA,31.30696111,-95.40383056,0.0
 T57,Garland Heliport,Garland,TX,USA,0.0,0.0,0.0
 T60,Stonewall County,Aspermont,TX,USA,0.0,0.0,0.0
-T65,Mid Valley,Weslaco,TX,USA,0.0,0.0,16.0
+T65,Mid Valley,Weslaco,TX,USA,26.17763889,-97.97305556,16.0
 T69,Sinton-San Patricio County,Sinton,TX,USA,0.0,0.0,0.0
 T71,Cuero Municipal,Cuero,TX,USA,0.0,0.0,393.0
-T72,Hearne Municipal,Hearne,TX,USA,0.0,0.0,0.0
+T72,Hearne Municipal,Hearne,TX,USA,30.87182917,-96.62222639,0.0
 T74,Taylor Municipal,Taylor,TX,USA,0.0,0.0,0.0
-T78,Liberty Municipal,Liberty,TX,USA,0.0,0.0,0.0
-T80,Kleberg County,Kingsville,TX,USA,0.0,0.0,369.0
+T78,Liberty Municipal,Liberty,TX,USA,30.07780556,-94.69855556,0.0
+T80,Kleberg County,Kingsville,TX,USA,27.55086111,-98.03091833,369.0
 T82,Gillespie County,Fredericksburg,TX,USA,0.0,0.0,204.0
 T89,Castroville Municipal,Castroville,TX,USA,0.0,0.0,9.0
 T90,Chambers County,Winnie/Stowell,TX,USA,0.0,0.0,0.0
@@ -3089,12 +3089,12 @@ TCL,Tuscaloosa Municipal,Tuscaloosa,AL,USA,0.0,0.0,340.0
 TCS,Truth Or Consequences Municipal,Truth Or Consequences,NM,USA,0.0,0.0,414.0
 TCT,Takotna,Takotna,AK,USA,62.99270417,-156.0681903,432.0
 TCY,Tracy Municipal,Tracy,CA,USA,37.68910778,-121.4418172,467.0
-TDF,Person County,Roxboro,NC,USA,0.0,0.0,0.0
+TDF,Person County,Roxboro,NC,USA,36.28489194,-78.98422694,0.0
 TDO,Toledo-Winlock Ed Carlson Memorial,Toledo,WA,USA,46.47709083,-122.80686,450.0
 TDZ,Toledo Metcalf,Toledo,OH,USA,0.0,0.0,69.0
 TEB,Teterboro,Teterboro,NJ,USA,40.85010139,-74.06083611,491.0
 TEL,Perry County Municipal,Tell City,IN,USA,0.0,0.0,0.0
-TEW,Mason Jewett,Mason,MI,USA,0.0,0.0,13.0
+TEW,Mason Jewett,Mason,MI,USA,42.56576833,-84.42321861,13.0
 TEX,Telluride Regional,Telluride,CO,USA,0.0,0.0,329.0
 TGC,Gibson County,Trenton,TN,USA,0.0,0.0,111.0
 TGI,Tangier Island,Tangier,VA,USA,0.0,0.0,0.0
@@ -3106,16 +3106,16 @@ TIW,Tacoma Narrows,Tacoma,WA,USA,47.26793111,-122.5780997,77.0
 TIX,Space Cost Regional,Titusville,FL,USA,0.0,0.0,115.0
 TKA,Talkeetna,Talkeetna,AK,USA,62.3205,-150.0936944,448.0
 TKE,Tenakee SPB,Tenakee Springs,AK,USA,57.77965833,-135.2184439,328.0
-TKI,McKinney Municipal,McKinney,TX,USA,0.0,0.0,141.0
+TKI,McKinney Municipal,McKinney,TX,USA,33.17794778,-96.5905275,141.0
 TKX,Kennett Memorial,Kennett,MO,USA,0.0,0.0,448.0
 TLH,Tallahassee Regional,Tallahassee,FL,USA,0.0,0.0,254.0
 TLR,Mefford,Tulare,CA,USA,36.15630556,-119.3261667,139.0
 TLT,Tuluksak,Tuluksak,AK,USA,61.09676222,-160.9684167,442.0
-TMA,Henry Tift Myers,Tifton,GA,USA,0.0,0.0,0.0
+TMA,Henry Tift Myers,Tifton,GA,USA,31.42879528,-83.48787167,0.0
 TMB,Kendall-Tamiami Executive,Miami,FL,USA,0.0,0.0,339.0
 TNI,West Tinian,Peipeinimaru,CQ,USA,14.99685028,-145.6180383,111.0
 TNP,Twentynine Palms,Twentynine Palms,CA,USA,34.13208528,-115.9458319,257.0
-TNT,Dade Collier T And T,Miami,FL,USA,0.0,0.0,362.0
+TNT,Dade Collier T And T,Miami,FL,USA,25.86180556,-80.897,362.0
 TNU,Newton Municipal,Newton,IA,USA,0.0,0.0,105.0
 TOA,Zamperini,Torrance,CA,USA,33.8033775,-118.3396,438.0
 TOB,Dodge Center,Dodge Center,MN,USA,0.0,0.0,0.0
@@ -3128,14 +3128,14 @@ TOR,Torrington Muni,Torrington,WY,USA,0.0,0.0,412.0
 TPA,Tampa International,Tampa,FL,USA,0.0,0.0,0.0
 TPF,Peter O. Knight,Tampa,FL,USA,0.0,0.0,484.0
 TPH,Tonopah,Tonopah,NV,USA,38.06020222,-117.0871536,18.0
-TPL,Draughon-Miller Central Texas Regional,Temple,TX,USA,0.0,0.0,387.0
+TPL,Draughon-Miller Central Texas Regional,Temple,TX,USA,31.1525,-97.40777778,387.0
 TPO,Port Alsworth,Port Alsworth,AK,USA,60.20433333,-154.3188728,227.0
-TQE,Municipal,Tekamah,NE,USA,0.0,0.0,287.0
+TQE,Municipal,Tekamah,NE,USA,41.76352778,-96.17794444,287.0
 TQH,Tahlequah Municipal,Tahlequah,OK,USA,0.0,0.0,87.0
-TQK,Scott City Municipal,Scott City,KS,USA,0.0,0.0,333.0
+TQK,Scott City Municipal,Scott City,KS,USA,38.47427778,-100.8849444,333.0
 TRI,Tri-Cities Regional,Bristol,TN,USA,0.0,0.0,349.0
 TRK,Truckee-Tahoe,Truckee,CA,USA,39.32004222,-120.1395628,207.0
-TRL,Terrell Municipal,Terrell,TX,USA,0.0,0.0,78.0
+TRL,Terrell Municipal,Terrell,TX,USA,32.71004667,-96.26742306,78.0
 TRM,Desert Resorts Regional,Palm Springs,CA,USA,33.62789944,-116.1601194,466.0
 TRX,Trenton Municipal,Trenton,MO,USA,0.0,0.0,0.0
 TSO,Carroll County-Tolson,Carrollton,OH,USA,0.0,0.0,485.0
@@ -3143,9 +3143,9 @@ TSP,Tehachapi Municipal,Tehachapi,CA,USA,35.13497222,-118.43925,176.0
 TT01,Pagan Airstrip,Shomu-Shon,CQ,USA,18.12444444,-145.7686111,331.0
 TTA,Sanford-Lee County Regional,Sanford,NC,USA,0.0,0.0,0.0
 TTD,Portland-Troutdale,Portland,OR,USA,45.54936889,-122.4012519,243.0
-TTF,Monroe Custer,Monroe,MI,USA,0.0,0.0,0.0
+TTF,Monroe Custer,Monroe,MI,USA,41.93990639,-83.43468306,0.0
 TTN,Trenton-Mercer County,Trenton,NJ,USA,40.27669111,-74.81346833,217.0
-TUL,Tulsa International,Tulsa,OK,USA,0.0,0.0,313.0
+TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167,313.0
 TUP,Tupelo Municipal,Tupelo,MS,USA,0.0,0.0,451.0
 TUS,Tucson International,Tucson,AZ,USA,0.0,0.0,109.0
 TVB,Cabool Memorial,Cabool,MO,USA,0.0,0.0,357.0
@@ -3154,14 +3154,14 @@ TVF,Thief River Falls Regional,Thief River Falls,MN,USA,0.0,0.0,0.0
 TVI,Thomasville Municipal,Thomasville,GA,USA,0.0,0.0,0.0
 TVK,Centerville Municipal,Centerville,IA,USA,0.0,0.0,0.0
 TVL,Lake Tahoe,South Lake Tahoe,CA,USA,38.89388167,-119.9953347,106.0
-TVR,Vicksburg Tallulah Regional,Tallulah,LA,USA,0.0,0.0,0.0
+TVR,Vicksburg Tallulah Regional,Tallulah,LA,USA,32.35160639,-91.02768917,0.0
 TVY,Tooele Valley,Tooele,UT,USA,0.0,0.0,67.0
 TWF,Joslin Field - Magic Valley,Twin Falls,ID,USA,0.0,0.0,143.0
-TWM,Richard B. Helgeson,Two Harbors,MN,USA,0.0,0.0,0.0
+TWM,Richard B. Helgeson,Two Harbors,MN,USA,47.049225,-91.74514167,0.0
 TXK,Texarkana Regional-Webb,Texarkana,AR,USA,0.0,0.0,381.0
 TYL,Taylor,Taylor,AZ,USA,0.0,0.0,0.0
 TYQ,Indianapolis Terry,Indianapolis,IN,USA,0.0,0.0,55.0
-TYR,Tyler Pounds,Tyler,TX,USA,0.0,0.0,245.0
+TYR,Tyler Pounds,Tyler,TX,USA,32.35413889,-95.40238611,245.0
 TYS,McGhee-Tyson,Knoxville,TN,USA,0.0,0.0,196.0
 TZR,Bolton,Columbus,OH,USA,0.0,0.0,0.0
 TZT,Belle Plaine Municipal,Belle Plaine,IA,USA,0.0,0.0,0.0
@@ -3170,24 +3170,24 @@ U02,McCarley,Blackfoot,ID,USA,0.0,0.0,0.0
 U03,Buhl Municipal,Buhl,ID,USA,0.0,0.0,179.0
 U05,Riddick,Philipsburg,MT,USA,0.0,0.0,0.0
 U08,Perkins,Overton,NV,USA,0.0,0.0,192.0
-U10,Preston,Preston,ID,USA,0.0,0.0,411.0
+U10,Preston,Preston,ID,USA,42.10690806,-111.9125389,411.0
 U14,Nephi Municipal,Nephi,UT,USA,0.0,0.0,59.0
 U25,Dubois Municipal,Dubois,WY,USA,0.0,0.0,0.0
 U30,Temple Bar,Temple Bar,AZ,USA,0.0,0.0,213.0
 U34,Green River Muni,Green River,UT,USA,0.0,0.0,0.0
 U36,Aberdeen Municipal,Aberdeen,ID,USA,0.0,0.0,0.0
-U42,Salt Lake City Municipal 2,Salt Lake City,UT,USA,0.0,0.0,415.0
-U43,Monticello,Monticello,UT,USA,0.0,0.0,0.0
+U42,Salt Lake City Municipal 2,Salt Lake City,UT,USA,40.61954,-111.9928858,415.0
+U43,Monticello,Monticello,UT,USA,37.937215,-109.3465053,0.0
 U52,Beaver Municipal,Beaver,UT,USA,0.0,0.0,0.0
 U55,Panguitch Municipal,Panguitch,UT,USA,0.0,0.0,461.0
 U59,Driggs-Reed Memorial,Driggs,ID,USA,0.0,0.0,310.0
 U68,North Big Horn County,Cowley/Lovell/Byron,WY,USA,0.0,0.0,0.0
-U69,Duchesne Municipal,Duchesne,UT,USA,0.0,0.0,83.0
+U69,Duchesne Municipal,Duchesne,UT,USA,40.19190167,-110.3809886,83.0
 U70,Cascade,Cascade,ID,USA,44.4937825,-116.0162422,105.0
 U76,Mountain Home Municipal,Mountain Home,ID,USA,43.13125278,-115.7295944,245.0
-U77,Spanish Fork-Springville,Spanish Fork,UT,USA,0.0,0.0,0.0
+U77,Spanish Fork-Springville,Spanish Fork,UT,USA,40.14162139,-111.6613125,0.0
 U82,Council Municipal,Council,ID,USA,44.7498875,-116.4468092,436.0
-U96,Cal Black Memorial,Halls Crossing,UT,USA,0.0,0.0,287.0
+U96,Cal Black Memorial,Halls Crossing,UT,USA,37.44221444,-110.5695836,287.0
 UAO,Aurora State,Aurora,OR,USA,45.24713889,-122.7700556,412.0
 UBE,Cumberland Municipal,Cumberland,WI,USA,0.0,0.0,0.0
 UBS,Columbus-Lowndes County,Columbus,MS,USA,0.0,0.0,0.0
@@ -3213,7 +3213,7 @@ UNI,Ohio University,Athens/Albany,OH,USA,0.0,0.0,0.0
 UNK,Unalakleet,Unalakleet,AK,USA,63.88835917,-160.7989517,445.0
 UNO,West Plains Municipal,West Plains,MO,USA,0.0,0.0,0.0
 UNU,Dodge County,Juneau,WI,USA,0.0,0.0,281.0
-UNV,University Park,State College,PA,USA,0.0,0.0,0.0
+UNV,University Park,State College,PA,USA,40.84927778,-77.84869444,0.0
 UOS,Franklin County,Sewanee,TN,USA,0.0,0.0,268.0
 UOX,University-Oxford,Oxford,MS,USA,0.0,0.0,48.0
 UPP,Upolu,Hawi,HI,USA,20.26525583,-155.8599875,220.0
@@ -3223,41 +3223,41 @@ UUO,Willow,Willow,AK,USA,61.75441667,-150.0516639,403.0
 UUU,Newport State,Newport,RI,USA,41.53243972,-71.28154389,354.0
 UUV,Sullivan Regional,Sullivan,MO,USA,0.0,0.0,0.0
 UVA,Garner,Uvalde,TX,USA,0.0,0.0,0.0
-UWL,New Castle-Henry Co,New Castle,IN,USA,0.0,0.0,0.0
+UWL,New Castle-Henry Co,New Castle,IN,USA,39.87585167,-85.32646806,0.0
 UYF,Madison County,London,OH,USA,0.0,0.0,214.0
 UZA,Rock Hill Municipal/Bryant,Rock Hill,SC,USA,0.0,0.0,0.0
 VAK,Chevak,Chevak,AK,USA,61.53363583,-165.5837322,28.0
 VAY,South Jersey Reg,Mount Holly,NJ,USA,39.94289056,-74.84571944,318.0
 VBT,Bentonville Municipal,Bentonville,AR,USA,0.0,0.0,167.0
 VCB,Nut Tree,Vacaville,CA,USA,38.37675167,-121.962455,303.0
-VCT,Victoria Regional,Victoria,TX,USA,0.0,0.0,0.0
+VCT,Victoria Regional,Victoria,TX,USA,28.85255556,-96.91848722,0.0
 VCV,Southern California Logistic,Victorville,CA,USA,34.593225,-117.3794667,270.0
-VDI,Vidalia Municipal,Vidalia,GA,USA,0.0,0.0,0.0
+VDI,Vidalia Municipal,Vidalia,GA,USA,32.19255556,-82.37194444,0.0
 VDZ,Valdez,Valdez,AK,USA,61.13395028,-146.24836,250.0
 VEE,Venetie,Venetie,AK,USA,67.02269444,-146.4137753,255.0
 VEL,Vernal,Vernal,UT,USA,0.0,0.0,485.0
-VER,Jesse Viertel Memorial,Boonville,MO,USA,0.0,0.0,0.0
+VER,Jesse Viertel Memorial,Boonville,MO,USA,38.94577556,-92.68277139,0.0
 VES,Darke County,Versailles,OH,USA,0.0,0.0,0.0
 VGT,North Las Vegas,Las Vegas,NV,USA,36.21166667,-115.19575,450.0
 VHN,Culberson County,Van Horn,TX,USA,0.0,0.0,0.0
 VIH,Rolla National,Rolla/Vichy,MO,USA,0.0,0.0,81.0
 VIQ,Neillsville Municipal,Neillsville,WI,USA,0.0,0.0,449.0
 VIS,Visalia Municipal,Visalia,CA,USA,36.31866667,-119.3928889,361.0
-VJI,Virginia Highlands,Abingdon,VA,USA,0.0,0.0,0.0
+VJI,Virginia Highlands,Abingdon,VA,USA,36.68711028,-82.03333583,0.0
 VLA,Vandalia Municipal,Vandalia,IL,USA,0.0,0.0,224.0
-VLD,Valdosta Regional,Valdosta,GA,USA,0.0,0.0,409.0
-VMR,Harold Davidson,Vermillion,SD,USA,0.0,0.0,0.0
-VNC,Venice Municipal,Venice,FL,USA,0.0,0.0,321.0
+VLD,Valdosta Regional,Valdosta,GA,USA,30.7825,-83.27672222,409.0
+VMR,Harold Davidson,Vermillion,SD,USA,42.76528917,-96.93425472,0.0
+VNC,Venice Municipal,Venice,FL,USA,27.07161111,-82.44033333,321.0
 VNW,Van Wert County,Van Wert,OH,USA,0.0,0.0,180.0
 VNY,Van Nuys,Van Nuys,CA,USA,34.20980972,-118.4899733,234.0
 VPC,Cartersville,Cartersville,GA,USA,0.0,0.0,0.0
-VPS,Eglin Air Force Base,Valparaiso,FL,USA,0.0,0.0,0.0
+VPS,Eglin Air Force Base,Valparaiso,FL,USA,30.48325,-86.5254,0.0
 VPZ,Porter County Municipal,Valparaiso,IN,USA,0.0,0.0,0.0
 VQQ,Cecil,Jacksonville,FL,USA,0.0,0.0,417.0
 VQS,Antonio Rivera Rodriguez,Isla De Vieques,PR,USA,18.13551806,-65.49182583,265.0
 VRB,Vero Beach Municipal,Vero Beach,FL,USA,0.0,0.0,420.0
 VSF,Springfield State/Hartness,Springfield,VT,USA,43.34362889,-72.5173125,246.0
-VTA,Newark-Heath,Newark,OH,USA,0.0,0.0,0.0
+VTA,Newark-Heath,Newark,OH,USA,40.024675,-82.46182194,0.0
 VTI,Vinton Veterans Memorial Airpark,Vinton,IA,USA,0.0,0.0,0.0
 VTN,Miller,Valentine,NE,USA,0.0,0.0,396.0
 VUJ,Stanly County,Albemarle,NC,USA,0.0,0.0,403.0
@@ -3266,20 +3266,20 @@ VVV,Ortonville Municipal,Ortonville,MN,USA,0.0,0.0,225.0
 VYS,Illinois Valley Regional,Peru/Lasalle,IL,USA,0.0,0.0,255.0
 W04,Ocean Shores Municipal,Ocean Shores,WA,USA,47.00369806,-124.143785,234.0
 W05,Gettysburg  & Travel Center,Gettysburg,PA,USA,0.0,0.0,0.0
-W11,Menomonie Municipal - Score,Menomonie,WI,USA,0.0,0.0,0.0
-W22,Upshur County Regional,Buckhannon,WV,USA,0.0,0.0,308.0
-W29,Bay Bridge Industrial,Stevensville,MD,USA,0.0,0.0,0.0
+W11,Menomonie Municipal - Score,Menomonie,WI,USA,44.89234639,-91.86777944,0.0
+W22,Upshur County Regional,Buckhannon,WV,USA,39.00035833,-80.27392778,308.0
+W29,Bay Bridge Industrial,Stevensville,MD,USA,38.97638889,-76.32963889,0.0
 W31,Lunenburg County,Kenbridge,VA,USA,0.0,0.0,309.0
 W33,Friday Harbor,Friday Harbor,WA,USA,48.53732194,-123.0096236,384.0
 W40,Mt Olive Municipal,Mt Olive,NC,USA,0.0,0.0,75.0
 W41,Crisfield Municipal,Crisfield,MD,USA,0.0,0.0,188.0
 W44,Asheboro Municipal,Asheboro,NC,USA,0.0,0.0,0.0
 W45,Luray Caverns,Luray,VA,USA,0.0,0.0,0.0
-W66,Warrenton-Fauquier,Warrenton,VA,USA,0.0,0.0,217.0
+W66,Warrenton-Fauquier,Warrenton,VA,USA,38.58704667,-77.71138389,217.0
 W78,William M Tuck,South Boston,VA,USA,0.0,0.0,449.0
 W95,Ocracoke Island,Ocracoke,NC,USA,0.0,0.0,0.0
-W96,New Kent County,Quinton,VA,USA,0.0,0.0,0.0
-W97,Middle Peninsula Regional,West Point,VA,USA,0.0,0.0,55.0
+W96,New Kent County,Quinton,VA,USA,37.50320139,-77.12552694,0.0
+W97,Middle Peninsula Regional,West Point,VA,USA,37.52122778,-76.7646825,55.0
 W99,Grant County,Petersburg,WV,USA,0.0,0.0,0.0
 WA10,Grove,Camas/Washougal,WA,USA,45.62777778,-122.4041667,28.0
 WA21,Grand Coulee Dam,Electric City,WA,USA,47.92348361,-119.0805789,160.0
@@ -3316,18 +3316,18 @@ X06,Arcadia Municipal,Arcadia,FL,USA,0.0,0.0,205.0
 X07,Lake Wales Municipal,Lake Wales,FL,USA,0.0,0.0,183.0
 X10,Belle Glade Municipal,Belle Glade,FL,USA,0.0,0.0,0.0
 X14,Labelle Municipal,Labelle,FL,USA,0.0,0.0,357.0
-X16,Vandenberg,Tampa,FL,USA,0.0,0.0,0.0
+X16,Vandenberg,Tampa,FL,USA,28.01398389,-82.34527917,0.0
 X21,Arthur Dunn Airpark,Titusville,FL,USA,0.0,0.0,245.0
 X23,Umatilla Municipal,Umatilla,FL,USA,0.0,0.0,303.0
 X26,Sebastian Municipal,Sebastian,FL,USA,0.0,0.0,0.0
 X35,Dunnellon/Marion Co.,Dunellon,FL,USA,0.0,0.0,180.0
-X40,Inverness,Inverness,FL,USA,0.0,0.0,248.0
+X40,Inverness,Inverness,FL,USA,28.80859639,-82.31648167,248.0
 X44,Watson Island Base,Miami,FL,USA,0.0,0.0,0.0
-X46,Opa-Locka West,Miami,FL,USA,0.0,0.0,334.0
+X46,Opa-Locka West,Miami,FL,USA,25.94898194,-80.42338694,334.0
 X47,Flagler County,Bunnell,FL,USA,0.0,0.0,0.0
 X51,Homestead General Aviation,Homestead,FL,USA,0.0,0.0,262.0
 X59,Valkaria,Valkaria,FL,USA,0.0,0.0,0.0
-X60,Williston Municipal,Williston,FL,USA,0.0,0.0,299.0
+X60,Williston Municipal,Williston,FL,USA,29.35422,-82.47288194,299.0
 X63,Humacao,Humacao,PR,USA,18.13801667,-65.8007175,439.0
 X66,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,VI,USA,18.33856722,-64.94070111,406.0
 X67,Christiansted Harbor Seaplane Base,Christiansted,VI,USA,17.74719528,-64.70486444,269.0
@@ -3335,29 +3335,29 @@ X95,Diego Jimenez Torres,Fajardo,PR,USA,18.30800972,-65.66182806,254.0
 X96,Cruz Bay Harbor Seaplane Base,Cruz Bay,VI,USA,18.33689833,-64.79958306,79.0
 XNA,Northwest Arkansas Regional,Fayetteville/Springdale/Rogers,AR,USA,0.0,0.0,373.0
 XVG,Longville Municipal,Longville,MN,USA,0.0,0.0,0.0
-Y03,Springfield Municipal,Springfield,SD,USA,0.0,0.0,59.0
+Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972,59.0
 Y14,Marv Skie-Lincoln County,Tea,SD,USA,0.0,0.0,185.0
-Y15,Cheboygan City-County,Cheboygan,MI,USA,0.0,0.0,148.0
+Y15,Cheboygan City-County,Cheboygan,MI,USA,45.65371028,-84.51927306,148.0
 Y19,Mandan Municipal,Mandan,ND,USA,0.0,0.0,87.0
 Y27,Standing Rock,Fort Yates,ND,USA,0.0,0.0,0.0
-Y31,West Branch Community,West Branch,MI,USA,0.0,0.0,0.0
-Y37,Park River Municipal,Park River,ND,USA,0.0,0.0,0.0
+Y31,West Branch Community,West Branch,MI,USA,44.244825,-84.17980472,0.0
+Y37,Park River Municipal,Park River,ND,USA,48.39443778,-97.78147889,0.0
 Y47,New Hudson,New Hudson,MI,USA,0.0,0.0,280.0
-Y50,Wautoma Municipal,Wautoma,WI,USA,0.0,0.0,0.0
-Y51,Viroqua Municipal,Viroqua,WI,USA,0.0,0.0,224.0
+Y50,Wautoma Municipal,Wautoma,WI,USA,44.04162556,-89.30448694,0.0
+Y51,Viroqua Municipal,Viroqua,WI,USA,43.57913917,-90.90096333,224.0
 Y55,Crandon Municipal,Crandon,WI,USA,0.0,0.0,416.0
 Y63,Elbow Lake Municipal,Elbow Lake,MN,USA,0.0,0.0,202.0
 Y66,Drummond Island,Drummond Island,MI,USA,0.0,0.0,218.0
 Y68,Tracy Municipal,Tracy,MN,USA,0.0,0.0,198.0
 Y70,Ionia County,Ionia,MI,USA,0.0,0.0,257.0
-Y74,Hankins,Parshall,ND,USA,0.0,0.0,0.0
+Y74,Hankins,Parshall,ND,USA,47.93640083,-102.1421142,0.0
 Y83,Sandusky City,Sandusky,MI,USA,0.0,0.0,279.0
 Y93,Atlanta Municipal,Atlanta,MI,USA,0.0,0.0,0.0
 YAK,Yakutat,Yakutat,AK,USA,59.50336056,-139.6602261,494.0
 YAP,Yap International,,,Federated States of Micronesia,9.5167,138.1,230.0
-YIP,Willow Run,Detroit,MI,USA,0.0,0.0,197.0
+YIP,Willow Run,Detroit,MI,USA,42.2379275,-83.53040889,197.0
 YKM,Yakima Air Terminal,Yakima,WA,USA,46.56816972,-120.5440594,206.0
-YKN,Chan Gurney Municipal,Yankton,SD,USA,0.0,0.0,322.0
+YKN,Chan Gurney Municipal,Yankton,SD,USA,42.91669444,-97.38594444,322.0
 YNG,Youngstown-Warren Regional,Youngstown,OH,USA,0.0,0.0,484.0
 YUM,Yuma MCAS-Yuma International,Yuma,AZ,USA,0.0,0.0,0.0
 Z08,Ofu,Ofu Village,AS,USA,14.18435056,-169.6700236,169.0
@@ -3371,8 +3371,8 @@ Z84,Clear,Clear A.F.B.,AK,USA,64.30120361,-149.1201436,136.0
 Z91,Birch Creek,Birch Creek,AK,USA,66.27399583,-145.8240381,467.0
 Z95,Cibecue,Cibecue,AZ,USA,0.0,0.0,440.0
 ZEF,Elkin Municipal,Elkin,NC,USA,0.0,0.0,0.0
-ZER,Schuylkill Cty/Joe Zerbey,Pottsville,PA,USA,0.0,0.0,174.0
+ZER,Schuylkill Cty/Joe Zerbey,Pottsville,PA,USA,40.70644889,-76.37314667,174.0
 ZPH,Zephyrhills Municipal,Zephyrhills,FL,USA,0.0,0.0,49.0
 ZUN,Black Rock,Zuni,NM,USA,0.0,0.0,37.0
-ZZV,Zanesville Municipal,Zanesville,OH,USA,0.0,0.0,0.0
+ZZV,Zanesville Municipal,Zanesville,OH,USA,39.94445833,-81.89210528,0.0
 ,,,,,,,367.0
