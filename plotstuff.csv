@@ -1,0 +1,13 @@
+chart_type,design_type,Count of Questions
+line chart,"single class, non-juxtaposed",53
+scatterplot,"single class, juxtaposed",52
+scatterplot,"multi class, non-juxtaposed",51
+line chart,"multi class, juxtaposed",61
+line chart,"multi class, non-juxtaposed",58
+bar chart,"multi class, non-juxtaposed",61
+bar chart,"single class, non-juxtaposed",58
+line chart,"single class, juxtaposed",59
+bar chart,"multi class, juxtaposed",57
+bar chart,"single class, juxtaposed",57
+scatterplot,"multi class, juxtaposed",64
+scatterplot,"single class, non-juxtaposed",52
