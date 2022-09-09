@@ -1,0 +1,16 @@
+Quantity,Type,Count
+Correlation,SCP,39
+Compare,SCP,60
+Trend ,SCP,20
+Extremum,SCP,42
+CDV,SCP,45
+Correlation,Bar,11
+Compare,Bar,74
+Trend ,Bar,16
+Extremum,Bar,55
+CDV,Bar,54
+Correlation,Line,11
+Compare,Line,69
+Trend ,Line,37
+Extremum,Line,41
+CDV,Line,50
