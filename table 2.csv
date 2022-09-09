@@ -1,0 +1,28 @@
+Stat. Quantity,Count,Type
+Correlation,37, SCP 
+Compare,16, SCP 
+Trend ,16, SCP 
+Extremum,7, SCP 
+CDV,3, SCP 
+Distribution,7, SCP 
+Anomalies,0, SCP 
+Range ,3, SCP 
+Cluster,8, SCP 
+Correlation,6,Bar 
+Compare,32,Bar 
+Trend ,9,Bar 
+Extremum,36,Bar 
+CDV,8,Bar 
+Distribution,1,Bar 
+Anomalies,3,Bar 
+Range ,1,Bar 
+Cluster,0,Bar 
+Correlation,9,Line 
+Compare,12,Line 
+Trend ,59,Line 
+Extremum,12,Line 
+CDV,8,Line 
+Distribution,0,Line 
+Anomalies,0,Line 
+Range ,0,Line 
+Cluster,0,Line 
