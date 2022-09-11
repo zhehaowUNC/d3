@@ -1,0 +1,289 @@
+User Id,Description_time_seconds,Question_time_seconds,,,,
+1661195676756,114.66,68.678,,bar chart,multi class juxtaposed
+1661195676756,120.88,67.707,,scatterplot,single class juxtaposed
+1661195676756,135.80,57.768,,bar chart,single class juxtaposed
+1661195676756,104.59,52.295,,line chart,single class juxtaposed
+1661195676756,107.58,79.399,,line chart,multi class,
+1661195676756,69.46,86.14,,line chart,multi class juxtaposed
+1661195676756,84.65,51.962,,scatterplot,single class,
+1661195676756,113.40,35.72,,line chart,single class,
+1661195676756,125.31,29.392,,scatterplot,multi class,
+1661195676756,103.05,15.456,,bar chart,single class,
+1661195676756,66.78,22.694,,bar chart,multi class,
+1661195676756,168.16,46.505,,scatterplot,multi class juxtaposed
+1661291548140,210.81,128.73,,bar chart,multi class juxtaposed
+1661291548140,275.84,115.832,,line chart,single class juxtaposed
+1661291548140,302.06,38.287,,bar chart,single class juxtaposed
+1661291548140,212.46,39.924,,bar chart,single class,
+1661291548140,109.43,98.241,,bar chart,multi class,
+1661291548140,150.75,78.196,,scatterplot,multi class juxtaposed
+1661291548140,164.53,55.669,,scatterplot,multi class,
+1661291548140,135.86,43.901,,scatterplot,single class juxtaposed
+1661291548140,52.49,19.673,,line chart,single class,
+1661291548140,72.97,28.605,,scatterplot,single class,
+1661291548140,184.85,67.677,,line chart,multi class,
+1661291548140,190.72,62.09,,line chart,multi class juxtaposed
+1661441477822,299.54,134.308,,line chart,single class juxtaposed
+1661441477822,81.67,143.181,,line chart,multi class,
+1661441477822,98.69,54.595,,line chart,single class,
+1661441477822,120.62,53.892,,bar chart,multi class juxtaposed
+1661441477822,237.22,143.037,,line chart,multi class juxtaposed
+1661441477822,226.42,133.09,,bar chart,single class juxtaposed
+1661441477822,80.62,49.288,,bar chart,multi class,
+1661441477822,98.31,46.818,,bar chart,single class,
+1661441477822,100.50,177.902,,scatterplot,single class juxtaposed
+1661441477822,121.85,154.475,,scatterplot,multi class juxtaposed
+1661441477822,95.80,57.277,,scatterplot,single class,
+1661441477822,95.70,89.653,,scatterplot,multi class,
+1660856509510,70.00,70,,bar chart,single class,
+1660856509510,100.00,100,,scatterplot,multi class,
+1660856509510,120.00,80,,line chart,multi class,
+1660856509510,100.00,90,,scatterplot,single class juxtaposed
+1660856509510,70.00,70,,line chart,single class,
+1660856509510,120.00,90,,bar chart,multi class juxtaposed
+1660856509510,120.00,100,,line chart,multi class juxtaposed
+1660856509510,120.00,90,,bar chart,single class juxtaposed
+1660856509510,70.00,70,,scatterplot,single class,
+1660856509510,100.00,90,,line chart,single class juxtaposed
+1660856509510,120.00,100,,scatterplot,multi class juxtaposed
+1660856509510,100.00,90,,bar chart,multi class,
+1661451498931,182.20,163.819,,bar chart,single class,
+1661451498931,147.26,101.867,,bar chart,single class juxtaposed
+1661451498931,127.93,125.866,,scatterplot,single class,
+1661451498931,172.34,137.979,,line chart,multi class juxtaposed
+1661451498931,110.21,39.101,,line chart,multi class,
+1661451498931,95.05,62.332,,line chart,single class juxtaposed
+1661451498931,76.76,76.336,,scatterplot,multi class juxtaposed
+1661451498931,111.38,50.112,,line chart,single class,
+1661451498931,88.65,40.395,,scatterplot,multi class,
+1661451498931,93.85,58.87,,bar chart,multi class juxtaposed
+1661451498931,85.81,62.643,,bar chart,multi class,
+1661451498931,86.10,29.869,,scatterplot,single class juxtaposed
+1660581128132,49.31,79.056,,bar chart,multi class,
+1660581128132,118.90,78.968,,line chart,multi class juxtaposed
+1660581128132,38.62,87.268,,line chart,single class,
+1660581128132,47.52,57.36,,bar chart,single class,
+1660581128132,58.65,48.239,,bar chart,single class juxtaposed
+1660581128132,71.48,73.192,,line chart,multi class,
+1660581128132,67.06,52.785,,bar chart,multi class juxtaposed
+1660581128132,40.79,55.401,,line chart,single class juxtaposed
+1660581128132,86.31,59.922,,scatterplot,multi class juxtaposed
+1660581128132,47.12,81.261,,scatterplot,multi class,
+1660581128132,64.94,75.262,,scatterplot,single class juxtaposed
+1660581128132,44.97,78.13,,scatterplot,single class,
+1660658948253,136.15,42.47,,bar chart,multi class juxtaposed
+1660658948253,141.57,62.39,,bar chart,multi class,
+1660658948253,37.14,31.199,,bar chart,single class,
+1660658948253,31.67,4.754,,line chart,single class,
+1660658948253,53.14,46.289,,scatterplot,single class,
+1660658948253,64.24,53.213,,scatterplot,single class juxtaposed
+1660658948253,52.69,50.252,,line chart,single class juxtaposed
+1660658948253,79.35,45.449,,scatterplot,multi class juxtaposed
+1660658948253,16.58,9.889,,scatterplot,multi class,
+1660658948253,74.77,41.787,,bar chart,single class juxtaposed
+1660658948253,10.15,14.257,,line chart,multi class juxtaposed
+1660658948253,22.84,75.102,,line chart,multi class,
+1660588531345,182.52,165.381,,line chart,single class,
+1660588531345,209.48,80.233,,scatterplot,multi class juxtaposed
+1660588531345,161.07,46.933,,scatterplot,single class juxtaposed
+1660588531345,129.43,48.613,,scatterplot,single class,
+1660588531345,190.71,48.602,,scatterplot,multi class,
+1660588531345,144.75,50.948,,bar chart,single class,
+1660588531345,119.27,51.512,,line chart,single class juxtaposed
+1660588531345,153.54,33.136,,line chart,multi class,
+1660588531345,161.78,34.513,,bar chart,multi class,
+1660588531345,111.31,29.864,,line chart,multi class juxtaposed
+1660588531345,83.43,34.046,,bar chart,multi class juxtaposed
+1660588531345,104.29,46.062,,bar chart,single class juxtaposed
+1661184031268,131.38,79.117,,line chart,single class juxtaposed
+1661184031268,76.89,61.917,,line chart,single class,
+1661184031268,89.94,41.255,,scatterplot,multi class,
+1661184031268,84.15,40.105,,line chart,multi class,
+1661184031268,83.78,45.458,,line chart,multi class juxtaposed
+1661184031268,102.38,18.373,,scatterplot,multi class juxtaposed
+1661184031268,58.51,39.477,,scatterplot,single class juxtaposed
+1661184031268,77.03,36.316,,bar chart,single class juxtaposed
+1661184031268,77.10,12.815,,bar chart,single class,
+1661184031268,62.90,32.044,,scatterplot,single class,
+1661184031268,53.36,29.173,,bar chart,multi class,
+1661184031268,85.01,25.63,,bar chart,multi class juxtaposed
+1660841198901,129.28,56.336,,line chart,single class,
+1660841198901,65.67,72.032,,line chart,single class juxtaposed
+1660841198901,181.94,61.549,,scatterplot,single class,
+1660841198901,137.35,49.642,,line chart,multi class,
+1660841198901,189.02,67.909,,line chart,multi class juxtaposed
+1660841198901,142.95,56.268,,scatterplot,single class juxtaposed
+1660841198901,96.25,29.419,,bar chart,single class,
+1660841198901,103.92,37.302,,bar chart,single class juxtaposed
+1660841198901,98.93,41.051,,scatterplot,multi class juxtaposed
+1660841198901,115.00,36.262,,scatterplot,multi class,
+1660841198901,65.74,42.93,,bar chart,multi class,
+1660841198901,78.27,46.529,,bar chart,multi class juxtaposed
+1660584786851,45.07,334.271,,scatterplot,single class juxtaposed
+1660584786851,89.47,135.173,,line chart,multi class juxtaposed
+1660584786851,72.66,67.986,,scatterplot,single class,
+1660584786851,76.52,33.57,,line chart,single class,
+1660584786851,49.85,50.121,,line chart,multi class,
+1660584786851,51.19,53.274,,line chart,single class juxtaposed
+1660584786851,54.50,75.322,,bar chart,multi class juxtaposed
+1660584786851,69.52,62.006,,scatterplot,multi class,
+1660584786851,64.51,43.306,,scatterplot,multi class juxtaposed
+1660584786851,68.15,37.461,,bar chart,single class juxtaposed
+1660584786851,53.80,57.83,,bar chart,single class,
+1660584786851,72.44,56.294,,bar chart,multi class,
+1660247088905,120.85,62.818,,scatterplot,single class juxtaposed
+1660247088905,111.03,102.422,,bar chart,single class juxtaposed
+1660247088905,129.10,113.956,,bar chart,single class,
+1660247088905,113.15,101.708,,scatterplot,single class,
+1660247088905,126.59,39.931,,bar chart,multi class,
+1660247088905,94.14,29.988,,bar chart,multi class juxtaposed
+1660247088905,43.99,48.668,,line chart,multi class juxtaposed
+1660247088905,99.54,97.099,,scatterplot,multi class,
+1660247088905,76.32,64.815,,line chart,multi class,
+1660247088905,78.91,50.251,,scatterplot,multi class juxtaposed
+1660247088905,44.69,83.601,,line chart,single class,
+1660247088905,92.30,62.238,,line chart,single class juxtaposed
+1661200127978,219.52,84.979,,line chart,multi class,
+1661200127978,157.88,104.12,,line chart,single class,
+1661200127978,130.84,46.139,,scatterplot,single class,
+1661200127978,140.36,50.377,,line chart,single class juxtaposed
+1661200127978,128.51,58.116,,scatterplot,single class juxtaposed
+1661200127978,104.68,67.809,,line chart,multi class juxtaposed
+1661200127978,203.39,62.418,,scatterplot,multi class juxtaposed
+1661200127978,139.28,40.791,,scatterplot,multi class,
+1661200127978,135.87,38.449,,bar chart,single class juxtaposed
+1661200127978,127.12,32.378,,bar chart,single class,
+1661200127978,143.32,30.397,,bar chart,multi class juxtaposed
+1661200127978,188.35,40.896,,bar chart,multi class,
+1661445127232,48.83,54.823,,line chart,single class juxtaposed
+1661445127232,54.95,69.669,,line chart,single class,
+1661445127232,82.09,102.852,,bar chart,single class,
+1661445127232,88.18,52.538,,line chart,multi class,
+1661445127232,162.51,76.325,,scatterplot,single class juxtaposed
+1661445127232,160.55,91.729,,line chart,multi class juxtaposed
+1661445127232,96.56,45.611,,scatterplot,single class,
+1661445127232,92.13,87.772,,scatterplot,multi class,
+1661445127232,88.24,76.025,,bar chart,multi class juxtaposed
+1661445127232,70.74,57.533,,scatterplot,multi class juxtaposed
+1661445127232,90.14,40.307,,bar chart,single class juxtaposed
+1661445127232,50.59,44.289,,bar chart,multi class,
+1661454193086,250.86,67.595,,line chart,multi class,
+1661454193086,125.49,73.59,,scatterplot,single class juxtaposed
+1661454193086,119.25,39.378,,line chart,single class,
+1661454193086,151.59,62.139,,line chart,multi class juxtaposed
+1661454193086,126.13,77.963,,line chart,single class juxtaposed
+1661454193086,101.20,90.593,,bar chart,single class,
+1661454193086,86.86,74.185,,bar chart,multi class juxtaposed
+1661454193086,147.46,70.863,,scatterplot,multi class,
+1661454193086,112.95,54.936,,bar chart,multi class,
+1661454193086,80.56,46.442,,bar chart,single class juxtaposed
+1661454193086,107.40,82.252,,scatterplot,single class,
+1661454193086,116.52,69.568,,scatterplot,multi class juxtaposed
+1660941023991,246.00,116.413,,line chart,multi class,
+1660941023991,246.99,165.307,,line chart,multi class juxtaposed
+1660941023991,168.39,157.316,,bar chart,single class,
+1660941023991,148.03,90.401,,bar chart,single class juxtaposed
+1660941023991,57.24,123.213,,line chart,single class juxtaposed
+1660941023991,122.72,55.906,,line chart,single class,
+1660941023991,94.78,170.397,,bar chart,multi class juxtaposed
+1660941023991,193.00,126.757,,scatterplot,single class,
+1660941023991,109.60,139.076,,scatterplot,single class juxtaposed
+1660941023991,176.07,104.121,,scatterplot,multi class juxtaposed
+1660941023991,118.34,34.177,,scatterplot,multi class,
+1660941023991,142.85,60.618,,bar chart,multi class,
+1660325182099,200.00,178.69,,line chart,multi class juxtaposed
+1660325182099,116.78,172.1,,scatterplot,single class,
+1660325182099,123.61,71.699,,bar chart,single class juxtaposed
+1660325182099,127.74,123.888,,scatterplot,single class juxtaposed
+1660325182099,156.49,139.304,,line chart,multi class,
+1660325182099,175.70,135.001,,bar chart,multi class,
+1660325182099,126.21,148.656,,scatterplot,multi class juxtaposed
+1660325182099,84.95,70.717,,line chart,single class,
+1660325182099,369.45,138.227,,scatterplot,multi class,
+1660325182099,162.57,82.298,,line chart,single class juxtaposed
+1660325182099,77.98,26.038,,bar chart,single class,
+1660325182099,65.44,56.053,,bar chart,multi class juxtaposed
+1660676434152,177.62,173.989,,bar chart,multi class,
+1660676434152,113.68,74.735,,bar chart,single class,
+1660676434152,106.34,69.495,,line chart,single class juxtaposed
+1660676434152,163.82,112.151,,line chart,multi class,
+1660676434152,171.21,83.327,,bar chart,single class juxtaposed
+1660676434152,132.32,196.854,,scatterplot,single class juxtaposed
+1660676434152,117.65,122.824,,bar chart,multi class juxtaposed
+1660676434152,124.10,152.861,,line chart,single class,
+1660676434152,105.19,87.191,,scatterplot,single class,
+1660676434152,198.36,126.415,,line chart,multi class juxtaposed
+1660676434152,171.39,118.438,,scatterplot,multi class juxtaposed
+1660676434152,192.41,178.03,,scatterplot,multi class,
+1661881950008,218.33,170.441,,scatterplot,multi class juxtaposed
+1661881950008,158.18,69.59,,bar chart,single class juxtaposed
+1661881950008,239.47,84.841,,scatterplot,multi class,
+1661881950008,147.24,106.42,,line chart,single class juxtaposed
+1661881950008,147.18,52.511,,line chart,single class,
+1661881950008,170.69,63.801,,line chart,multi class juxtaposed
+1661881950008,167.94,119.962,,scatterplot,single class,
+1661881950008,109.38,93.269,,bar chart,single class,
+1661881950008,144.79,63.016,,line chart,multi class,
+1661881950008,127.07,30.533,,bar chart,multi class,
+1661881950008,151.52,75.374,,bar chart,multi class juxtaposed
+1661881950008,131.58,81.689,,scatterplot,single class juxtaposed
+1660933340055,100.00,90,,scatterplot,multi class,
+1660933340055,120.00,90,,scatterplot,multi class juxtaposed
+1660933340055,70.00,90,,scatterplot,single class,
+1660933340055,100.00,90,,scatterplot,single class juxtaposed
+1660933340055,100.00,90,,line chart,single class juxtaposed
+1660933340055,70.00,90,,line chart,single class,
+1660933340055,120.00,90,,line chart,multi class juxtaposed
+1660933340055,100.00,90,,line chart,multi class,
+1660933340055,100.00,90,,bar chart,multi class,
+1660933340055,120.00,90,,bar chart,multi class juxtaposed
+1660933340055,70.00,90,,bar chart,single class,
+1660933340055,100.00,90,,bar chart,single class juxtaposed
+1660316624423,297.25,92.055,,line chart,single class juxtaposed
+1660316624423,154.84,126.806,,line chart,single class,
+1660316624423,147.23,159.598,,scatterplot,single class juxtaposed
+1660316624423,129.60,99.197,,line chart,multi class,
+1660316624423,287.26,104.959,,bar chart,single class juxtaposed
+1660316624423,97.44,46.985,,bar chart,single class,
+1660316624423,179.00,69.144,,scatterplot,single class,
+1660316624423,222.42,260.356,,line chart,multi class juxtaposed
+1660316624423,288.09,61.331,,scatterplot,multi class,
+1660316624423,161.24,61.72,,scatterplot,multi class juxtaposed
+1660316624423,81.62,59.832,,bar chart,multi class juxtaposed
+1660316624423,199.73,59.94,,bar chart,multi class,
+1660251074864,112.70,109.744,,line chart,single class,
+1660251074864,154.96,96.808,,scatterplot,single class juxtaposed
+1660251074864,114.47,188.037,,scatterplot,multi class,
+1660251074864,177.59,89.624,,line chart,multi class juxtaposed
+1660251074864,141.14,203.563,,line chart,multi class,
+1660251074864,68.36,50.512,,bar chart,multi class,
+1660251074864,82.41,61.044,,bar chart,single class,
+1660251074864,111.73,44.513,,line chart,single class juxtaposed
+1660251074864,80.65,71.228,,bar chart,multi class juxtaposed
+1660251074864,52.75,93.177,,bar chart,single class juxtaposed
+1660251074864,145.93,68.581,,scatterplot,multi class juxtaposed
+1660251074864,80.69,46.413,,scatterplot,single class,
+1660330902972,297.16,210.991,,line chart,multi class juxtaposed
+1660330902972,139.33,91.751,,line chart,multi class,
+1660330902972,110.83,55.549,,line chart,single class,
+1660330902972,97.49,138.51,,scatterplot,multi class,
+1660330902972,100.18,58.12,,line chart,single class juxtaposed
+1660330902972,73.33,44.185,,bar chart,single class,
+1660330902972,76.98,57.401,,scatterplot,single class,
+1660330902972,103.48,38.355,,scatterplot,single class juxtaposed
+1660330902972,117.04,41.553,,scatterplot,multi class juxtaposed
+1660330902972,85.84,44.06,,bar chart,multi class,
+1660330902972,96.79,98.467,,bar chart,single class juxtaposed
+1660330902972,111.46,49.297,,bar chart,multi class juxtaposed
+1660254762177,145.53,139.023,,line chart,single class,
+1660254762177,248.34,63.742,,bar chart,multi class,
+1660254762177,176.12,95.217,,line chart,single class juxtaposed
+1660254762177,105.68,59.65,,line chart,multi class,
+1660254762177,209.74,67.765,,line chart,multi class juxtaposed
+1660254762177,162.35,42.725,,scatterplot,multi class,
+1660254762177,121.67,53.647,,bar chart,multi class juxtaposed
+1660254762177,143.74,56.507,,bar chart,single class,
+1660254762177,87.95,36.179,,scatterplot,single class juxtaposed
+1660254762177,196.11,70.544,,bar chart,single class juxtaposed
+1660254762177,81.72,96.692,,scatterplot,single class,
+1660254762177,167.64,91.346,,scatterplot,multi class juxtaposed
