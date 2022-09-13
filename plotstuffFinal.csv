@@ -1,0 +1,69 @@
+,chart_type,design_type,count_type,count
+0,line chart,single class non-juxtaposed,2,8.0
+1,scatterplot,single class juxtaposed,3,9.0
+2,scatterplot,multi class non-juxtaposed,3,10.0
+3,line chart,multi class juxtaposed,2,10.0
+4,line chart,multi class non-juxtaposed,3,9.0
+5,bar chart,multi class non-juxtaposed,2,11.0
+6,bar chart,single class non-juxtaposed,3,6.0
+7,line chart,single class juxtaposed,2,9.0
+8,bar chart,multi class juxtaposed,2,12.0
+9,bar chart,single class juxtaposed,2,7.0
+10,scatterplot,multi class juxtaposed,3,10.0
+11,scatterplot,single class non-juxtaposed,2,9.0
+12,line chart,multi class non-juxtaposed,1,6.0
+13,line chart,single class non-juxtaposed,1,6.0
+14,scatterplot,multi class non-juxtaposed,1,5.0
+15,line chart,single class juxtaposed,1,3.0
+16,bar chart,single class non-juxtaposed,1,4.0
+17,scatterplot,single class non-juxtaposed,1,5.0
+18,scatterplot,single class juxtaposed,1,7.0
+19,scatterplot,multi class juxtaposed,1,3.0
+20,bar chart,multi class non-juxtaposed,1,2.0
+21,bar chart,single class juxtaposed,1,4.0
+22,bar chart,multi class juxtaposed,1,2.0
+23,line chart,multi class juxtaposed,1,3.0
+24,line chart,single class non-juxtaposed,3,6.0
+25,bar chart,single class non-juxtaposed,4,5.0
+26,bar chart,single class juxtaposed,3,9.0
+27,bar chart,multi class juxtaposed,3,6.0
+28,line chart,single class juxtaposed,4,3.0
+29,scatterplot,multi class non-juxtaposed,4,3.0
+30,scatterplot,single class juxtaposed,2,7.0
+31,scatterplot,single class non-juxtaposed,3,7.0
+32,line chart,multi class juxtaposed,3,6.0
+33,line chart,multi class non-juxtaposed,2,4.0
+34,scatterplot,multi class juxtaposed,2,7.0
+35,bar chart,single class non-juxtaposed,2,8.0
+36,line chart,single class juxtaposed,3,7.0
+37,bar chart,multi class non-juxtaposed,4,2.0
+38,line chart,multi class juxtaposed,4,2.0
+39,line chart,multi class non-juxtaposed,5,1.0
+40,bar chart,multi class non-juxtaposed,3,6.0
+41,bar chart,single class juxtaposed,4,3.0
+42,bar chart,single class non-juxtaposed,0,1.0
+43,scatterplot,single class non-juxtaposed,0,1.0
+44,bar chart,multi class non-juxtaposed,0,1.0
+45,line chart,multi class juxtaposed,0,1.0
+46,scatterplot,multi class non-juxtaposed,0,2.0
+47,line chart,multi class non-juxtaposed,0,1.0
+48,scatterplot,multi class juxtaposed,0,1.0
+49,line chart,single class non-juxtaposed,0,1.0
+50,line chart,single class juxtaposed,0,1.0
+51,scatterplot,multi class non-juxtaposed,2,4.0
+52,bar chart,single class juxtaposed,0,1.0
+53,bar chart,multi class non-juxtaposed,6,1.0
+54,line chart,single class non-juxtaposed,4,2.0
+55,bar chart,multi class juxtaposed,4,2.0
+56,line chart,multi class non-juxtaposed,4,3.0
+57,scatterplot,multi class juxtaposed,4,2.0
+58,scatterplot,single class non-juxtaposed,4,2.0
+59,scatterplot,single class juxtaposed,4,1.0
+60,bar chart,multi class juxtaposed,5,1.0
+61,line chart,single class non-juxtaposed,5,1.0
+62,line chart,single class juxtaposed,5,1.0
+63,bar chart,multi class non-juxtaposed,5,1.0
+64,scatterplot,multi class juxtaposed,5,1.0
+65,line chart,multi class juxtaposed,5,1.0
+66,bar chart,multi class juxtaposed,0,1.0
+67,line chart,multi class juxtaposed,7,1.0
